@@ -616,3 +616,6 @@ D:\Users\Carl\Visual Studio\Projects\RemotePotatoServer\GitHub\RemotePotatoUI\ob
 D:\Users\Carl\Visual Studio\Projects\RemotePotatoServer\GitHub\RemotePotatoUI\obj\Release\RemotePotatoUI.csproj.GenerateResource.Cache
 D:\Users\Carl\Visual Studio\Projects\RemotePotatoServer\GitHub\RemotePotatoUI\obj\Release\RemotePotatoUI.exe
 D:\Users\Carl\Visual Studio\Projects\RemotePotatoServer\GitHub\RemotePotatoUI\obj\Release\RemotePotatoUI.pdb
+D:\Users\Carl\Visual Studio\Projects\RemotePotatoGitHub\remotepotato\RemotePotatoUI\bin\Release\RemotePotatoUI.exe.config
+D:\Users\Carl\Visual Studio\Projects\RemotePotatoGitHub\remotepotato\RemotePotatoUI\obj\Release\RemotePotatoUI.exe
+D:\Users\Carl\Visual Studio\Projects\RemotePotatoGitHub\remotepotato\RemotePotatoUI\obj\Release\RemotePotatoUI.pdb
