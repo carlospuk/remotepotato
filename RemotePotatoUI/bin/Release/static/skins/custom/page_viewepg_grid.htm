@@ -1,0 +1,16 @@
+﻿<!-- DISPLAY THE EPG AS A GRID -->
+<form id="epggridform" name="form_viewepg" action="viewepggrid" method="get">
+<!-- THESE PLACEHOLDERS INSERT THE DROPDOWN COMBOBOXES FOR EPG GRID NAVIGATION -->
+**EPGDATEDROPDOWN** **EPGCENTERTIMEDROPDOWN**
+<input type="hidden" name="epggridchannelindex" value="**EPGGRIDCHANNELINDEX**" />
+<input type="submit" value="Go" />
+</form>
+<!-- THIS PLACEHOLDER INSERTS THE ACTUAL EPG GRID, IF AVAILABLE -->
+**EPGGRID**
+<div id="epggridskiplinks">
+<a href="/epgnavtop">Skip to top </a> |
+<a href="/epgnavbottom">Skip to bottom </a> |
+Page **EPGPAGEJUMPLINKS**
+</div>
+<!-- REMOVE THIS LINK IF YOU DO NOT WANT THE OPTION TO VIEW EPG AS A LIST -->
+<br /><a href="/viewepglist">View as list</a>

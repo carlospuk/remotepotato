@@ -1,0 +1,18 @@
+﻿<form id="searchshowbytitle" action="searchbytitle" method="get">
+Look for shows where: 
+<br />
+<select name="epgsearchtexttype">
+<option value="Title" selected="selected">Title</option>
+<option value="TitleAndEpisodeTitle">Title and episode title</option>
+<option value="TitlesAndDescription">Titles and description</option>
+<!--<option value="Credits">Credits</option>-->
+<option value="AllTextFields">All text fields</option>
+</select>
+<select name="epgsearchmatchtype">
+<option value="StartsWith" selected="selected">starts with</option>
+<option value="Contains">contains</option>
+<option value="ExactMatch">is</option>
+</select>
+<input type="text" name="searchtitle" size="12" value="**SEARCHTITLE**" />
+<input type="submit" value="Find" />
+</form>

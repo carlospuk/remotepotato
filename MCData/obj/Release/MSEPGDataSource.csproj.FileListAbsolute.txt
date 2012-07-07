@@ -1,0 +1,7 @@
+C:\Users\carl\Visual Studio\Projects\MSEPGDataSource\MSEPGDataSource\bin\Release\MSEPGDataProvider.dll
+C:\Users\carl\Visual Studio\Projects\MSEPGDataSource\MSEPGDataSource\bin\Release\MSEPGDataProvider.pdb
+C:\Users\carl\Visual Studio\Projects\MSEPGDataSource\MSEPGDataSource\bin\Release\CommonEPG.dll
+C:\Users\carl\Visual Studio\Projects\MSEPGDataSource\MSEPGDataSource\bin\Release\CommonEPG.pdb
+C:\Users\carl\Visual Studio\Projects\MSEPGDataSource\MSEPGDataSource\obj\Release\ResolveAssemblyReference.cache
+C:\Users\carl\Visual Studio\Projects\MSEPGDataSource\MSEPGDataSource\obj\Release\MSEPGDataProvider.dll
+C:\Users\carl\Visual Studio\Projects\MSEPGDataSource\MSEPGDataSource\obj\Release\MSEPGDataProvider.pdb

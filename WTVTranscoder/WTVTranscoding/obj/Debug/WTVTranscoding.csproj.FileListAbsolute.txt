@@ -1,0 +1,15 @@
+C:\Users\carl\Visual Studio\Projects\WTVTranscoding\Current Solution\WTVTranscoding\bin\Debug\WTVTranscoding.exe
+C:\Users\carl\Visual Studio\Projects\WTVTranscoding\Current Solution\WTVTranscoding\bin\Debug\WTVTranscoding.pdb
+C:\Users\carl\Visual Studio\Projects\WTVTranscoding\Current Solution\WTVTranscoding\bin\Debug\WTVTranscoder.dll
+C:\Users\carl\Visual Studio\Projects\WTVTranscoding\Current Solution\WTVTranscoding\bin\Debug\WTVTranscoder.pdb
+C:\Users\carl\Visual Studio\Projects\WTVTranscoding\Current Solution\WTVTranscoding\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\carl\Visual Studio\Projects\WTVTranscoding\Current Solution\WTVTranscoding\obj\Debug\WTVTranscoding.csproj.ResolveComReference.cache
+C:\Users\carl\Visual Studio\Projects\WTVTranscoding\Current Solution\WTVTranscoding\obj\Debug\WTVTranscoding.Form1.resources
+C:\Users\carl\Visual Studio\Projects\WTVTranscoding\Current Solution\WTVTranscoding\obj\Debug\WTVTranscoding.Properties.Resources.resources
+C:\Users\carl\Visual Studio\Projects\WTVTranscoding\Current Solution\WTVTranscoding\obj\Debug\WTVTranscoding.exe
+C:\Users\carl\Visual Studio\Projects\WTVTranscoding\Current Solution\WTVTranscoding\obj\Debug\WTVTranscoding.pdb
+C:\Users\carl\Visual Studio\Projects\WTVTranscoding\Current Solution\WTVTranscoding\bin\Debug\DirectShowLib-2005.dll
+C:\Users\carl\Visual Studio\Projects\WTVTranscoding\Current Solution\WTVTranscoding\bin\Debug\WindowsMediaLib.dll
+C:\Users\carl\Visual Studio\Projects\WTVTranscoding\Current Solution\WTVTranscoding\bin\Debug\WTVTranscoding.exe.config
+C:\Users\carl\Visual Studio\Projects\WTVTranscoding\Current Solution\WTVTranscoding\obj\Debug\GenerateResource.read.1.tlog
+C:\Users\carl\Visual Studio\Projects\WTVTranscoding\Current Solution\WTVTranscoding\obj\Debug\GenerateResource.write.1.tlog

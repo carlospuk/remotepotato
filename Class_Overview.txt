@@ -1,0 +1,72 @@
+Description of Project Files
+
+RemotePotatoUI
+This is the WinForms GUI application that runs on the host PC; it allows the user to change settings and configure the server.
+
+RemotePotatoService
+This is the actual service that runs on the host PC.
+There’s not much in here, it’s a helper parent class that, when running, begins executing the code within the RPServer assembly.  By separating out the service from the assembly in this way, it is easier to debug RPServer as RPServer can be launched by itself and a debugger more easily attached.  (there are dedicated GUI buttons to do this within RemotePotatoUI)
+
+RPServer
+This is the main workhorse of Remote Potato. It is run as a service on the host PC.  It opens up a listening port and receives/responds to HTTP requests to stream data and media. 
+Note that this assembly depends upon many of the other assemblies, such as CommonEPG, MediaStreamer, WTVTranscoder, ShellUtilities, RemotePotatoSettings and InputSimulator.
+
+RemotePotatoSettings
+This assembly holds all the app settings information – it is referenced by both RPServer and RemotePotatoUI.  
+
+RPKeySender
+This is the ‘remote control simulation’ app.
+
+MediaStreamer
+This assembly is responsible for all the HTTP Live Streaming.  
+Note that it is basically a massive wrapper around a custom build of ffmpeg.exe – it launches ffmpeg.exe with the correctly-configured command line, then manages the various chunked output files as they appear.
+The source code for this build of ffmpeg.exe should also be on this GitHub repository; it needs to be built under Linux.
+
+WTVTranscoder
+This assembly is responsible for all the older Windows MS-WMSP Streaming of WTV files.  Includes code fragments from Stephen Toub and DVRMSToolbox.
+Note this has dependencies DirectShowLib.dll and WindowsMediaLib.dll
+
+
+ShellUtilities
+This assembly uses the newer Microsoft API codec pack to perform handy tasks on the host PC such as getting icons for files.
+Note that this has several de
+
+CommonEPG
+This assembly contains the data model for the various Media Centre classes relating to TV Services, Recordings, and so on.  
+
+MSEPG
+This assembly contains the lower-level methods to hook into the WMC database of schedule information; retrieve scheduled recordings, EPG guide data and schedule recordings.  Note that many of the methods here are completely undocumented and obtained via trial and error reverse-engineering of the existing eHome class library .NET files.
+
+RemotePotatoSetup
+A Visual studio setup and deployment project; copies all the right stuff into the right places.  Required files that could be easily missed are:
+- Files from the ‘toolkit’ folder of the RemotePotatoUI project, such as ffmpeg.exe – without these, streaming will not work.  These are built as ‘Content’ files within the project.
+- Files from the ‘static’ folder of the RPServer project; these form the content of Remote Potato’s in-built web server and Silverlight files.
+- Various dependencies, see below.
+
+Also note that there is a readme file to explain how to properly mask the text in the password box once the MSI file is built.
+
+
+Other dependencies
+
+Ionic.Zip.Reduced.dll
+Ionic zip library for compressing data when sending out from web server.
+
+WMPLib
+Found at c:\windows\system32\wmp.dll – interfaces with Windows Media Player library on host PC to get music, album and song information.  
+
+InputSimulator
+A class by Michael Noonan, used to help with the IR Sender application by simulating keypresses.
+
+RPSecuritySet.exe
+A helper class that sets up the host PC security to counter issues which can prevent the HTTP server operating correctly.
+
+DirectShowLib / WindowsMediaLib
+These are used by the WTVTranscoder project
+
+Microsoft.Windows.APICodecPack
+This is used by the ShellUtilities class to leverage native system API calls to get explorer icons and similar items.  Note that there are separate libraries for Debug and Release builds; I’m afraid the reason why is forgotten – it’s probably wise to use the right ones though.
+
+UltraID3Lib
+This is used by the ShellUtilities project to read/write mp3 tag information
+
+

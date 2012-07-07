@@ -1,0 +1,4 @@
+﻿Default Theme
+By Remote Potato
+
+The standard blue, WMC-style theme, optimised for desktop browsers.

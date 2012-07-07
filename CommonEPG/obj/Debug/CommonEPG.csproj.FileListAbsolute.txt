@@ -1,0 +1,5 @@
+C:\Users\carl\Visual Studio\Projects\CommonEPG\bin\Debug\CommonEPG.dll
+C:\Users\carl\Visual Studio\Projects\CommonEPG\bin\Debug\CommonEPG.pdb
+C:\Users\carl\Visual Studio\Projects\CommonEPG\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\carl\Visual Studio\Projects\CommonEPG\obj\Debug\CommonEPG.dll
+C:\Users\carl\Visual Studio\Projects\CommonEPG\obj\Debug\CommonEPG.pdb

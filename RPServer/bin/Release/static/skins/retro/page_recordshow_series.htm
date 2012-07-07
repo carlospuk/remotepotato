@@ -1,0 +1,22 @@
+﻿<div id="recordseriesoptions">
+<form id="recordseries" action="recordshow_series" method="get">
+Record this show: 
+<select name="allowalternateoptions">
+<option value="1" selected="selected">at any time on this channel</option>
+<option value="2">at any time on any channel</option>
+</select>
+<br />
+Keep until:
+<select name="keepuntil">
+<option value="0" selected="selected">Keep until I delete it.</option>
+<option value="-2">Keep until I watch it.</option>
+<option value="-1">Keep until space is needed.</option>
+<option value="-3">Keep the latest few recordings.</option>
+</select>
+<br /><br />
+<input type="checkbox" name="firstrunonly" value="true" />Don't include repeats
+<br /><br />
+<input type="hidden" name="queueid" value="**QUEUEID**" />
+<input type="submit" value="Record Series" />
+</form> 
+</div>

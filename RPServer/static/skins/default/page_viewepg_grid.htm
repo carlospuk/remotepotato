@@ -1,0 +1,26 @@
+﻿<!-- Landscape page, so override defaults for container and headerbox -->
+<!-- PAGEORIENTATION=LANDSCAPE -->
+<style>
+    #container{ width: 790px; }
+    #headerbox{ width: 798px; }
+</style>
+<!-- FUNCTION TO CENTRE CHANNEL LOGOS -->
+<div id="toggleepgtype">
+<a href="/viewepglist">View List</a>
+</div>
+<form id="epggridform" name="form_viewepg" action="viewepggrid" method="get">
+**EPGDATEDROPDOWN**
+**EPGCENTERTIMEDROPDOWN**
+<input type="hidden" name="epggridchannelindex" value="**EPGGRIDCHANNELINDEX**" />
+<input type="submit" value="Go" />
+<div id="epgjumptonow"><a href="/viewepggrid">Now</a></div>
+</form>
+**EPGGRID**
+<div id="epggridskiplinks">
+<a href="/epgnavtop">Skip to top </a> |
+<a href="/epgnavbottom">Skip to bottom </a> |
+Page **EPGPAGEJUMPLINKS**
+</div>
+<div id="epggridhint">
+Hint: Hover mouse for info
+</div>

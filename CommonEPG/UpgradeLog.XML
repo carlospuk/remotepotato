@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="CommonEPG">
+</Property><Property Name="Solution File" Value="C:\Users\carl\Visual Studio\Projects\CommonEPG\CommonEPG.sln">
+</Property><Property Name="User Options File" Value="C:\Users\carl\Visual Studio\Projects\CommonEPG\CommonEPG.suo">
+</Property><Property Name="Date" Value="18 December 2010">
+</Property><Property Name="Time" Value="20:47">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="CommonEPG.sln" Description="File successfully backed up as C:\Users\carl\Visual Studio\Projects\CommonEPG\Backup\CommonEPG.sln">
+</Event><Event ErrorLevel="0" Project="" Source="CommonEPG.suo" Description="File successfully backed up as C:\Users\carl\Visual Studio\Projects\CommonEPG\Backup\CommonEPG.suo">
+</Event><Event ErrorLevel="0" Project="CommonEPG" Source="CommonEPG.csproj" Description="Project file successfully backed up as C:\Users\carl\Visual Studio\Projects\CommonEPG\Backup\CommonEPG.csproj">
+</Event><Event ErrorLevel="0" Project="CommonEPG" Source="Classes\Comparers\MusicComparers.cs" Description="File successfully backed up as C:\Users\carl\Visual Studio\Projects\CommonEPG\Backup\Classes\Comparers\MusicComparers.cs">
+</Event><Event ErrorLevel="0" Project="CommonEPG" Source="Classes\EPG\EPGRequest.cs" Description="File successfully backed up as C:\Users\carl\Visual Studio\Projects\CommonEPG\Backup\Classes\EPG\EPGRequest.cs">
+</Event><Event ErrorLevel="0" Project="CommonEPG" Source="Classes\EPG\TVProgrammeInfoBlob.cs" Description="File successfully backed up as C:\Users\carl\Visual Studio\Projects\CommonEPG\Backup\Classes\EPG\TVProgrammeInfoBlob.cs">
+</Event><Event ErrorLevel="0" Project="CommonEPG" Source="Classes\EPG\TVProgrammeCrew.cs" Description="File successfully backed up as C:\Users\carl\Visual Studio\Projects\CommonEPG\Backup\Classes\EPG\TVProgrammeCrew.cs">
+</Event><Event ErrorLevel="0" Project="CommonEPG" Source="Classes\EventArgs\CustomEventArgs.cs" Description="File successfully backed up as C:\Users\carl\Visual Studio\Projects\CommonEPG\Backup\Classes\EventArgs\CustomEventArgs.cs">
+</Event><Event ErrorLevel="0" Project="CommonEPG" Source="Classes\Files\BrowseItem.cs" Description="File successfully backed up as C:\Users\carl\Visual Studio\Projects\CommonEPG\Backup\Classes\Files\BrowseItem.cs">
+</Event><Event ErrorLevel="0" Project="CommonEPG" Source="Classes\Files\FileBrowseRequest.cs" Description="File successfully backed up as C:\Users\carl\Visual Studio\Projects\CommonEPG\Backup\Classes\Files\FileBrowseRequest.cs">
+</Event><Event ErrorLevel="0" Project="CommonEPG" Source="Classes\Files\FileBrowseResult.cs" Description="File successfully backed up as C:\Users\carl\Visual Studio\Projects\CommonEPG\Backup\Classes\Files\FileBrowseResult.cs">
+</Event><Event ErrorLevel="0" Project="CommonEPG" Source="Classes\Music\RPMusicGenre.cs" Description="File successfully backed up as C:\Users\carl\Visual Studio\Projects\CommonEPG\Backup\Classes\Music\RPMusicGenre.cs">
+</Event><Event ErrorLevel="0" Project="CommonEPG" Source="Classes\Music\RPMusicPlaylist.cs" Description="File successfully backed up as C:\Users\carl\Visual Studio\Projects\CommonEPG\Backup\Classes\Music\RPMusicPlaylist.cs">
+</Event><Event ErrorLevel="0" Project="CommonEPG" Source="Classes\Music\RPMusicCollection.cs" Description="File successfully backed up as C:\Users\carl\Visual Studio\Projects\CommonEPG\Backup\Classes\Music\RPMusicCollection.cs">
+</Event><Event ErrorLevel="0" Project="CommonEPG" Source="Classes\Music\RPMusicBlob.cs" Description="File successfully backed up as C:\Users\carl\Visual Studio\Projects\CommonEPG\Backup\Classes\Music\RPMusicBlob.cs">
+</Event><Event ErrorLevel="0" Project="CommonEPG" Source="Classes\Music\RPMusicAlbum.cs" Description="File successfully backed up as C:\Users\carl\Visual Studio\Projects\CommonEPG\Backup\Classes\Music\RPMusicAlbum.cs">
+</Event><Event ErrorLevel="0" Project="CommonEPG" Source="Classes\Music\RPMusicArtist.cs" Description="File successfully backed up as C:\Users\carl\Visual Studio\Projects\CommonEPG\Backup\Classes\Music\RPMusicArtist.cs">
+</Event><Event ErrorLevel="0" Project="CommonEPG" Source="Classes\Music\RPMusicSong.cs" Description="File successfully backed up as C:\Users\carl\Visual Studio\Projects\CommonEPG\Backup\Classes\Music\RPMusicSong.cs">
+</Event><Event ErrorLevel="0" Project="CommonEPG" Source="Classes\Pictures\RPPictureBatch.cs" Description="File successfully backed up as C:\Users\carl\Visual Studio\Projects\CommonEPG\Backup\Classes\Pictures\RPPictureBatch.cs">
+</Event><Event ErrorLevel="0" Project="CommonEPG" Source="Classes\Pictures\RPPictureItem.cs" Description="File successfully backed up as C:\Users\carl\Visual Studio\Projects\CommonEPG\Backup\Classes\Pictures\RPPictureItem.cs">
+</Event><Event ErrorLevel="0" Project="CommonEPG" Source="Classes\Recordings\Scheduling\RecordingRequest.cs" Description="File successfully backed up as C:\Users\carl\Visual Studio\Projects\CommonEPG\Backup\Classes\Recordings\Scheduling\RecordingRequest.cs">
+</Event><Event ErrorLevel="0" Project="CommonEPG" Source="Classes\Recordings\Scheduling\RecordingResult.cs" Description="File successfully backed up as C:\Users\carl\Visual Studio\Projects\CommonEPG\Backup\Classes\Recordings\Scheduling\RecordingResult.cs">
+</Event><Event ErrorLevel="0" Project="CommonEPG" Source="Classes\Enums\MCEnums.cs" Description="File successfully backed up as C:\Users\carl\Visual Studio\Projects\CommonEPG\Backup\Classes\Enums\MCEnums.cs">
+</Event><Event ErrorLevel="0" Project="CommonEPG" Source="Classes\Enums\SearchEnums.cs" Description="File successfully backed up as C:\Users\carl\Visual Studio\Projects\CommonEPG\Backup\Classes\Enums\SearchEnums.cs">
+</Event><Event ErrorLevel="0" Project="CommonEPG" Source="Classes\Recordings\RPRecording.cs" Description="File successfully backed up as C:\Users\carl\Visual Studio\Projects\CommonEPG\Backup\Classes\Recordings\RPRecording.cs">
+</Event><Event ErrorLevel="0" Project="CommonEPG" Source="Classes\EPG\TVMovie.cs" Description="File successfully backed up as C:\Users\carl\Visual Studio\Projects\CommonEPG\Backup\Classes\EPG\TVMovie.cs">
+</Event><Event ErrorLevel="0" Project="CommonEPG" Source="Classes\Recordings\Scheduling\RPRecordingsBlob.cs" Description="File successfully backed up as C:\Users\carl\Visual Studio\Projects\CommonEPG\Backup\Classes\Recordings\Scheduling\RPRecordingsBlob.cs">
+</Event><Event ErrorLevel="0" Project="CommonEPG" Source="Classes\Recordings\RPRequest.cs" Description="File successfully backed up as C:\Users\carl\Visual Studio\Projects\CommonEPG\Backup\Classes\Recordings\RPRequest.cs">
+</Event><Event ErrorLevel="0" Project="CommonEPG" Source="Classes\Comparers\RPRequestComparers.cs" Description="File successfully backed up as C:\Users\carl\Visual Studio\Projects\CommonEPG\Backup\Classes\Comparers\RPRequestComparers.cs">
+</Event><Event ErrorLevel="0" Project="CommonEPG" Source="Classes\Comparers\RPRecordingComparers.cs" Description="File successfully backed up as C:\Users\carl\Visual Studio\Projects\CommonEPG\Backup\Classes\Comparers\RPRecordingComparers.cs">
+</Event><Event ErrorLevel="0" Project="CommonEPG" Source="Classes\Comparers\TVProgrammeComparers.cs" Description="File successfully backed up as C:\Users\carl\Visual Studio\Projects\CommonEPG\Backup\Classes\Comparers\TVProgrammeComparers.cs">
+</Event><Event ErrorLevel="0" Project="CommonEPG" Source="Classes\Comparers\TVServiceNumberComparer.cs" Description="File successfully backed up as C:\Users\carl\Visual Studio\Projects\CommonEPG\Backup\Classes\Comparers\TVServiceNumberComparer.cs">
+</Event><Event ErrorLevel="0" Project="CommonEPG" Source="Properties\AssemblyInfo.cs" Description="File successfully backed up as C:\Users\carl\Visual Studio\Projects\CommonEPG\Backup\Properties\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="CommonEPG" Source="Classes\EventArgs\DebugReportEventArgs.cs" Description="File successfully backed up as C:\Users\carl\Visual Studio\Projects\CommonEPG\Backup\Classes\EventArgs\DebugReportEventArgs.cs">
+</Event><Event ErrorLevel="0" Project="CommonEPG" Source="Classes\EPG\TVService.cs" Description="File successfully backed up as C:\Users\carl\Visual Studio\Projects\CommonEPG\Backup\Classes\EPG\TVService.cs">
+</Event><Event ErrorLevel="0" Project="CommonEPG" Source="Classes\EPG\TVProgramme.cs" Description="File successfully backed up as C:\Users\carl\Visual Studio\Projects\CommonEPG\Backup\Classes\EPG\TVProgramme.cs">
+</Event><Event ErrorLevel="0" Project="CommonEPG" Source="DateRange.cs" Description="File successfully backed up as C:\Users\carl\Visual Studio\Projects\CommonEPG\Backup\DateRange.cs">
+</Event><Event ErrorLevel="0" Project="CommonEPG" Source="CommonEPGKeyFile.pfx" Description="File successfully backed up as C:\Users\carl\Visual Studio\Projects\CommonEPG\Backup\CommonEPGKeyFile.pfx">
+</Event><Event ErrorLevel="0" Project="CommonEPG" Source="DevLog.txt" Description="File successfully backed up as C:\Users\carl\Visual Studio\Projects\CommonEPG\Backup\DevLog.txt">
+</Event><Event ErrorLevel="0" Project="CommonEPG" Source="CommonEPG.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="CommonEPG" Source="CommonEPG.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="CommonEPG.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="CommonEPG.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="CommonEPG" Source="CommonEPG.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event></UpgradeLog>

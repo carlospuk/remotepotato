@@ -1,0 +1,147 @@
+﻿/*
+=============================
+Remote Potato - Show Details
+(C)2010 FatAttitude
+=============================
+*/
+/*
+ AN EXPANDABLE BOX, EFFECTIVELY HIDDEN IF NO CONTENT
+*/
+.showproperties
+{
+    font-family: Arial;
+    font-size: 1.0em;
+    color: #FFFFFF;
+    margin-bottom: 14px;
+    margin-top: 1px;
+    width: 350px;
+}
+.showtitlecontainer
+{
+    margin-bottom: 2px;
+    margin-top: 5px;
+}
+.showtitle
+{
+    font-size: 1.4em;
+    font-weight: Bold;
+    display: inline;
+}
+.showepisodetitle
+{
+    font-size: 1.1em;
+    display: inline;
+}
+.showprogrammetype
+{
+    width: 0px;
+    height: 0px;
+    overflow: visible;
+    display: inline;
+}
+img.showprogrammetypeimg
+{
+    margin-left: 5px;
+    display: inline;
+    vertical-align: middle;
+}
+img.showthumbnail
+{
+    width: 140px;
+    border: solid 1px #CCCCEE;
+}
+img.showchannellogo
+{
+    margin-left: -55px;
+    margin-bottom: 5px;
+}
+.showchannel
+{
+	font-size: 1.05em;
+}
+.showstarttime
+{
+	font-size: 1.05em;
+	margin-bottom: 5px;
+}
+.showdescription
+{
+	font-size: 0.9em;
+	color: #DDFFDD;
+	margin-top: 5px;
+	margin-bottom: 5px;
+}
+.showoriginalairdate
+{
+	font-size: 0.8em;
+	color: #DDDDDD;
+}
+.showrecordingdetails
+{
+	font-size: 0.7em;
+	color: #CCCCCC;
+}
+.showrecordingdetails
+{
+	font-size: 0.7em;
+	color: #CCCCCC;
+}
+.showinformation
+{
+	font-size: 0.85em;
+	font-style: italic;
+	color: #DD88AA;
+}
+.showratings
+{
+    display: block;
+    margin-top: -4px;
+}
+.showstarrating
+{
+    display: inline;
+}
+.showguidancerating
+{
+    display: inline;
+}
+.showstreamlink
+{
+	font-size: 0.85em;
+	color: #DDDDFF;
+}
+.showstarrating_star_on
+{
+    display: block;
+    float: left;
+    width: 16px;
+    height: 16px;    
+    background-image: url('/static/images/starOn.png');
+    background-position: top left;
+    background-repeat: no-repeat;
+}
+.showstarrating_star_off
+{
+    display: block;
+    float: left;
+    width: 16px;
+    height: 16px;    
+    background-image: url('/static/images/starOff.png');
+    background-position: top left;
+    background-repeat: no-repeat;
+}
+.showstarrating_star_half
+{
+    display: block;
+    float: left;
+    width: 16px;
+    height: 16px;    
+    background-image: url('/static/images/starHalf.png');
+    background-position: top left;
+    background-repeat: no-repeat;
+}
+.showstarrating_endstars
+{
+    display: block;
+    clear: both;
+}

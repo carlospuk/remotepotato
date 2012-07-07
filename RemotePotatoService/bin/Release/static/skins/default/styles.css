@@ -1,0 +1,282 @@
+﻿/*
+=============================
+Remote Potato - Main Styles
+Theme:  Default
+(C)2010 C Partridge
+=============================
+*/
+body
+{
+    background-color:  #101057;
+    background-image: url('/skin/images/background.jpg');
+    font-family: Helvetica, Verdana, Arial, Sans-Serif;
+    font-size: 1.0em;
+    color: #FFFFFF;
+    margin-left: 5px;
+    margin-right: 5px;
+    margin-top: 5px;
+    margin-bottom: 5px;
+    padding: 0px;
+    width: 100%;
+}
+#headerbox
+{
+	-moz-border-radius: 5px;
+	-webkit-border-radius: 5px;
+    border: none;
+    padding: 0px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 4px;
+    width: 375px;
+    height: 20px;
+    overflow: hidden;
+}
+#headerbox img
+{
+    border: none;
+}
+#footerbox
+{
+	margin-top: 3px;
+    margin-left: auto;
+    margin-right: auto;
+    width: 350px;
+    height: 20px;
+    overflow: hidden;
+}
+.footertext
+{
+	font-size: 0.7em;
+	color: #CCCCCC;
+	font-style: Italic;
+	text-align: center;
+}
+#container
+{
+	-moz-border-radius: 5px;
+	-webkit-border-radius: 5px;
+    border: solid 1px white;
+    padding: 5px;
+    margin-left: auto;
+    margin-right: auto;
+    width: 360px;
+    overflow: hidden;
+    background-image: url('/skin/images/transparentgray40.png');
+}
+a 
+{
+	color: #DDDD33;
+	text-decoration: none;
+	border: none;
+}
+a:hover
+{
+	color: #FFFF66;
+	text-decoration: underline;
+	border: none;
+}
+p.heading
+{
+	font-size: 1.25em;
+	color :#FFFFFF;
+}
+div.pagetitle
+{
+	font-weight: Bold;
+	font-size: 1.4em;
+	color: #FFFFDD;
+	margin-bottom: 20px;
+}
+div.header A:link
+{
+    text-decoration: none;
+    color: #FFFFDD;
+}
+div.header A:hover
+{
+    color: #FFFFFF;
+}
+p.recorderror
+{
+	font-size: 1.1em;
+	color :#FF4444;
+}
+p.recordfailure
+{
+	font-size: 0.9em;
+	color :#FF6666;
+}
+p.recordsuccess
+{
+	color :#66FF66;
+	font-size: 0.9em;
+}
+table.formadvanced
+{
+	font-size: 0.85em;
+	color :#DDDDDD;
+}
+#mainmenu
+{
+}
+ul
+{
+    margin-top: 2px;
+    list-style-type: square;
+}
+ul.scheduledrecordingdaygroup
+{
+    margin-top: 2px;
+}
+.upcomingwillrecord
+{
+	color: #55FF77;
+}
+.upcomingwontrecord
+{
+	color: #FF5577;
+}
+form
+{
+	margin: 0px;
+}
+#toggleepgtype
+{
+    font-size: 0.8em;
+    text-align: right;
+    margin-top: -45px;
+    margin-bottom: 10px;
+}
+ul.allschedulerequests
+{
+    margin-top: 2px;
+}
+#manageserieslink
+{
+    font-size: 0.9em;
+    text-align: right;
+    margin-top: -45px;
+    margin-bottom: 15px;
+}
+form#searchshowbytitle, #searchshowbytitle input, #searchshowbytitle select
+{
+    font-size: 0.9em;
+}
+#searchresults
+{
+    margin-top: 15px;
+}
+#searchresultsrecorddot
+{
+    margin-left: 7px;
+}
+#infotext
+{
+    font-size: 0.85em;
+}
+#logintable
+{
+    margin-top: 26px;
+    margin-left: 60px;
+    margin-bottom: 16px;
+    font-size: 0.9em;
+}
+#logintable input
+{
+    font-size: 0.9em;
+}
+#loginlogo
+{
+    float: right;
+    margin-top: -50px;
+}
+
+/* MUSIC */
+
+#musicrootmenu
+{
+	margin-left: 10px;
+    font-size: 1.2em;
+}
+#musicrootmenu ul
+{
+    font-size: 1.1em;
+}
+#musiccollection
+{
+}
+#musiccollectionindex
+{
+    font-size: 0.8em;
+    margin-bottom: 30px;
+}
+#musiccollectionindex a
+{
+    color: #BBBBBB;
+}
+#musiccollectionitems
+{
+    font-size: 0.9em;
+    color: #FFFFEE;
+}
+.musiccollectionitemssection
+{
+    margin-bottom: 16px;
+}
+#musiccollectionitems ul
+{
+    font-size: 0.9em;
+    color: #FFFFEE;
+}
+
+#musicsongslist
+{
+font-size: 0.8em;
+}
+.musicsongslisttitlecolumn
+{
+width: 230px;
+}
+
+
+/* PICTURE LIBRARY */
+#picturelibrarytable 
+{
+    font-size: 0.6em;
+}
+#picturelibrarytable  td
+{
+    width: 110px;
+}
+#picturelibrarytable  .folderpic
+{
+    border: 0px;
+}
+#picturelibrarytable  .thumbnail
+{
+    border: solid 1px black;
+}
+.picturelibraryviewedpicture
+{
+	border: solid 1px black;
+}
+
+/* VIDEO LIBRARY */
+#videolibrarytable 
+{
+    font-size: 0.6em;
+}
+#videolibrarytable  td
+{
+    width: 110px;
+}
+#videolibrarytable  .folderpic
+{
+    border: 0px;
+}
+#videolibrarytable  .thumbnail
+{
+    border: solid 1px black;
+    width: 100px;
+}

@@ -1,0 +1,43 @@
+﻿/*
+=============================
+Remote Potato - rectv.css
+(C)2010 FatAttitude
+
+These styles are used on the 'Recorded TV' page.
+
+TIP:  To make this page a different width from others, why not use this style sheet to override existing tags defined in the main styles.css file, e.g.
+body{ width: 800px; }
+=============================
+*/
+/* HOLDS A THUMBNAIL AND ITS TEXT */
+div.rectvlistthumbnailcontainer
+{
+    float: left;
+    margin: 0px 15px 6px 0px;
+    font-size: 0.6em;
+    width: 100px;
+    height: 110px;
+    overflow: hidden;
+}
+/* THE THUMBNAIL IMAGE */
+img.rectvlistthumbnail
+{
+    margin: 0px 0px 2px 0px;
+    width: 95px;
+    height: 76px;
+    border: solid 1px #CCCCEE;
+}
+/* ONE OF THESE IS PLACED BETWEEN EACH GROUP OF THUMBNAILS */
+div.rectvlistthumbnailseparator
+{
+    clear: both;
+    margin: 35px 0px 6px 0px;
+    font-size: 1.0em;
+    font-weight: bold;
+}
+/* THE LINK AT THE BOTTOM TO VIEW A DIFFERENT DATE RANGE */
+#rectvdaterangeselect
+{
+    clear: both;
+    font-size: 0.9em;
+}

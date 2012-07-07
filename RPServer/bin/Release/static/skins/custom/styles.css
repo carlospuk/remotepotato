@@ -1,0 +1,137 @@
+﻿/*
+=============================
+Remote Potato - Main Styles
+(C)2010 FatAttitude
+Theme:  <your theme name>
+(C)  <your copyright info>
+=============================
+*/
+body
+{
+    font-family: Arial;
+    color: #000000;
+}
+p.heading
+{
+}
+/* DIV FOR THE MAIN MENU ON THE FRONT PAGE */
+#mainmenu
+{
+}
+p.recorderror
+{
+	color :#AA0000;
+}
+p.recordfailure
+{
+	color :#AA0000;
+}
+p.recordsuccess
+{
+	color :#00AA00;
+}
+/*  THIS CSS CLASS IS APPLIED TO LIST ITEMS WHEN A SHOWING OF A TV PROGRAMME WILL RECORD */
+.upcomingwillrecord
+{
+	color: #00AA00;
+}
+/*  THIS CSS CLASS IS APPLIED TO LIST ITEMS WHEN A SHOWING OF A TV PROGRAMME WILL NOT RECORD */
+.upcomingwontrecord
+{
+	color: #AA0000;
+}
+/* MANAGE SERIES LIST  */
+ul.allschedulerequests
+{
+}
+#searchresults
+{
+}
+/* THE SEARCH SHOWS FORM */
+form#searchshowbytitle, #searchshowbytitle input, #searchshowbytitle select
+{
+    font-size: 0.9em;
+}
+/* A RECORD DOT IMAGE THAT APPEARS WITHIN SEARCH RESULTS WHEN A SHOW OR SERIES WILL RECORD */
+#searchresultsrecorddot
+{
+}
+/* THE TEXT ON THE 'INFORMATION' PAGE */
+#infotext
+{
+}
+
+/* THE TABLE AND TEXT INPUT BOXES ON THE 'LOGIN' PAGE */
+#logintable
+{
+}
+#logintable input
+{
+}
+
+
+/* MUSIC */
+
+#musicrootmenu
+{
+	margin-left: 10px;
+    font-size: 1.2em;
+}
+#musicrootmenu ul
+{
+    font-size: 1.1em;
+}
+#musiccollection
+{
+}
+#musiccollectionindex
+{
+    font-size: 0.8em;
+    margin-bottom: 30px;
+}
+#musiccollectionindex a
+{
+    color: #BBBBBB;
+}
+#musiccollectionitems
+{
+    font-size: 0.9em;
+    color: #FFFFEE;
+}
+.musiccollectionitemssection
+{
+    margin-bottom: 16px;
+}
+#musiccollectionitems ul
+{
+    font-size: 0.9em;
+    color: #FFFFEE;
+}
+
+#musicsongslist
+{
+font-size: 0.8em;
+}
+.musicsongslisttitlecolumn
+{
+width: 230px;
+}
+
+
+/* PICTURE LIBRARY */
+#picturelibrarytable 
+{
+}
+#picturelibrarytable  td
+{
+    width: 110px;
+}
+
+
+/* VIDEO LIBRARY */
+#videolibrarytable 
+{
+}
+#videolibrarytable  td
+{
+}

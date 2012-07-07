@@ -1,0 +1,30 @@
+﻿/*
+=============================
+Remote Potato - EPG List Styles
+(C)2010 FatAttitude
+
+THE EPG LIST VIEW IS A SIMPLE <UL> UNORDERED LIST 
+=============================
+*/
+/* By default, this div wraps the epg list.  This can be changed in page_viewepg_tbl.htm */
+#epglist
+{
+}
+/* YOU COULD MODIFY THE FORM NAVIGATION ELEMENTS BY CHANGING THESE STYLES  */
+#form_viewepg SELECT
+{
+}
+#form_viewepg input
+{
+}
+/* THE RED DOT THAT APPEARS TO THE RIGHT IN A LIST ITEM IF IT'S RECORDING
+   See epg-grid.css for additional classes that combine with this.
+ */
+#epglistrecorddot
+{
+    background-position: top left;
+    background-repeat: no-repeat;
+    margin-left: 7px;
+    width: 16px;
+    height: 16px;
+}

@@ -1,0 +1,97 @@
+﻿/*
+=============================
+Remote Potato - Show Details
+(C)2010 FatAttitude
+=============================
+*/
+/* THESE CSS TAGS CONTROL TV SHOW INFORMATION PAGES DISPLAY */
+.showproperties
+{
+}
+.showtitle
+{
+}
+.showepisodetitle
+{
+
+}
+.showprogrammetype
+{
+}
+img.showprogrammetypeimg
+{
+}
+img.showthumbnail
+{
+    width: 140px;
+    border: solid 1px #CCCCEE;
+}
+/* A VALUE OF -55px FOR THE LEFT MARGIN 'PUSHES' THE LOGO BACK SO IT'S OVERLAID ONTO THE THUMBNAIL
+   ALTERNATIVELY, YOU MAY WISH TO PUT IN A CLEAR: BOTH; ELEMENT AND PUT THE LOGO ON ITS OWN SEPARATE LINE.
+ */
+img.showchannellogo
+{
+    margin-left: -55px;
+    margin-bottom: 5px;
+}
+.showchannel
+{
+}
+.showstarttime
+{
+}
+.showdescription
+{
+}
+.showoriginalairdate
+{
+}
+.showrecordingdetails
+{
+}
+.showinformation
+{
+}
+.showstarrating
+{
+    display: inline;
+}
+.showguidancerating
+{
+    display: inline;
+}
+.showstarrating_star_on
+{
+    display: block;
+    float: left;
+    width: 16px;
+    height: 16px;
+    background-image: url('/static/images/starOn.png');
+    background-position: top left;
+    background-repeat: no-repeat; 
+}
+.showstarrating_star_off
+{
+    display: block;
+    float: left;
+    width: 16px;
+    height: 16px;    
+    background-image: url('/static/images/starOff.png');
+    background-position: top left;
+    background-repeat: no-repeat;
+}
+.showstarrating_star_half
+{
+    display: block;
+    float: left;
+    width: 8px;
+    height: 16px;
+    background-image: url('/static/images/starHalf.png');
+    background-position: top left;
+    background-repeat: no-repeat;
+}
+.showstarrating_endstars
+{
+    display: block;
+    clear: both;
+}

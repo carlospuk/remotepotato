@@ -1,0 +1,16 @@
+﻿#form_viewepg SELECT
+{
+    font-size: 0.7em;
+}
+#form_viewepg input
+{
+    font-size: 0.7em;
+}
+#epglistrecorddot
+{
+    background-position: top left;
+    background-repeat: no-repeat;
+    margin-left: 7px;
+    width: 16px;
+    height: 16px;
+}

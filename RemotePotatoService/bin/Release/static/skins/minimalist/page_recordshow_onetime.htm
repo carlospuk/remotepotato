@@ -1,0 +1,74 @@
+﻿<form id="recordonetime" action="recordshow_onetime" method="get">
+<table width="460">
+<tr>
+<td>
+Name: (starts with)
+</td>
+<td >
+<input type="text" name="showname" size="20"/>
+</td>
+</tr>
+<tr>
+<td>
+Channel:
+</td>
+<td >
+**EPGCHANNELDROPDOWN**
+</td>
+</tr>
+<tr>
+<td width="160" valign="top">
+Start Time: (approx)
+</td>
+<td >
+**DATEDROPDOWN**
+**TIMEDROPDOWN**
+</td>
+</tr>
+<tr>
+<td>
+&nbsp;
+</td>
+<td >
+<input type="submit" value="Schedule Recording" />
+</td>
+</tr>
+<tr height="50">
+<td>
+&nbsp;
+</td>
+<td >
+&nbsp;
+</td>
+</tr>
+</table>
+<table class="formadvanced" width="460">
+<tr>
+<td colspan="2">
+ADVANCED OPTIONS:
+</td>
+</tr>
+<tr>
+<td colspan="2">
+Search for
+<input type="text" name="searchspan" size="5" value="**DEFAULTSEARCHSPAN**"/>
+minutes either side of start.
+</td>
+</tr>
+<tr>
+<td colspan="2">
+Start recording 
+<input type="text" name="prepadding" size="3" value="**DEFAULTPREPADDING**"/> 
+secs before.
+</td>
+</tr>
+<tr>
+<td colspan="2">
+Stop recording 
+<input type="text" name="postpadding" size="3" value="**DEFAULTPOSTPADDING**"/> 
+secs after.
+</td>
+</tr>
+</div>
+</table>
+</form> 

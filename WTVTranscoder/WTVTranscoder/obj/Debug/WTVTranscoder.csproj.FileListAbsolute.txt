@@ -1,0 +1,7 @@
+C:\Users\carl\Visual Studio\Projects\WTVTranscoding\Current Solution\WTVTranscoder\bin\Debug\WTVTranscoder.dll
+C:\Users\carl\Visual Studio\Projects\WTVTranscoding\Current Solution\WTVTranscoder\bin\Debug\WTVTranscoder.pdb
+C:\Users\carl\Visual Studio\Projects\WTVTranscoding\Current Solution\WTVTranscoder\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\carl\Visual Studio\Projects\WTVTranscoding\Current Solution\WTVTranscoder\obj\Debug\WTVTranscoder.dll
+C:\Users\carl\Visual Studio\Projects\WTVTranscoding\Current Solution\WTVTranscoder\obj\Debug\WTVTranscoder.pdb
+C:\Users\carl\Visual Studio\Projects\WTVTranscoding\Current Solution\WTVTranscoder\bin\Debug\DirectShowLib-2005.dll
+C:\Users\carl\Visual Studio\Projects\WTVTranscoding\Current Solution\WTVTranscoder\bin\Debug\WindowsMediaLib.dll

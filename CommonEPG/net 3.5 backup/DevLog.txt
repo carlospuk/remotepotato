@@ -1,0 +1,45 @@
+﻿/*
+================================
+Common EPG Interface and Classes
+================================
+Development notes / Changelog
+
+
+CHANGELOG
+=========
+v1.0 - Initial release
+
+v1.1:
+TVProgramme Class:
+- Reverted to StartTime and EndTime fields
+- Refactored to use shortcuts to getters/setters
+- Added TVRating and MPAARating fields
+
+TVChannel Class:
+- Added MCChannelNumber / MCSubChannelNumber
+
+EPGSearchTextType:
+- Implemented episodetitle searching.
+
+IEPGDataProvider:
+- Added Initialize(key) parameter
+- Added isExact match param to Search methods
+- Channels now returned as Dictionary<string, TVChannel>
+
+
+v1.2:
+TVProgramme Class:
+- Added ProgrammeID field
+- Added Filename field
+
+IEPGDataProvider:
+- Added GetTVProgramme(string programmeId);
+- Added EventHandler<DebugReportEventArgs> DebugReport (and matching DebugReportEventArgs class)
+- Added Enum 'EPGSearchMatchType'  (startswith, contains, exact)
+- Changed signature of search methods to:
+  List<TVProgramme> SearchTVProgrammes(string searchText, EPGSearchTextType searchTextType, EPGSearchMatchType searchMatchType, out bool resultsWereTruncated);
+  List<TVProgramme> SearchTVProgrammesByDateRange(DateRange dateRange, string searchText, EPGSearchMatchType searchMatchType,, bool isExactMatch, out bool resultsWereTruncated);
+
+
+
+*/

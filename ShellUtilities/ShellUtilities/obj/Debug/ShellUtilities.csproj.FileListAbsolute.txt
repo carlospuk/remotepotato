@@ -1,0 +1,11 @@
+C:\Users\carl\Visual Studio\Projects\ShellUtilities\ShellUtilities\bin\Debug\ShellUtilities.dll
+C:\Users\carl\Visual Studio\Projects\ShellUtilities\ShellUtilities\bin\Debug\ShellUtilities.pdb
+C:\Users\carl\Visual Studio\Projects\ShellUtilities\ShellUtilities\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\carl\Visual Studio\Projects\ShellUtilities\ShellUtilities\obj\Debug\ShellUtilities.dll
+C:\Users\carl\Visual Studio\Projects\ShellUtilities\ShellUtilities\obj\Debug\ShellUtilities.pdb
+C:\Users\carl\Visual Studio\Projects\ShellUtilities\ShellUtilities\bin\Debug\UltraID3Lib.dll
+C:\Users\carl\Visual Studio\Projects\ShellUtilities\ShellUtilities\bin\Debug\UltraID3Lib.xml
+C:\Users\carl\Visual Studio\Projects\ShellUtilities\ShellUtilities\bin\Debug\Microsoft.WindowsAPICodePack.dll
+C:\Users\carl\Visual Studio\Projects\ShellUtilities\ShellUtilities\bin\Debug\Microsoft.WindowsAPICodePack.Shell.dll
+C:\Users\carl\Visual Studio\Projects\ShellUtilities\ShellUtilities\bin\Debug\Microsoft.WindowsAPICodePack.pdb
+C:\Users\carl\Visual Studio\Projects\ShellUtilities\ShellUtilities\bin\Debug\Microsoft.WindowsAPICodePack.Shell.pdb

@@ -1,0 +1,12 @@
+C:\Users\carl\Visual Studio\Projects\RemotePotatoServer\Current Solution - As Service\RemotePotatoSettings\bin\Debug\RemotePotatoSettings.dll.config
+C:\Users\carl\Visual Studio\Projects\RemotePotatoServer\Current Solution - As Service\RemotePotatoSettings\bin\Debug\RemotePotatoSettings.dll
+C:\Users\carl\Visual Studio\Projects\RemotePotatoServer\Current Solution - As Service\RemotePotatoSettings\bin\Debug\RemotePotatoSettings.pdb
+C:\Users\carl\Visual Studio\Projects\RemotePotatoServer\Current Solution - As Service\RemotePotatoSettings\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\carl\Visual Studio\Projects\RemotePotatoServer\Current Solution - As Service\RemotePotatoSettings\obj\Debug\RemotePotatoSettings.dll
+C:\Users\carl\Visual Studio\Projects\RemotePotatoServer\Current Solution - As Service\RemotePotatoSettings\obj\Debug\RemotePotatoSettings.pdb
+D:\Users\Carl\Visual Studio\Projects\RemotePotatoServer\Current Solution - As Service\RemotePotatoSettings\bin\Debug\RemotePotatoSettings.dll.config
+D:\Users\Carl\Visual Studio\Projects\RemotePotatoServer\Current Solution - As Service\RemotePotatoSettings\bin\Debug\RemotePotatoSettings.dll
+D:\Users\Carl\Visual Studio\Projects\RemotePotatoServer\Current Solution - As Service\RemotePotatoSettings\bin\Debug\RemotePotatoSettings.pdb
+D:\Users\Carl\Visual Studio\Projects\RemotePotatoServer\Current Solution - As Service\RemotePotatoSettings\obj\Debug\ResolveAssemblyReference.cache
+D:\Users\Carl\Visual Studio\Projects\RemotePotatoServer\Current Solution - As Service\RemotePotatoSettings\obj\Debug\RemotePotatoSettings.dll
+D:\Users\Carl\Visual Studio\Projects\RemotePotatoServer\Current Solution - As Service\RemotePotatoSettings\obj\Debug\RemotePotatoSettings.pdb

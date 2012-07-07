@@ -1,0 +1,32 @@
+﻿/*
+=============================
+Remote Potato - Movies
+(C)2010 FatAttitude
+=============================
+*/
+#movieslinks
+{
+    font-size: 0.9em;
+}
+#moviestitle
+{
+    margin-top: 6px;
+    font-size: 1.1em;
+}
+#movieslist
+{
+    font-size: 1.0em;
+}
+#movielistrecorddot
+{
+    margin-left: 6px;
+    margin-top: 1px;
+}
+.moviesublistheader
+{
+    margin-top: 10px;
+}
+.moviesublist
+{
+    margin-top: 5px;
+}

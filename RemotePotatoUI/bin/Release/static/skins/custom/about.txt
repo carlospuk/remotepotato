@@ -1,0 +1,4 @@
+﻿Custom Theme
+By <your name here>
+
+A blank theme, ready for customisation.  So, if you're American, the first thing you'll want to customise is the word 'customization'.  Neat.

@@ -1,0 +1,17 @@
+C:\Users\carl\Visual Studio\Projects\RemotePotatoServer\Current Solution - As Service\RemotePotatoSettings\bin\Release\RemotePotatoSettings.dll.config
+C:\Users\carl\Visual Studio\Projects\RemotePotatoServer\Current Solution - As Service\RemotePotatoSettings\bin\Release\RemotePotatoSettings.dll
+C:\Users\carl\Visual Studio\Projects\RemotePotatoServer\Current Solution - As Service\RemotePotatoSettings\bin\Release\RemotePotatoSettings.pdb
+C:\Users\carl\Visual Studio\Projects\RemotePotatoServer\Current Solution - As Service\RemotePotatoSettings\obj\Release\ResolveAssemblyReference.cache
+C:\Users\carl\Visual Studio\Projects\RemotePotatoServer\Current Solution - As Service\RemotePotatoSettings\obj\Release\RemotePotatoSettings.dll
+C:\Users\carl\Visual Studio\Projects\RemotePotatoServer\Current Solution - As Service\RemotePotatoSettings\obj\Release\RemotePotatoSettings.pdb
+D:\Users\Carl\Visual Studio\Projects\RemotePotatoServer\Current Solution - As Service\RemotePotatoSettings\bin\Release\RemotePotatoSettings.dll.config
+D:\Users\Carl\Visual Studio\Projects\RemotePotatoServer\Current Solution - As Service\RemotePotatoSettings\bin\Release\RemotePotatoSettings.dll
+D:\Users\Carl\Visual Studio\Projects\RemotePotatoServer\Current Solution - As Service\RemotePotatoSettings\bin\Release\RemotePotatoSettings.pdb
+D:\Users\Carl\Visual Studio\Projects\RemotePotatoServer\Current Solution - As Service\RemotePotatoSettings\obj\Release\ResolveAssemblyReference.cache
+D:\Users\Carl\Visual Studio\Projects\RemotePotatoServer\Current Solution - As Service\RemotePotatoSettings\obj\Release\RemotePotatoSettings.dll
+D:\Users\Carl\Visual Studio\Projects\RemotePotatoServer\Current Solution - As Service\RemotePotatoSettings\obj\Release\RemotePotatoSettings.pdb
+D:\Users\Carl\Visual Studio\Projects\RemotePotatoServer\GitHub\RemotePotatoSettings\bin\Release\RemotePotatoSettings.dll.config
+D:\Users\Carl\Visual Studio\Projects\RemotePotatoServer\GitHub\RemotePotatoSettings\bin\Release\RemotePotatoSettings.dll
+D:\Users\Carl\Visual Studio\Projects\RemotePotatoServer\GitHub\RemotePotatoSettings\bin\Release\RemotePotatoSettings.pdb
+D:\Users\Carl\Visual Studio\Projects\RemotePotatoServer\GitHub\RemotePotatoSettings\obj\Release\RemotePotatoSettings.dll
+D:\Users\Carl\Visual Studio\Projects\RemotePotatoServer\GitHub\RemotePotatoSettings\obj\Release\RemotePotatoSettings.pdb

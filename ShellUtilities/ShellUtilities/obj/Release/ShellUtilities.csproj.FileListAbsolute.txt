@@ -1,0 +1,6 @@
+C:\Users\carl\Visual Studio\Projects\ShellUtilities\ShellUtilities\bin\Release\ShellUtilities.dll
+C:\Users\carl\Visual Studio\Projects\ShellUtilities\ShellUtilities\bin\Release\ShellUtilities.pdb
+C:\Users\carl\Visual Studio\Projects\ShellUtilities\ShellUtilities\obj\Release\ResolveAssemblyReference.cache
+C:\Users\carl\Visual Studio\Projects\ShellUtilities\ShellUtilities\obj\Release\ShellUtilities.dll
+C:\Users\carl\Visual Studio\Projects\ShellUtilities\ShellUtilities\obj\Release\ShellUtilities.pdb
+D:\Users\Carl\Visual Studio\Projects\RemotePotatoServer\GitHub\ShellUtilities\ShellUtilities\obj\Release\ShellUtilities.csprojResolveAssemblyReference.cache

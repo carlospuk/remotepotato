@@ -1,0 +1,618 @@
+C:\Users\carl\Visual Studio\Projects\RemotePotatoServer\Current Solution - As Service\RemotePotatoUI\bin\Release\static\silverlight\SilverPotato.xap
+C:\Users\carl\Visual Studio\Projects\RemotePotatoServer\Current Solution - As Service\RemotePotatoUI\bin\Release\static\clientaccesspolicy.xml
+C:\Users\carl\Visual Studio\Projects\RemotePotatoServer\Current Solution - As Service\RemotePotatoUI\bin\Release\static\images\btnSaveSong.png
+C:\Users\carl\Visual Studio\Projects\RemotePotatoServer\Current Solution - As Service\RemotePotatoUI\bin\Release\static\images\btnStreamSong.png
+C:\Users\carl\Visual Studio\Projects\RemotePotatoServer\Current Solution - As Service\RemotePotatoUI\bin\Release\static\images\epgchanneldownarrow.png
+C:\Users\carl\Visual Studio\Projects\RemotePotatoServer\Current Solution - As Service\RemotePotatoUI\bin\Release\static\images\epgchanneldownarrow_disabled.png
+C:\Users\carl\Visual Studio\Projects\RemotePotatoServer\Current Solution - As Service\RemotePotatoUI\bin\Release\static\images\epgchanneluparrow.png
+C:\Users\carl\Visual Studio\Projects\RemotePotatoServer\Current Solution - As Service\RemotePotatoUI\bin\Release\static\images\epgchanneluparrow_disabled.png
+C:\Users\carl\Visual Studio\Projects\RemotePotatoServer\Current Solution - As Service\RemotePotatoUI\bin\Release\static\images\epggrid_shading.png
+C:\Users\carl\Visual Studio\Projects\RemotePotatoServer\Current Solution - As Service\RemotePotatoUI\bin\Release\static\images\epgtimeleftarrow.png
+C:\Users\carl\Visual Studio\Projects\RemotePotatoServer\Current Solution - As Service\RemotePotatoUI\bin\Release\static\images\epgtimerightarrow.png
+C:\Users\carl\Visual Studio\Projects\RemotePotatoServer\Current Solution - As Service\RemotePotatoUI\bin\Release\static\images\apple-touch-icon.png
+C:\Users\carl\Visual Studio\Projects\RemotePotatoServer\Current Solution - As Service\RemotePotatoUI\bin\Release\static\images\imgFolder150x75.png
+C:\Users\carl\Visual Studio\Projects\RemotePotatoServer\Current Solution - As Service\RemotePotatoUI\bin\Release\static\images\logosquare.png
+C:\Users\carl\Visual Studio\Projects\RemotePotatoServer\Current Solution - As Service\RemotePotatoUI\bin\Release\static\images\mce_remote2.png
+C:\Users\carl\Visual Studio\Projects\RemotePotatoServer\Current Solution - As Service\RemotePotatoUI\bin\Release\static\images\remotepotatoicon.ico
+C:\Users\carl\Visual Studio\Projects\RemotePotatoServer\Current Solution - As Service\RemotePotatoUI\bin\Release\static\images\record_dot_onetime.png
+C:\Users\carl\Visual Studio\Projects\RemotePotatoServer\Current Solution - As Service\RemotePotatoUI\bin\Release\static\images\record_dot_series.png
+C:\Users\carl\Visual Studio\Projects\RemotePotatoServer\Current Solution - As Service\RemotePotatoUI\bin\Release\static\images\remotepotato_HLogo_small.png
+C:\Users\carl\Visual Studio\Projects\RemotePotatoServer\Current Solution - As Service\RemotePotatoUI\bin\Release\static\images\showhdlogo.png
+C:\Users\carl\Visual Studio\Projects\RemotePotatoServer\Current Solution - As Service\RemotePotatoUI\bin\Release\static\images\showtypedocumentary.png
+C:\Users\carl\Visual Studio\Projects\RemotePotatoServer\Current Solution - As Service\RemotePotatoUI\bin\Release\static\images\showtypekids.png
+C:\Users\carl\Visual Studio\Projects\RemotePotatoServer\Current Solution - As Service\RemotePotatoUI\bin\Release\static\images\showtypemovie.png
+C:\Users\carl\Visual Studio\Projects\RemotePotatoServer\Current Solution - As Service\RemotePotatoUI\bin\Release\static\images\showtypenews.png
+C:\Users\carl\Visual Studio\Projects\RemotePotatoServer\Current Solution - As Service\RemotePotatoUI\bin\Release\static\images\showtypesport.png
+C:\Users\carl\Visual Studio\Projects\RemotePotatoServer\Current Solution - As Service\RemotePotatoUI\bin\Release\static\images\starHalf.png
+C:\Users\carl\Visual Studio\Projects\RemotePotatoServer\Current Solution - As Service\RemotePotatoUI\bin\Release\static\images\starOff.png
+C:\Users\carl\Visual Studio\Projects\RemotePotatoServer\Current Solution - As Service\RemotePotatoUI\bin\Release\static\images\starOn.png
+C:\Users\carl\Visual Studio\Projects\RemotePotatoServer\Current Solution - As Service\RemotePotatoUI\bin\Release\static\images\tinypotato.png
+C:\Users\carl\Visual Studio\Projects\RemotePotatoServer\Current Solution - As Service\RemotePotatoUI\bin\Release\static\images\topbanner_landscape.png
+C:\Users\carl\Visual Studio\Projects\RemotePotatoServer\Current Solution - As Service\RemotePotatoUI\bin\Release\static\images\topbanner_portrait.png
+C:\Users\carl\Visual Studio\Projects\RemotePotatoServer\Current Solution - As Service\RemotePotatoUI\bin\Release\static\silverlight\default_template.htm
+C:\Users\carl\Visual Studio\Projects\RemotePotatoServer\Current Solution - As Service\RemotePotatoUI\bin\Release\static\silverlight\HLSMediaSource.dll
+C:\Users\carl\Visual Studio\Projects\RemotePotatoServer\Current Solution - As Service\RemotePotatoUI\bin\Release\static\skins\custom\about.txt
+C:\Users\carl\Visual Studio\Projects\RemotePotatoServer\Current Solution - As Service\RemotePotatoUI\bin\Release\static\skins\custom\epg-grid.css
+C:\Users\carl\Visual Studio\Projects\RemotePotatoServer\Current Solution - As Service\RemotePotatoUI\bin\Release\static\skins\custom\epg-list.css
+C:\Users\carl\Visual Studio\Projects\RemotePotatoServer\Current Solution - As Service\RemotePotatoUI\bin\Release\static\skins\custom\images\background.jpg
+C:\Users\carl\Visual Studio\Projects\RemotePotatoServer\Current Solution - As Service\RemotePotatoUI\bin\Release\static\skins\custom\images\transparentgray40.png
+C:\Users\carl\Visual Studio\Projects\RemotePotatoServer\Current Solution - As Service\RemotePotatoUI\bin\Release\static\skins\custom\masterpage.htm
+C:\Users\carl\Visual Studio\Projects\RemotePotatoServer\Current Solution - As Service\RemotePotatoUI\bin\Release\static\skins\custom\movies.css
+C:\Users\carl\Visual Studio\Projects\RemotePotatoServer\Current Solution - As Service\RemotePotatoUI\bin\Release\static\skins\custom\page_music_collection.htm
+C:\Users\carl\Visual Studio\Projects\RemotePotatoServer\Current Solution - As Service\RemotePotatoUI\bin\Release\static\skins\custom\page_music_songs.htm
+C:\Users\carl\Visual Studio\Projects\RemotePotatoServer\Current Solution - As Service\RemotePotatoUI\bin\Release\static\skins\custom\page_recordmanual.htm
+C:\Users\carl\Visual Studio\Projects\RemotePotatoServer\Current Solution - As Service\RemotePotatoUI\bin\Release\static\skins\custom\page_recordshow_onetime.htm
+C:\Users\carl\Visual Studio\Projects\RemotePotatoServer\Current Solution - As Service\RemotePotatoUI\bin\Release\static\skins\custom\page_searchshow_results.htm
+C:\Users\carl\Visual Studio\Projects\RemotePotatoServer\Current Solution - As Service\RemotePotatoUI\bin\Release\static\skins\custom\page_searchshow_title.htm
+C:\Users\carl\Visual Studio\Projects\RemotePotatoServer\Current Solution - As Service\RemotePotatoUI\bin\Release\static\skins\custom\page_series.htm
+C:\Users\carl\Visual Studio\Projects\RemotePotatoServer\Current Solution - As Service\RemotePotatoUI\bin\Release\static\skins\custom\page_show.htm
+C:\Users\carl\Visual Studio\Projects\RemotePotatoServer\Current Solution - As Service\RemotePotatoUI\bin\Release\static\skins\custom\page_viewepg_grid.htm
+C:\Users\carl\Visual Studio\Projects\RemotePotatoServer\Current Solution - As Service\RemotePotatoUI\bin\Release\static\skins\custom\page_viewepg_tbl.htm
+C:\Users\carl\Visual Studio\Projects\RemotePotatoServer\Current Solution - As Service\RemotePotatoUI\bin\Release\static\skins\custom\page_viewlibrary.htm
+C:\Users\carl\Visual Studio\Projects\RemotePotatoServer\Current Solution - As Service\RemotePotatoUI\bin\Release\static\skins\custom\page_viewpicture.htm
+C:\Users\carl\Visual Studio\Projects\RemotePotatoServer\Current Solution - As Service\RemotePotatoUI\bin\Release\static\skins\custom\page_viewrecordedtv.htm
+C:\Users\carl\Visual Studio\Projects\RemotePotatoServer\Current Solution - As Service\RemotePotatoUI\bin\Release\static\skins\custom\page_viewscheduledrecordings.htm
+C:\Users\carl\Visual Studio\Projects\RemotePotatoServer\Current Solution - As Service\RemotePotatoUI\bin\Release\static\skins\custom\rectv.css
+C:\Users\carl\Visual Studio\Projects\RemotePotatoServer\Current Solution - As Service\RemotePotatoUI\bin\Release\static\skins\custom\settings.xml
+C:\Users\carl\Visual Studio\Projects\RemotePotatoServer\Current Solution - As Service\RemotePotatoUI\bin\Release\static\skins\custom\showdetails.css
+C:\Users\carl\Visual Studio\Projects\RemotePotatoServer\Current Solution - As Service\RemotePotatoUI\bin\Release\static\skins\custom\stream_show.htm
+C:\Users\carl\Visual Studio\Projects\RemotePotatoServer\Current Solution - As Service\RemotePotatoUI\bin\Release\static\skins\custom\styles.css
+C:\Users\carl\Visual Studio\Projects\RemotePotatoServer\Current Solution - As Service\RemotePotatoUI\bin\Release\static\skins\custom\thumbnail_default.png
+C:\Users\carl\Visual Studio\Projects\RemotePotatoServer\Current Solution - As Service\RemotePotatoUI\bin\Release\static\skins\default\about.txt
+C:\Users\carl\Visual Studio\Projects\RemotePotatoServer\Current Solution - As Service\RemotePotatoUI\bin\Release\static\skins\default\page_viewlibrary.htm
+C:\Users\carl\Visual Studio\Projects\RemotePotatoServer\Current Solution - As Service\RemotePotatoUI\bin\Release\static\skins\default\page_music_collection.htm
+C:\Users\carl\Visual Studio\Projects\RemotePotatoServer\Current Solution - As Service\RemotePotatoUI\bin\Release\static\skins\default\page_music_songs.htm
+C:\Users\carl\Visual Studio\Projects\RemotePotatoServer\Current Solution - As Service\RemotePotatoUI\bin\Release\static\skins\default\page_show.htm
+C:\Users\carl\Visual Studio\Projects\RemotePotatoServer\Current Solution - As Service\RemotePotatoUI\bin\Release\static\skins\default\epg-grid.css
+C:\Users\carl\Visual Studio\Projects\RemotePotatoServer\Current Solution - As Service\RemotePotatoUI\bin\Release\static\skins\default\epg-list.css
+C:\Users\carl\Visual Studio\Projects\RemotePotatoServer\Current Solution - As Service\RemotePotatoUI\bin\Release\static\skins\default\images\background.jpg
+C:\Users\carl\Visual Studio\Projects\RemotePotatoServer\Current Solution - As Service\RemotePotatoUI\bin\Release\static\skins\default\images\transparentgray40.png
+C:\Users\carl\Visual Studio\Projects\RemotePotatoServer\Current Solution - As Service\RemotePotatoUI\bin\Release\static\skins\default\masterpage.htm
+C:\Users\carl\Visual Studio\Projects\RemotePotatoServer\Current Solution - As Service\RemotePotatoUI\bin\Release\static\skins\default\movies.css
+C:\Users\carl\Visual Studio\Projects\RemotePotatoServer\Current Solution - As Service\RemotePotatoUI\bin\Release\static\skins\default\page_login.htm
+C:\Users\carl\Visual Studio\Projects\RemotePotatoServer\Current Solution - As Service\RemotePotatoUI\bin\Release\static\skins\default\page_movie.htm
+C:\Users\carl\Visual Studio\Projects\RemotePotatoServer\Current Solution - As Service\RemotePotatoUI\bin\Release\static\skins\default\page_recordmanual.htm
+C:\Users\carl\Visual Studio\Projects\RemotePotatoServer\Current Solution - As Service\RemotePotatoUI\bin\Release\static\skins\default\page_recordshow_onetime.htm
+C:\Users\carl\Visual Studio\Projects\RemotePotatoServer\Current Solution - As Service\RemotePotatoUI\bin\Release\static\skins\default\page_searchshow_results.htm
+C:\Users\carl\Visual Studio\Projects\RemotePotatoServer\Current Solution - As Service\RemotePotatoUI\bin\Release\static\skins\default\page_searchshow_title.htm
+C:\Users\carl\Visual Studio\Projects\RemotePotatoServer\Current Solution - As Service\RemotePotatoUI\bin\Release\static\skins\default\page_series.htm
+C:\Users\carl\Visual Studio\Projects\RemotePotatoServer\Current Solution - As Service\RemotePotatoUI\bin\Release\static\skins\default\page_viewepg_grid.htm
+C:\Users\carl\Visual Studio\Projects\RemotePotatoServer\Current Solution - As Service\RemotePotatoUI\bin\Release\static\skins\default\page_viewepg_tbl.htm
+C:\Users\carl\Visual Studio\Projects\RemotePotatoServer\Current Solution - As Service\RemotePotatoUI\bin\Release\static\skins\default\page_viewpicture.htm
+C:\Users\carl\Visual Studio\Projects\RemotePotatoServer\Current Solution - As Service\RemotePotatoUI\bin\Release\static\skins\default\page_viewrecordedtv.htm
+C:\Users\carl\Visual Studio\Projects\RemotePotatoServer\Current Solution - As Service\RemotePotatoUI\bin\Release\static\skins\default\page_viewscheduledrecordings.htm
+C:\Users\carl\Visual Studio\Projects\RemotePotatoServer\Current Solution - As Service\RemotePotatoUI\bin\Release\static\skins\default\rectv.css
+C:\Users\carl\Visual Studio\Projects\RemotePotatoServer\Current Solution - As Service\RemotePotatoUI\bin\Release\static\skins\default\settings.xml
+C:\Users\carl\Visual Studio\Projects\RemotePotatoServer\Current Solution - As Service\RemotePotatoUI\bin\Release\static\skins\default\showdetails.css
+C:\Users\carl\Visual Studio\Projects\RemotePotatoServer\Current Solution - As Service\RemotePotatoUI\bin\Release\static\skins\default\stream_show.htm
+C:\Users\carl\Visual Studio\Projects\RemotePotatoServer\Current Solution - As Service\RemotePotatoUI\bin\Release\static\skins\default\styles.css
+C:\Users\carl\Visual Studio\Projects\RemotePotatoServer\Current Solution - As Service\RemotePotatoUI\bin\Release\static\skins\default\thumbnail_default.png
+C:\Users\carl\Visual Studio\Projects\RemotePotatoServer\Current Solution - As Service\RemotePotatoUI\bin\Release\static\skins\minimalist\about.txt
+C:\Users\carl\Visual Studio\Projects\RemotePotatoServer\Current Solution - As Service\RemotePotatoUI\bin\Release\static\skins\minimalist\epg-grid.css
+C:\Users\carl\Visual Studio\Projects\RemotePotatoServer\Current Solution - As Service\RemotePotatoUI\bin\Release\static\skins\minimalist\epg-list.css
+C:\Users\carl\Visual Studio\Projects\RemotePotatoServer\Current Solution - As Service\RemotePotatoUI\bin\Release\static\skins\minimalist\masterpage.htm
+C:\Users\carl\Visual Studio\Projects\RemotePotatoServer\Current Solution - As Service\RemotePotatoUI\bin\Release\static\skins\minimalist\movies.css
+C:\Users\carl\Visual Studio\Projects\RemotePotatoServer\Current Solution - As Service\RemotePotatoUI\bin\Release\static\skins\minimalist\page_movie.htm
+C:\Users\carl\Visual Studio\Projects\RemotePotatoServer\Current Solution - As Service\RemotePotatoUI\bin\Release\static\skins\minimalist\page_movies.htm
+C:\Users\carl\Visual Studio\Projects\RemotePotatoServer\Current Solution - As Service\RemotePotatoUI\bin\Release\static\skins\minimalist\page_music_collection.htm
+C:\Users\carl\Visual Studio\Projects\RemotePotatoServer\Current Solution - As Service\RemotePotatoUI\bin\Release\static\skins\minimalist\page_music_songs.htm
+C:\Users\carl\Visual Studio\Projects\RemotePotatoServer\Current Solution - As Service\RemotePotatoUI\bin\Release\static\skins\minimalist\page_recordmanual.htm
+C:\Users\carl\Visual Studio\Projects\RemotePotatoServer\Current Solution - As Service\RemotePotatoUI\bin\Release\static\skins\minimalist\page_recordshow_onetime.htm
+C:\Users\carl\Visual Studio\Projects\RemotePotatoServer\Current Solution - As Service\RemotePotatoUI\bin\Release\static\skins\minimalist\page_searchshow_results.htm
+C:\Users\carl\Visual Studio\Projects\RemotePotatoServer\Current Solution - As Service\RemotePotatoUI\bin\Release\static\skins\minimalist\page_searchshow_title.htm
+C:\Users\carl\Visual Studio\Projects\RemotePotatoServer\Current Solution - As Service\RemotePotatoUI\bin\Release\static\skins\minimalist\page_series.htm
+C:\Users\carl\Visual Studio\Projects\RemotePotatoServer\Current Solution - As Service\RemotePotatoUI\bin\Release\static\skins\minimalist\page_show.htm
+C:\Users\carl\Visual Studio\Projects\RemotePotatoServer\Current Solution - As Service\RemotePotatoUI\bin\Release\static\skins\minimalist\page_viewepg_grid.htm
+C:\Users\carl\Visual Studio\Projects\RemotePotatoServer\Current Solution - As Service\RemotePotatoUI\bin\Release\static\skins\minimalist\page_viewepg_tbl.htm
+C:\Users\carl\Visual Studio\Projects\RemotePotatoServer\Current Solution - As Service\RemotePotatoUI\bin\Release\static\skins\minimalist\page_viewlibrary.htm
+C:\Users\carl\Visual Studio\Projects\RemotePotatoServer\Current Solution - As Service\RemotePotatoUI\bin\Release\static\skins\minimalist\page_viewpicture.htm
+C:\Users\carl\Visual Studio\Projects\RemotePotatoServer\Current Solution - As Service\RemotePotatoUI\bin\Release\static\skins\minimalist\page_viewrecordedtv.htm
+C:\Users\carl\Visual Studio\Projects\RemotePotatoServer\Current Solution - As Service\RemotePotatoUI\bin\Release\static\skins\minimalist\page_viewscheduledrecordings.htm
+C:\Users\carl\Visual Studio\Projects\RemotePotatoServer\Current Solution - As Service\RemotePotatoUI\bin\Release\static\skins\minimalist\rectv.css
+C:\Users\carl\Visual Studio\Projects\RemotePotatoServer\Current Solution - As Service\RemotePotatoUI\bin\Release\static\skins\minimalist\settings.xml
+C:\Users\carl\Visual Studio\Projects\RemotePotatoServer\Current Solution - As Service\RemotePotatoUI\bin\Release\static\skins\minimalist\showdetails.css
+C:\Users\carl\Visual Studio\Projects\RemotePotatoServer\Current Solution - As Service\RemotePotatoUI\bin\Release\static\skins\minimalist\stream_show.htm
+C:\Users\carl\Visual Studio\Projects\RemotePotatoServer\Current Solution - As Service\RemotePotatoUI\bin\Release\static\skins\minimalist\styles.css
+C:\Users\carl\Visual Studio\Projects\RemotePotatoServer\Current Solution - As Service\RemotePotatoUI\bin\Release\static\skins\minimalist\thumbnail_default.png
+C:\Users\carl\Visual Studio\Projects\RemotePotatoServer\Current Solution - As Service\RemotePotatoUI\bin\Release\static\skins\retro\about.txt
+C:\Users\carl\Visual Studio\Projects\RemotePotatoServer\Current Solution - As Service\RemotePotatoUI\bin\Release\static\skins\retro\page_viewpicture.htm
+C:\Users\carl\Visual Studio\Projects\RemotePotatoServer\Current Solution - As Service\RemotePotatoUI\bin\Release\static\skins\retro\epg-grid.css
+C:\Users\carl\Visual Studio\Projects\RemotePotatoServer\Current Solution - As Service\RemotePotatoUI\bin\Release\static\skins\retro\epg-list.css
+C:\Users\carl\Visual Studio\Projects\RemotePotatoServer\Current Solution - As Service\RemotePotatoUI\bin\Release\static\skins\retro\images\topbanner_retro.png
+C:\Users\carl\Visual Studio\Projects\RemotePotatoServer\Current Solution - As Service\RemotePotatoUI\bin\Release\static\skins\retro\masterpage.htm
+C:\Users\carl\Visual Studio\Projects\RemotePotatoServer\Current Solution - As Service\RemotePotatoUI\bin\Release\static\skins\retro\movies.css
+C:\Users\carl\Visual Studio\Projects\RemotePotatoServer\Current Solution - As Service\RemotePotatoUI\bin\Release\static\skins\retro\page_movie.htm
+C:\Users\carl\Visual Studio\Projects\RemotePotatoServer\Current Solution - As Service\RemotePotatoUI\bin\Release\static\skins\retro\page_movies.htm
+C:\Users\carl\Visual Studio\Projects\RemotePotatoServer\Current Solution - As Service\RemotePotatoUI\bin\Release\static\skins\retro\page_music_collection.htm
+C:\Users\carl\Visual Studio\Projects\RemotePotatoServer\Current Solution - As Service\RemotePotatoUI\bin\Release\static\skins\retro\page_music_songs.htm
+C:\Users\carl\Visual Studio\Projects\RemotePotatoServer\Current Solution - As Service\RemotePotatoUI\bin\Release\static\skins\retro\page_recordmanual.htm
+C:\Users\carl\Visual Studio\Projects\RemotePotatoServer\Current Solution - As Service\RemotePotatoUI\bin\Release\static\skins\retro\page_recordshow_onetime.htm
+C:\Users\carl\Visual Studio\Projects\RemotePotatoServer\Current Solution - As Service\RemotePotatoUI\bin\Release\static\skins\retro\page_searchshow_results.htm
+C:\Users\carl\Visual Studio\Projects\RemotePotatoServer\Current Solution - As Service\RemotePotatoUI\bin\Release\static\skins\retro\page_searchshow_title.htm
+C:\Users\carl\Visual Studio\Projects\RemotePotatoServer\Current Solution - As Service\RemotePotatoUI\bin\Release\static\skins\retro\page_series.htm
+C:\Users\carl\Visual Studio\Projects\RemotePotatoServer\Current Solution - As Service\RemotePotatoUI\bin\Release\static\skins\retro\page_show.htm
+C:\Users\carl\Visual Studio\Projects\RemotePotatoServer\Current Solution - As Service\RemotePotatoUI\bin\Release\static\skins\retro\page_viewepg_grid.htm
+C:\Users\carl\Visual Studio\Projects\RemotePotatoServer\Current Solution - As Service\RemotePotatoUI\bin\Release\static\skins\retro\page_viewepg_tbl.htm
+C:\Users\carl\Visual Studio\Projects\RemotePotatoServer\Current Solution - As Service\RemotePotatoUI\bin\Release\static\skins\retro\page_viewlibrary.htm
+C:\Users\carl\Visual Studio\Projects\RemotePotatoServer\Current Solution - As Service\RemotePotatoUI\bin\Release\static\skins\retro\page_viewrecordedtv.htm
+C:\Users\carl\Visual Studio\Projects\RemotePotatoServer\Current Solution - As Service\RemotePotatoUI\bin\Release\static\skins\retro\page_viewscheduledrecordings.htm
+C:\Users\carl\Visual Studio\Projects\RemotePotatoServer\Current Solution - As Service\RemotePotatoUI\bin\Release\static\skins\retro\rectv.css
+C:\Users\carl\Visual Studio\Projects\RemotePotatoServer\Current Solution - As Service\RemotePotatoUI\bin\Release\static\skins\retro\settings.xml
+C:\Users\carl\Visual Studio\Projects\RemotePotatoServer\Current Solution - As Service\RemotePotatoUI\bin\Release\static\skins\retro\showdetails.css
+C:\Users\carl\Visual Studio\Projects\RemotePotatoServer\Current Solution - As Service\RemotePotatoUI\bin\Release\static\skins\retro\stream_show.htm
+C:\Users\carl\Visual Studio\Projects\RemotePotatoServer\Current Solution - As Service\RemotePotatoUI\bin\Release\static\skins\retro\styles.css
+C:\Users\carl\Visual Studio\Projects\RemotePotatoServer\Current Solution - As Service\RemotePotatoUI\bin\Release\static\skins\retro\thumbnail_default.png
+C:\Users\carl\Visual Studio\Projects\RemotePotatoServer\Current Solution - As Service\RemotePotatoUI\bin\Release\toolkit\ffmpeg.exe
+C:\Users\carl\Visual Studio\Projects\RemotePotatoServer\Current Solution - As Service\RemotePotatoUI\bin\Release\toolkit\ffmpeg.txt
+C:\Users\carl\Visual Studio\Projects\RemotePotatoServer\Current Solution - As Service\RemotePotatoUI\bin\Release\gpl-2.0.txt
+C:\Users\carl\Visual Studio\Projects\RemotePotatoServer\Current Solution - As Service\RemotePotatoUI\bin\Release\gplv3.txt
+C:\Users\carl\Visual Studio\Projects\RemotePotatoServer\Current Solution - As Service\RemotePotatoUI\bin\Release\toolkit\pthreadGC2.dll
+C:\Users\carl\Visual Studio\Projects\RemotePotatoServer\Current Solution - As Service\RemotePotatoUI\bin\Release\static\skins\custom\page_recordshow_series.htm
+C:\Users\carl\Visual Studio\Projects\RemotePotatoServer\Current Solution - As Service\RemotePotatoUI\bin\Release\static\skins\custom\page_remote.htm
+C:\Users\carl\Visual Studio\Projects\RemotePotatoServer\Current Solution - As Service\RemotePotatoUI\bin\Release\static\skins\custom\page_remote_command.htm
+C:\Users\carl\Visual Studio\Projects\RemotePotatoServer\Current Solution - As Service\RemotePotatoUI\bin\Release\static\skins\default\page_remote_command.htm
+C:\Users\carl\Visual Studio\Projects\RemotePotatoServer\Current Solution - As Service\RemotePotatoUI\bin\Release\static\skins\default\page_remote.htm
+C:\Users\carl\Visual Studio\Projects\RemotePotatoServer\Current Solution - As Service\RemotePotatoUI\bin\Release\static\skins\default\page_recordshow_series.htm
+C:\Users\carl\Visual Studio\Projects\RemotePotatoServer\Current Solution - As Service\RemotePotatoUI\bin\Release\static\skins\minimalist\page_recordshow_series.htm
+C:\Users\carl\Visual Studio\Projects\RemotePotatoServer\Current Solution - As Service\RemotePotatoUI\bin\Release\static\skins\minimalist\page_remote.htm
+C:\Users\carl\Visual Studio\Projects\RemotePotatoServer\Current Solution - As Service\RemotePotatoUI\bin\Release\static\skins\minimalist\page_remote_command.htm
+C:\Users\carl\Visual Studio\Projects\RemotePotatoServer\Current Solution - As Service\RemotePotatoUI\bin\Release\static\skins\retro\images\blinking_cursor.gif
+C:\Users\carl\Visual Studio\Projects\RemotePotatoServer\Current Solution - As Service\RemotePotatoUI\bin\Release\static\skins\retro\images\retrobullet.png
+C:\Users\carl\Visual Studio\Projects\RemotePotatoServer\Current Solution - As Service\RemotePotatoUI\bin\Release\static\skins\retro\page_recordshow_series.htm
+C:\Users\carl\Visual Studio\Projects\RemotePotatoServer\Current Solution - As Service\RemotePotatoUI\bin\Release\static\skins\retro\page_remote.htm
+C:\Users\carl\Visual Studio\Projects\RemotePotatoServer\Current Solution - As Service\RemotePotatoUI\bin\Release\static\skins\retro\page_remote_command.htm
+C:\Users\carl\Visual Studio\Projects\RemotePotatoServer\Current Solution - As Service\RemotePotatoUI\bin\Release\RemotePotatoUI.exe.config
+C:\Users\carl\Visual Studio\Projects\RemotePotatoServer\Current Solution - As Service\RemotePotatoUI\bin\Release\RemotePotatoUI.exe
+C:\Users\carl\Visual Studio\Projects\RemotePotatoServer\Current Solution - As Service\RemotePotatoUI\bin\Release\RemotePotatoUI.pdb
+C:\Users\carl\Visual Studio\Projects\RemotePotatoServer\Current Solution - As Service\RemotePotatoUI\bin\Release\CommonEPG.dll
+C:\Users\carl\Visual Studio\Projects\RemotePotatoServer\Current Solution - As Service\RemotePotatoUI\bin\Release\Ionic.Zip.Reduced.dll
+C:\Users\carl\Visual Studio\Projects\RemotePotatoServer\Current Solution - As Service\RemotePotatoUI\bin\Release\RemotePotatoSettings.dll
+C:\Users\carl\Visual Studio\Projects\RemotePotatoServer\Current Solution - As Service\RemotePotatoUI\bin\Release\RPServer.dll
+C:\Users\carl\Visual Studio\Projects\RemotePotatoServer\Current Solution - As Service\RemotePotatoUI\bin\Release\MSEPG.dll
+C:\Users\carl\Visual Studio\Projects\RemotePotatoServer\Current Solution - As Service\RemotePotatoUI\bin\Release\ShellUtilities.dll
+C:\Users\carl\Visual Studio\Projects\RemotePotatoServer\Current Solution - As Service\RemotePotatoUI\bin\Release\WTVTranscoder.dll
+C:\Users\carl\Visual Studio\Projects\RemotePotatoServer\Current Solution - As Service\RemotePotatoUI\bin\Release\MediaStreamer.dll
+C:\Users\carl\Visual Studio\Projects\RemotePotatoServer\Current Solution - As Service\RemotePotatoUI\bin\Release\Toub.MediaCenter.Dvrms.dll
+C:\Users\carl\Visual Studio\Projects\RemotePotatoServer\Current Solution - As Service\RemotePotatoUI\bin\Release\UltraID3Lib.dll
+C:\Users\carl\Visual Studio\Projects\RemotePotatoServer\Current Solution - As Service\RemotePotatoUI\bin\Release\Microsoft.WindowsAPICodePack.Shell.dll
+C:\Users\carl\Visual Studio\Projects\RemotePotatoServer\Current Solution - As Service\RemotePotatoUI\bin\Release\DirectShowLib-2005.dll
+C:\Users\carl\Visual Studio\Projects\RemotePotatoServer\Current Solution - As Service\RemotePotatoUI\bin\Release\WindowsMediaLib.dll
+C:\Users\carl\Visual Studio\Projects\RemotePotatoServer\Current Solution - As Service\RemotePotatoUI\bin\Release\Microsoft.WindowsAPICodePack.dll
+C:\Users\carl\Visual Studio\Projects\RemotePotatoServer\Current Solution - As Service\RemotePotatoUI\bin\Release\RemotePotatoSettings.pdb
+C:\Users\carl\Visual Studio\Projects\RemotePotatoServer\Current Solution - As Service\RemotePotatoUI\bin\Release\RPServer.pdb
+C:\Users\carl\Visual Studio\Projects\RemotePotatoServer\Current Solution - As Service\RemotePotatoUI\bin\Release\CommonEPG.pdb
+C:\Users\carl\Visual Studio\Projects\RemotePotatoServer\Current Solution - As Service\RemotePotatoUI\bin\Release\MSEPG.pdb
+C:\Users\carl\Visual Studio\Projects\RemotePotatoServer\Current Solution - As Service\RemotePotatoUI\bin\Release\ShellUtilities.pdb
+C:\Users\carl\Visual Studio\Projects\RemotePotatoServer\Current Solution - As Service\RemotePotatoUI\bin\Release\WTVTranscoder.pdb
+C:\Users\carl\Visual Studio\Projects\RemotePotatoServer\Current Solution - As Service\RemotePotatoUI\bin\Release\MediaStreamer.pdb
+C:\Users\carl\Visual Studio\Projects\RemotePotatoServer\Current Solution - As Service\RemotePotatoUI\bin\Release\Toub.MediaCenter.Dvrms.pdb
+C:\Users\carl\Visual Studio\Projects\RemotePotatoServer\Current Solution - As Service\RemotePotatoUI\bin\Release\Microsoft.WindowsAPICodePack.Shell.pdb
+C:\Users\carl\Visual Studio\Projects\RemotePotatoServer\Current Solution - As Service\RemotePotatoUI\bin\Release\Microsoft.WindowsAPICodePack.pdb
+C:\Users\carl\Visual Studio\Projects\RemotePotatoServer\Current Solution - As Service\RemotePotatoUI\obj\Release\ResolveAssemblyReference.cache
+C:\Users\carl\Visual Studio\Projects\RemotePotatoServer\Current Solution - As Service\RemotePotatoUI\obj\Release\RemotePotatoServer.Form1.resources
+C:\Users\carl\Visual Studio\Projects\RemotePotatoServer\Current Solution - As Service\RemotePotatoUI\obj\Release\RemotePotatoServer.FormChannelImportingOptions.resources
+C:\Users\carl\Visual Studio\Projects\RemotePotatoServer\Current Solution - As Service\RemotePotatoUI\obj\Release\RemotePotatoServer.FormConnectionInformation.resources
+C:\Users\carl\Visual Studio\Projects\RemotePotatoServer\Current Solution - As Service\RemotePotatoUI\obj\Release\RemotePotatoServer.FormConnectionWizard.resources
+C:\Users\carl\Visual Studio\Projects\RemotePotatoServer\Current Solution - As Service\RemotePotatoUI\obj\Release\RemotePotatoServer.FormMediaLibraryAccountSetter.resources
+C:\Users\carl\Visual Studio\Projects\RemotePotatoServer\Current Solution - As Service\RemotePotatoUI\obj\Release\RemotePotatoServer.FormFoldersCollection.resources
+C:\Users\carl\Visual Studio\Projects\RemotePotatoServer\Current Solution - As Service\RemotePotatoUI\obj\Release\RemotePotatoServer.FormThemesChooser.resources
+C:\Users\carl\Visual Studio\Projects\RemotePotatoServer\Current Solution - As Service\RemotePotatoUI\obj\Release\RemotePotatoServer.FormUserManagement.resources
+C:\Users\carl\Visual Studio\Projects\RemotePotatoServer\Current Solution - As Service\RemotePotatoUI\obj\Release\RemotePotatoServer.frmPleaseWait.resources
+C:\Users\carl\Visual Studio\Projects\RemotePotatoServer\Current Solution - As Service\RemotePotatoUI\obj\Release\RemotePotatoServer.ucConnectionSummary.resources
+C:\Users\carl\Visual Studio\Projects\RemotePotatoServer\Current Solution - As Service\RemotePotatoUI\obj\Release\RemotePotatoServer.Properties.Resources.resources
+C:\Users\carl\Visual Studio\Projects\RemotePotatoServer\Current Solution - As Service\RemotePotatoUI\obj\Release\GenerateResource.read.1.tlog
+C:\Users\carl\Visual Studio\Projects\RemotePotatoServer\Current Solution - As Service\RemotePotatoUI\obj\Release\GenerateResource.write.1.tlog
+C:\Users\carl\Visual Studio\Projects\RemotePotatoServer\Current Solution - As Service\RemotePotatoUI\obj\Release\RemotePotatoUI.exe
+C:\Users\carl\Visual Studio\Projects\RemotePotatoServer\Current Solution - As Service\RemotePotatoUI\obj\Release\RemotePotatoUI.pdb
+D:\Users\Carl\Visual Studio\Projects\RemotePotatoServer\Current Solution - As Service\RemotePotatoUI\bin\Release\static\silverlight\SilverPotato.xap
+D:\Users\Carl\Visual Studio\Projects\RemotePotatoServer\Current Solution - As Service\RemotePotatoUI\bin\Release\static\clientaccesspolicy.xml
+D:\Users\Carl\Visual Studio\Projects\RemotePotatoServer\Current Solution - As Service\RemotePotatoUI\bin\Release\static\images\btnSaveSong.png
+D:\Users\Carl\Visual Studio\Projects\RemotePotatoServer\Current Solution - As Service\RemotePotatoUI\bin\Release\static\images\btnStreamSong.png
+D:\Users\Carl\Visual Studio\Projects\RemotePotatoServer\Current Solution - As Service\RemotePotatoUI\bin\Release\static\images\epgchanneldownarrow.png
+D:\Users\Carl\Visual Studio\Projects\RemotePotatoServer\Current Solution - As Service\RemotePotatoUI\bin\Release\static\images\epgchanneldownarrow_disabled.png
+D:\Users\Carl\Visual Studio\Projects\RemotePotatoServer\Current Solution - As Service\RemotePotatoUI\bin\Release\static\images\epgchanneluparrow.png
+D:\Users\Carl\Visual Studio\Projects\RemotePotatoServer\Current Solution - As Service\RemotePotatoUI\bin\Release\static\images\epgchanneluparrow_disabled.png
+D:\Users\Carl\Visual Studio\Projects\RemotePotatoServer\Current Solution - As Service\RemotePotatoUI\bin\Release\static\images\epggrid_shading.png
+D:\Users\Carl\Visual Studio\Projects\RemotePotatoServer\Current Solution - As Service\RemotePotatoUI\bin\Release\static\images\epgtimeleftarrow.png
+D:\Users\Carl\Visual Studio\Projects\RemotePotatoServer\Current Solution - As Service\RemotePotatoUI\bin\Release\static\images\epgtimerightarrow.png
+D:\Users\Carl\Visual Studio\Projects\RemotePotatoServer\Current Solution - As Service\RemotePotatoUI\bin\Release\static\images\apple-touch-icon.png
+D:\Users\Carl\Visual Studio\Projects\RemotePotatoServer\Current Solution - As Service\RemotePotatoUI\bin\Release\static\images\imgFolder150x75.png
+D:\Users\Carl\Visual Studio\Projects\RemotePotatoServer\Current Solution - As Service\RemotePotatoUI\bin\Release\static\images\logosquare.png
+D:\Users\Carl\Visual Studio\Projects\RemotePotatoServer\Current Solution - As Service\RemotePotatoUI\bin\Release\static\images\mce_remote2.png
+D:\Users\Carl\Visual Studio\Projects\RemotePotatoServer\Current Solution - As Service\RemotePotatoUI\bin\Release\static\images\remotepotatoicon.ico
+D:\Users\Carl\Visual Studio\Projects\RemotePotatoServer\Current Solution - As Service\RemotePotatoUI\bin\Release\static\images\record_dot_onetime.png
+D:\Users\Carl\Visual Studio\Projects\RemotePotatoServer\Current Solution - As Service\RemotePotatoUI\bin\Release\static\images\record_dot_series.png
+D:\Users\Carl\Visual Studio\Projects\RemotePotatoServer\Current Solution - As Service\RemotePotatoUI\bin\Release\static\images\remotepotato_HLogo_small.png
+D:\Users\Carl\Visual Studio\Projects\RemotePotatoServer\Current Solution - As Service\RemotePotatoUI\bin\Release\static\images\showhdlogo.png
+D:\Users\Carl\Visual Studio\Projects\RemotePotatoServer\Current Solution - As Service\RemotePotatoUI\bin\Release\static\images\showtypedocumentary.png
+D:\Users\Carl\Visual Studio\Projects\RemotePotatoServer\Current Solution - As Service\RemotePotatoUI\bin\Release\static\images\showtypekids.png
+D:\Users\Carl\Visual Studio\Projects\RemotePotatoServer\Current Solution - As Service\RemotePotatoUI\bin\Release\static\images\showtypemovie.png
+D:\Users\Carl\Visual Studio\Projects\RemotePotatoServer\Current Solution - As Service\RemotePotatoUI\bin\Release\static\images\showtypenews.png
+D:\Users\Carl\Visual Studio\Projects\RemotePotatoServer\Current Solution - As Service\RemotePotatoUI\bin\Release\static\images\showtypesport.png
+D:\Users\Carl\Visual Studio\Projects\RemotePotatoServer\Current Solution - As Service\RemotePotatoUI\bin\Release\static\images\starHalf.png
+D:\Users\Carl\Visual Studio\Projects\RemotePotatoServer\Current Solution - As Service\RemotePotatoUI\bin\Release\static\images\starOff.png
+D:\Users\Carl\Visual Studio\Projects\RemotePotatoServer\Current Solution - As Service\RemotePotatoUI\bin\Release\static\images\starOn.png
+D:\Users\Carl\Visual Studio\Projects\RemotePotatoServer\Current Solution - As Service\RemotePotatoUI\bin\Release\static\images\tinypotato.png
+D:\Users\Carl\Visual Studio\Projects\RemotePotatoServer\Current Solution - As Service\RemotePotatoUI\bin\Release\static\images\topbanner_landscape.png
+D:\Users\Carl\Visual Studio\Projects\RemotePotatoServer\Current Solution - As Service\RemotePotatoUI\bin\Release\static\images\topbanner_portrait.png
+D:\Users\Carl\Visual Studio\Projects\RemotePotatoServer\Current Solution - As Service\RemotePotatoUI\bin\Release\static\silverlight\default_template.htm
+D:\Users\Carl\Visual Studio\Projects\RemotePotatoServer\Current Solution - As Service\RemotePotatoUI\bin\Release\static\silverlight\HLSMediaSource.dll
+D:\Users\Carl\Visual Studio\Projects\RemotePotatoServer\Current Solution - As Service\RemotePotatoUI\bin\Release\static\skins\custom\about.txt
+D:\Users\Carl\Visual Studio\Projects\RemotePotatoServer\Current Solution - As Service\RemotePotatoUI\bin\Release\static\skins\custom\epg-grid.css
+D:\Users\Carl\Visual Studio\Projects\RemotePotatoServer\Current Solution - As Service\RemotePotatoUI\bin\Release\static\skins\custom\epg-list.css
+D:\Users\Carl\Visual Studio\Projects\RemotePotatoServer\Current Solution - As Service\RemotePotatoUI\bin\Release\static\skins\custom\images\background.jpg
+D:\Users\Carl\Visual Studio\Projects\RemotePotatoServer\Current Solution - As Service\RemotePotatoUI\bin\Release\static\skins\custom\images\transparentgray40.png
+D:\Users\Carl\Visual Studio\Projects\RemotePotatoServer\Current Solution - As Service\RemotePotatoUI\bin\Release\static\skins\custom\masterpage.htm
+D:\Users\Carl\Visual Studio\Projects\RemotePotatoServer\Current Solution - As Service\RemotePotatoUI\bin\Release\static\skins\custom\movies.css
+D:\Users\Carl\Visual Studio\Projects\RemotePotatoServer\Current Solution - As Service\RemotePotatoUI\bin\Release\static\skins\custom\page_music_collection.htm
+D:\Users\Carl\Visual Studio\Projects\RemotePotatoServer\Current Solution - As Service\RemotePotatoUI\bin\Release\static\skins\custom\page_music_songs.htm
+D:\Users\Carl\Visual Studio\Projects\RemotePotatoServer\Current Solution - As Service\RemotePotatoUI\bin\Release\static\skins\custom\page_recordmanual.htm
+D:\Users\Carl\Visual Studio\Projects\RemotePotatoServer\Current Solution - As Service\RemotePotatoUI\bin\Release\static\skins\custom\page_recordshow_onetime.htm
+D:\Users\Carl\Visual Studio\Projects\RemotePotatoServer\Current Solution - As Service\RemotePotatoUI\bin\Release\static\skins\custom\page_searchshow_results.htm
+D:\Users\Carl\Visual Studio\Projects\RemotePotatoServer\Current Solution - As Service\RemotePotatoUI\bin\Release\static\skins\custom\page_searchshow_title.htm
+D:\Users\Carl\Visual Studio\Projects\RemotePotatoServer\Current Solution - As Service\RemotePotatoUI\bin\Release\static\skins\custom\page_series.htm
+D:\Users\Carl\Visual Studio\Projects\RemotePotatoServer\Current Solution - As Service\RemotePotatoUI\bin\Release\static\skins\custom\page_show.htm
+D:\Users\Carl\Visual Studio\Projects\RemotePotatoServer\Current Solution - As Service\RemotePotatoUI\bin\Release\static\skins\custom\page_viewepg_grid.htm
+D:\Users\Carl\Visual Studio\Projects\RemotePotatoServer\Current Solution - As Service\RemotePotatoUI\bin\Release\static\skins\custom\page_viewepg_tbl.htm
+D:\Users\Carl\Visual Studio\Projects\RemotePotatoServer\Current Solution - As Service\RemotePotatoUI\bin\Release\static\skins\custom\page_viewlibrary.htm
+D:\Users\Carl\Visual Studio\Projects\RemotePotatoServer\Current Solution - As Service\RemotePotatoUI\bin\Release\static\skins\custom\page_viewpicture.htm
+D:\Users\Carl\Visual Studio\Projects\RemotePotatoServer\Current Solution - As Service\RemotePotatoUI\bin\Release\static\skins\custom\page_viewrecordedtv.htm
+D:\Users\Carl\Visual Studio\Projects\RemotePotatoServer\Current Solution - As Service\RemotePotatoUI\bin\Release\static\skins\custom\page_viewscheduledrecordings.htm
+D:\Users\Carl\Visual Studio\Projects\RemotePotatoServer\Current Solution - As Service\RemotePotatoUI\bin\Release\static\skins\custom\rectv.css
+D:\Users\Carl\Visual Studio\Projects\RemotePotatoServer\Current Solution - As Service\RemotePotatoUI\bin\Release\static\skins\custom\settings.xml
+D:\Users\Carl\Visual Studio\Projects\RemotePotatoServer\Current Solution - As Service\RemotePotatoUI\bin\Release\static\skins\custom\showdetails.css
+D:\Users\Carl\Visual Studio\Projects\RemotePotatoServer\Current Solution - As Service\RemotePotatoUI\bin\Release\static\skins\custom\stream_show.htm
+D:\Users\Carl\Visual Studio\Projects\RemotePotatoServer\Current Solution - As Service\RemotePotatoUI\bin\Release\static\skins\custom\styles.css
+D:\Users\Carl\Visual Studio\Projects\RemotePotatoServer\Current Solution - As Service\RemotePotatoUI\bin\Release\static\skins\custom\thumbnail_default.png
+D:\Users\Carl\Visual Studio\Projects\RemotePotatoServer\Current Solution - As Service\RemotePotatoUI\bin\Release\static\skins\default\about.txt
+D:\Users\Carl\Visual Studio\Projects\RemotePotatoServer\Current Solution - As Service\RemotePotatoUI\bin\Release\static\skins\default\page_viewlibrary.htm
+D:\Users\Carl\Visual Studio\Projects\RemotePotatoServer\Current Solution - As Service\RemotePotatoUI\bin\Release\static\skins\default\page_music_collection.htm
+D:\Users\Carl\Visual Studio\Projects\RemotePotatoServer\Current Solution - As Service\RemotePotatoUI\bin\Release\static\skins\default\page_music_songs.htm
+D:\Users\Carl\Visual Studio\Projects\RemotePotatoServer\Current Solution - As Service\RemotePotatoUI\bin\Release\static\skins\default\page_show.htm
+D:\Users\Carl\Visual Studio\Projects\RemotePotatoServer\Current Solution - As Service\RemotePotatoUI\bin\Release\static\skins\default\epg-grid.css
+D:\Users\Carl\Visual Studio\Projects\RemotePotatoServer\Current Solution - As Service\RemotePotatoUI\bin\Release\static\skins\default\epg-list.css
+D:\Users\Carl\Visual Studio\Projects\RemotePotatoServer\Current Solution - As Service\RemotePotatoUI\bin\Release\static\skins\default\images\background.jpg
+D:\Users\Carl\Visual Studio\Projects\RemotePotatoServer\Current Solution - As Service\RemotePotatoUI\bin\Release\static\skins\default\images\transparentgray40.png
+D:\Users\Carl\Visual Studio\Projects\RemotePotatoServer\Current Solution - As Service\RemotePotatoUI\bin\Release\static\skins\default\masterpage.htm
+D:\Users\Carl\Visual Studio\Projects\RemotePotatoServer\Current Solution - As Service\RemotePotatoUI\bin\Release\static\skins\default\movies.css
+D:\Users\Carl\Visual Studio\Projects\RemotePotatoServer\Current Solution - As Service\RemotePotatoUI\bin\Release\static\skins\default\page_login.htm
+D:\Users\Carl\Visual Studio\Projects\RemotePotatoServer\Current Solution - As Service\RemotePotatoUI\bin\Release\static\skins\default\page_movie.htm
+D:\Users\Carl\Visual Studio\Projects\RemotePotatoServer\Current Solution - As Service\RemotePotatoUI\bin\Release\static\skins\default\page_recordmanual.htm
+D:\Users\Carl\Visual Studio\Projects\RemotePotatoServer\Current Solution - As Service\RemotePotatoUI\bin\Release\static\skins\default\page_recordshow_onetime.htm
+D:\Users\Carl\Visual Studio\Projects\RemotePotatoServer\Current Solution - As Service\RemotePotatoUI\bin\Release\static\skins\default\page_searchshow_results.htm
+D:\Users\Carl\Visual Studio\Projects\RemotePotatoServer\Current Solution - As Service\RemotePotatoUI\bin\Release\static\skins\default\page_searchshow_title.htm
+D:\Users\Carl\Visual Studio\Projects\RemotePotatoServer\Current Solution - As Service\RemotePotatoUI\bin\Release\static\skins\default\page_series.htm
+D:\Users\Carl\Visual Studio\Projects\RemotePotatoServer\Current Solution - As Service\RemotePotatoUI\bin\Release\static\skins\default\page_viewepg_grid.htm
+D:\Users\Carl\Visual Studio\Projects\RemotePotatoServer\Current Solution - As Service\RemotePotatoUI\bin\Release\static\skins\default\page_viewepg_tbl.htm
+D:\Users\Carl\Visual Studio\Projects\RemotePotatoServer\Current Solution - As Service\RemotePotatoUI\bin\Release\static\skins\default\page_viewpicture.htm
+D:\Users\Carl\Visual Studio\Projects\RemotePotatoServer\Current Solution - As Service\RemotePotatoUI\bin\Release\static\skins\default\page_viewrecordedtv.htm
+D:\Users\Carl\Visual Studio\Projects\RemotePotatoServer\Current Solution - As Service\RemotePotatoUI\bin\Release\static\skins\default\page_viewscheduledrecordings.htm
+D:\Users\Carl\Visual Studio\Projects\RemotePotatoServer\Current Solution - As Service\RemotePotatoUI\bin\Release\static\skins\default\rectv.css
+D:\Users\Carl\Visual Studio\Projects\RemotePotatoServer\Current Solution - As Service\RemotePotatoUI\bin\Release\static\skins\default\settings.xml
+D:\Users\Carl\Visual Studio\Projects\RemotePotatoServer\Current Solution - As Service\RemotePotatoUI\bin\Release\static\skins\default\showdetails.css
+D:\Users\Carl\Visual Studio\Projects\RemotePotatoServer\Current Solution - As Service\RemotePotatoUI\bin\Release\static\skins\default\stream_show.htm
+D:\Users\Carl\Visual Studio\Projects\RemotePotatoServer\Current Solution - As Service\RemotePotatoUI\bin\Release\static\skins\default\styles.css
+D:\Users\Carl\Visual Studio\Projects\RemotePotatoServer\Current Solution - As Service\RemotePotatoUI\bin\Release\static\skins\default\thumbnail_default.png
+D:\Users\Carl\Visual Studio\Projects\RemotePotatoServer\Current Solution - As Service\RemotePotatoUI\bin\Release\static\skins\minimalist\about.txt
+D:\Users\Carl\Visual Studio\Projects\RemotePotatoServer\Current Solution - As Service\RemotePotatoUI\bin\Release\static\skins\minimalist\epg-grid.css
+D:\Users\Carl\Visual Studio\Projects\RemotePotatoServer\Current Solution - As Service\RemotePotatoUI\bin\Release\static\skins\minimalist\epg-list.css
+D:\Users\Carl\Visual Studio\Projects\RemotePotatoServer\Current Solution - As Service\RemotePotatoUI\bin\Release\static\skins\minimalist\masterpage.htm
+D:\Users\Carl\Visual Studio\Projects\RemotePotatoServer\Current Solution - As Service\RemotePotatoUI\bin\Release\static\skins\minimalist\movies.css
+D:\Users\Carl\Visual Studio\Projects\RemotePotatoServer\Current Solution - As Service\RemotePotatoUI\bin\Release\static\skins\minimalist\page_movie.htm
+D:\Users\Carl\Visual Studio\Projects\RemotePotatoServer\Current Solution - As Service\RemotePotatoUI\bin\Release\static\skins\minimalist\page_movies.htm
+D:\Users\Carl\Visual Studio\Projects\RemotePotatoServer\Current Solution - As Service\RemotePotatoUI\bin\Release\static\skins\minimalist\page_music_collection.htm
+D:\Users\Carl\Visual Studio\Projects\RemotePotatoServer\Current Solution - As Service\RemotePotatoUI\bin\Release\static\skins\minimalist\page_music_songs.htm
+D:\Users\Carl\Visual Studio\Projects\RemotePotatoServer\Current Solution - As Service\RemotePotatoUI\bin\Release\static\skins\minimalist\page_recordmanual.htm
+D:\Users\Carl\Visual Studio\Projects\RemotePotatoServer\Current Solution - As Service\RemotePotatoUI\bin\Release\static\skins\minimalist\page_recordshow_onetime.htm
+D:\Users\Carl\Visual Studio\Projects\RemotePotatoServer\Current Solution - As Service\RemotePotatoUI\bin\Release\static\skins\minimalist\page_searchshow_results.htm
+D:\Users\Carl\Visual Studio\Projects\RemotePotatoServer\Current Solution - As Service\RemotePotatoUI\bin\Release\static\skins\minimalist\page_searchshow_title.htm
+D:\Users\Carl\Visual Studio\Projects\RemotePotatoServer\Current Solution - As Service\RemotePotatoUI\bin\Release\static\skins\minimalist\page_series.htm
+D:\Users\Carl\Visual Studio\Projects\RemotePotatoServer\Current Solution - As Service\RemotePotatoUI\bin\Release\static\skins\minimalist\page_show.htm
+D:\Users\Carl\Visual Studio\Projects\RemotePotatoServer\Current Solution - As Service\RemotePotatoUI\bin\Release\static\skins\minimalist\page_viewepg_grid.htm
+D:\Users\Carl\Visual Studio\Projects\RemotePotatoServer\Current Solution - As Service\RemotePotatoUI\bin\Release\static\skins\minimalist\page_viewepg_tbl.htm
+D:\Users\Carl\Visual Studio\Projects\RemotePotatoServer\Current Solution - As Service\RemotePotatoUI\bin\Release\static\skins\minimalist\page_viewlibrary.htm
+D:\Users\Carl\Visual Studio\Projects\RemotePotatoServer\Current Solution - As Service\RemotePotatoUI\bin\Release\static\skins\minimalist\page_viewpicture.htm
+D:\Users\Carl\Visual Studio\Projects\RemotePotatoServer\Current Solution - As Service\RemotePotatoUI\bin\Release\static\skins\minimalist\page_viewrecordedtv.htm
+D:\Users\Carl\Visual Studio\Projects\RemotePotatoServer\Current Solution - As Service\RemotePotatoUI\bin\Release\static\skins\minimalist\page_viewscheduledrecordings.htm
+D:\Users\Carl\Visual Studio\Projects\RemotePotatoServer\Current Solution - As Service\RemotePotatoUI\bin\Release\static\skins\minimalist\rectv.css
+D:\Users\Carl\Visual Studio\Projects\RemotePotatoServer\Current Solution - As Service\RemotePotatoUI\bin\Release\static\skins\minimalist\settings.xml
+D:\Users\Carl\Visual Studio\Projects\RemotePotatoServer\Current Solution - As Service\RemotePotatoUI\bin\Release\static\skins\minimalist\showdetails.css
+D:\Users\Carl\Visual Studio\Projects\RemotePotatoServer\Current Solution - As Service\RemotePotatoUI\bin\Release\static\skins\minimalist\stream_show.htm
+D:\Users\Carl\Visual Studio\Projects\RemotePotatoServer\Current Solution - As Service\RemotePotatoUI\bin\Release\static\skins\minimalist\styles.css
+D:\Users\Carl\Visual Studio\Projects\RemotePotatoServer\Current Solution - As Service\RemotePotatoUI\bin\Release\static\skins\minimalist\thumbnail_default.png
+D:\Users\Carl\Visual Studio\Projects\RemotePotatoServer\Current Solution - As Service\RemotePotatoUI\bin\Release\static\skins\retro\about.txt
+D:\Users\Carl\Visual Studio\Projects\RemotePotatoServer\Current Solution - As Service\RemotePotatoUI\bin\Release\static\skins\retro\page_viewpicture.htm
+D:\Users\Carl\Visual Studio\Projects\RemotePotatoServer\Current Solution - As Service\RemotePotatoUI\bin\Release\static\skins\retro\epg-grid.css
+D:\Users\Carl\Visual Studio\Projects\RemotePotatoServer\Current Solution - As Service\RemotePotatoUI\bin\Release\static\skins\retro\epg-list.css
+D:\Users\Carl\Visual Studio\Projects\RemotePotatoServer\Current Solution - As Service\RemotePotatoUI\bin\Release\static\skins\retro\images\topbanner_retro.png
+D:\Users\Carl\Visual Studio\Projects\RemotePotatoServer\Current Solution - As Service\RemotePotatoUI\bin\Release\static\skins\retro\masterpage.htm
+D:\Users\Carl\Visual Studio\Projects\RemotePotatoServer\Current Solution - As Service\RemotePotatoUI\bin\Release\static\skins\retro\movies.css
+D:\Users\Carl\Visual Studio\Projects\RemotePotatoServer\Current Solution - As Service\RemotePotatoUI\bin\Release\static\skins\retro\page_movie.htm
+D:\Users\Carl\Visual Studio\Projects\RemotePotatoServer\Current Solution - As Service\RemotePotatoUI\bin\Release\static\skins\retro\page_movies.htm
+D:\Users\Carl\Visual Studio\Projects\RemotePotatoServer\Current Solution - As Service\RemotePotatoUI\bin\Release\static\skins\retro\page_music_collection.htm
+D:\Users\Carl\Visual Studio\Projects\RemotePotatoServer\Current Solution - As Service\RemotePotatoUI\bin\Release\static\skins\retro\page_music_songs.htm
+D:\Users\Carl\Visual Studio\Projects\RemotePotatoServer\Current Solution - As Service\RemotePotatoUI\bin\Release\static\skins\retro\page_recordmanual.htm
+D:\Users\Carl\Visual Studio\Projects\RemotePotatoServer\Current Solution - As Service\RemotePotatoUI\bin\Release\static\skins\retro\page_recordshow_onetime.htm
+D:\Users\Carl\Visual Studio\Projects\RemotePotatoServer\Current Solution - As Service\RemotePotatoUI\bin\Release\static\skins\retro\page_searchshow_results.htm
+D:\Users\Carl\Visual Studio\Projects\RemotePotatoServer\Current Solution - As Service\RemotePotatoUI\bin\Release\static\skins\retro\page_searchshow_title.htm
+D:\Users\Carl\Visual Studio\Projects\RemotePotatoServer\Current Solution - As Service\RemotePotatoUI\bin\Release\static\skins\retro\page_series.htm
+D:\Users\Carl\Visual Studio\Projects\RemotePotatoServer\Current Solution - As Service\RemotePotatoUI\bin\Release\static\skins\retro\page_show.htm
+D:\Users\Carl\Visual Studio\Projects\RemotePotatoServer\Current Solution - As Service\RemotePotatoUI\bin\Release\static\skins\retro\page_viewepg_grid.htm
+D:\Users\Carl\Visual Studio\Projects\RemotePotatoServer\Current Solution - As Service\RemotePotatoUI\bin\Release\static\skins\retro\page_viewepg_tbl.htm
+D:\Users\Carl\Visual Studio\Projects\RemotePotatoServer\Current Solution - As Service\RemotePotatoUI\bin\Release\static\skins\retro\page_viewlibrary.htm
+D:\Users\Carl\Visual Studio\Projects\RemotePotatoServer\Current Solution - As Service\RemotePotatoUI\bin\Release\static\skins\retro\page_viewrecordedtv.htm
+D:\Users\Carl\Visual Studio\Projects\RemotePotatoServer\Current Solution - As Service\RemotePotatoUI\bin\Release\static\skins\retro\page_viewscheduledrecordings.htm
+D:\Users\Carl\Visual Studio\Projects\RemotePotatoServer\Current Solution - As Service\RemotePotatoUI\bin\Release\static\skins\retro\rectv.css
+D:\Users\Carl\Visual Studio\Projects\RemotePotatoServer\Current Solution - As Service\RemotePotatoUI\bin\Release\static\skins\retro\settings.xml
+D:\Users\Carl\Visual Studio\Projects\RemotePotatoServer\Current Solution - As Service\RemotePotatoUI\bin\Release\static\skins\retro\showdetails.css
+D:\Users\Carl\Visual Studio\Projects\RemotePotatoServer\Current Solution - As Service\RemotePotatoUI\bin\Release\static\skins\retro\stream_show.htm
+D:\Users\Carl\Visual Studio\Projects\RemotePotatoServer\Current Solution - As Service\RemotePotatoUI\bin\Release\static\skins\retro\styles.css
+D:\Users\Carl\Visual Studio\Projects\RemotePotatoServer\Current Solution - As Service\RemotePotatoUI\bin\Release\static\skins\retro\thumbnail_default.png
+D:\Users\Carl\Visual Studio\Projects\RemotePotatoServer\Current Solution - As Service\RemotePotatoUI\bin\Release\static\robots.txt
+D:\Users\Carl\Visual Studio\Projects\RemotePotatoServer\Current Solution - As Service\RemotePotatoUI\bin\Release\toolkit\ffmpeg.exe
+D:\Users\Carl\Visual Studio\Projects\RemotePotatoServer\Current Solution - As Service\RemotePotatoUI\bin\Release\toolkit\ffmpeg.txt
+D:\Users\Carl\Visual Studio\Projects\RemotePotatoServer\Current Solution - As Service\RemotePotatoUI\bin\Release\gpl-2.0.txt
+D:\Users\Carl\Visual Studio\Projects\RemotePotatoServer\Current Solution - As Service\RemotePotatoUI\bin\Release\gplv3.txt
+D:\Users\Carl\Visual Studio\Projects\RemotePotatoServer\Current Solution - As Service\RemotePotatoUI\bin\Release\toolkit\pthreadGC2.dll
+D:\Users\Carl\Visual Studio\Projects\RemotePotatoServer\Current Solution - As Service\RemotePotatoUI\bin\Release\static\skins\custom\page_recordshow_series.htm
+D:\Users\Carl\Visual Studio\Projects\RemotePotatoServer\Current Solution - As Service\RemotePotatoUI\bin\Release\static\skins\custom\page_remote.htm
+D:\Users\Carl\Visual Studio\Projects\RemotePotatoServer\Current Solution - As Service\RemotePotatoUI\bin\Release\static\skins\custom\page_remote_command.htm
+D:\Users\Carl\Visual Studio\Projects\RemotePotatoServer\Current Solution - As Service\RemotePotatoUI\bin\Release\static\skins\default\page_remote_command.htm
+D:\Users\Carl\Visual Studio\Projects\RemotePotatoServer\Current Solution - As Service\RemotePotatoUI\bin\Release\static\skins\default\page_remote.htm
+D:\Users\Carl\Visual Studio\Projects\RemotePotatoServer\Current Solution - As Service\RemotePotatoUI\bin\Release\static\skins\default\page_recordshow_series.htm
+D:\Users\Carl\Visual Studio\Projects\RemotePotatoServer\Current Solution - As Service\RemotePotatoUI\bin\Release\static\skins\minimalist\page_recordshow_series.htm
+D:\Users\Carl\Visual Studio\Projects\RemotePotatoServer\Current Solution - As Service\RemotePotatoUI\bin\Release\static\skins\minimalist\page_remote.htm
+D:\Users\Carl\Visual Studio\Projects\RemotePotatoServer\Current Solution - As Service\RemotePotatoUI\bin\Release\static\skins\minimalist\page_remote_command.htm
+D:\Users\Carl\Visual Studio\Projects\RemotePotatoServer\Current Solution - As Service\RemotePotatoUI\bin\Release\static\skins\retro\images\blinking_cursor.gif
+D:\Users\Carl\Visual Studio\Projects\RemotePotatoServer\Current Solution - As Service\RemotePotatoUI\bin\Release\static\skins\retro\images\retrobullet.png
+D:\Users\Carl\Visual Studio\Projects\RemotePotatoServer\Current Solution - As Service\RemotePotatoUI\bin\Release\static\skins\retro\page_recordshow_series.htm
+D:\Users\Carl\Visual Studio\Projects\RemotePotatoServer\Current Solution - As Service\RemotePotatoUI\bin\Release\static\skins\retro\page_remote.htm
+D:\Users\Carl\Visual Studio\Projects\RemotePotatoServer\Current Solution - As Service\RemotePotatoUI\bin\Release\static\skins\retro\page_remote_command.htm
+D:\Users\Carl\Visual Studio\Projects\RemotePotatoServer\Current Solution - As Service\RemotePotatoUI\bin\Release\RemotePotatoUI.exe.config
+D:\Users\Carl\Visual Studio\Projects\RemotePotatoServer\Current Solution - As Service\RemotePotatoUI\bin\Release\RemotePotatoUI.exe
+D:\Users\Carl\Visual Studio\Projects\RemotePotatoServer\Current Solution - As Service\RemotePotatoUI\bin\Release\RemotePotatoUI.pdb
+D:\Users\Carl\Visual Studio\Projects\RemotePotatoServer\Current Solution - As Service\RemotePotatoUI\bin\Release\CommonEPG.dll
+D:\Users\Carl\Visual Studio\Projects\RemotePotatoServer\Current Solution - As Service\RemotePotatoUI\bin\Release\Ionic.Zip.Reduced.dll
+D:\Users\Carl\Visual Studio\Projects\RemotePotatoServer\Current Solution - As Service\RemotePotatoUI\bin\Release\RemotePotatoSettings.dll
+D:\Users\Carl\Visual Studio\Projects\RemotePotatoServer\Current Solution - As Service\RemotePotatoUI\bin\Release\RPServer.dll
+D:\Users\Carl\Visual Studio\Projects\RemotePotatoServer\Current Solution - As Service\RemotePotatoUI\bin\Release\ShellUtilities.dll
+D:\Users\Carl\Visual Studio\Projects\RemotePotatoServer\Current Solution - As Service\RemotePotatoUI\bin\Release\MediaStreamer.dll
+D:\Users\Carl\Visual Studio\Projects\RemotePotatoServer\Current Solution - As Service\RemotePotatoUI\bin\Release\WTVTranscoder.dll
+D:\Users\Carl\Visual Studio\Projects\RemotePotatoServer\Current Solution - As Service\RemotePotatoUI\bin\Release\MSEPG.dll
+D:\Users\Carl\Visual Studio\Projects\RemotePotatoServer\Current Solution - As Service\RemotePotatoUI\bin\Release\Toub.MediaCenter.Dvrms.dll
+D:\Users\Carl\Visual Studio\Projects\RemotePotatoServer\Current Solution - As Service\RemotePotatoUI\bin\Release\UltraID3Lib.dll
+D:\Users\Carl\Visual Studio\Projects\RemotePotatoServer\Current Solution - As Service\RemotePotatoUI\bin\Release\Microsoft.WindowsAPICodePack.Shell.dll
+D:\Users\Carl\Visual Studio\Projects\RemotePotatoServer\Current Solution - As Service\RemotePotatoUI\bin\Release\DirectShowLib-2005.dll
+D:\Users\Carl\Visual Studio\Projects\RemotePotatoServer\Current Solution - As Service\RemotePotatoUI\bin\Release\WindowsMediaLib.dll
+D:\Users\Carl\Visual Studio\Projects\RemotePotatoServer\Current Solution - As Service\RemotePotatoUI\bin\Release\Microsoft.WindowsAPICodePack.dll
+D:\Users\Carl\Visual Studio\Projects\RemotePotatoServer\Current Solution - As Service\RemotePotatoUI\bin\Release\RemotePotatoSettings.pdb
+D:\Users\Carl\Visual Studio\Projects\RemotePotatoServer\Current Solution - As Service\RemotePotatoUI\bin\Release\RPServer.pdb
+D:\Users\Carl\Visual Studio\Projects\RemotePotatoServer\Current Solution - As Service\RemotePotatoUI\bin\Release\CommonEPG.pdb
+D:\Users\Carl\Visual Studio\Projects\RemotePotatoServer\Current Solution - As Service\RemotePotatoUI\bin\Release\ShellUtilities.pdb
+D:\Users\Carl\Visual Studio\Projects\RemotePotatoServer\Current Solution - As Service\RemotePotatoUI\bin\Release\MediaStreamer.pdb
+D:\Users\Carl\Visual Studio\Projects\RemotePotatoServer\Current Solution - As Service\RemotePotatoUI\bin\Release\WTVTranscoder.pdb
+D:\Users\Carl\Visual Studio\Projects\RemotePotatoServer\Current Solution - As Service\RemotePotatoUI\bin\Release\MSEPG.pdb
+D:\Users\Carl\Visual Studio\Projects\RemotePotatoServer\Current Solution - As Service\RemotePotatoUI\bin\Release\Toub.MediaCenter.Dvrms.pdb
+D:\Users\Carl\Visual Studio\Projects\RemotePotatoServer\Current Solution - As Service\RemotePotatoUI\bin\Release\Microsoft.WindowsAPICodePack.Shell.pdb
+D:\Users\Carl\Visual Studio\Projects\RemotePotatoServer\Current Solution - As Service\RemotePotatoUI\bin\Release\Microsoft.WindowsAPICodePack.pdb
+D:\Users\Carl\Visual Studio\Projects\RemotePotatoServer\Current Solution - As Service\RemotePotatoUI\obj\Release\ResolveAssemblyReference.cache
+D:\Users\Carl\Visual Studio\Projects\RemotePotatoServer\Current Solution - As Service\RemotePotatoUI\obj\Release\RemotePotatoServer.Form1.resources
+D:\Users\Carl\Visual Studio\Projects\RemotePotatoServer\Current Solution - As Service\RemotePotatoUI\obj\Release\RemotePotatoServer.FormChannelImportingOptions.resources
+D:\Users\Carl\Visual Studio\Projects\RemotePotatoServer\Current Solution - As Service\RemotePotatoUI\obj\Release\RemotePotatoServer.FormConnectionInformation.resources
+D:\Users\Carl\Visual Studio\Projects\RemotePotatoServer\Current Solution - As Service\RemotePotatoUI\obj\Release\RemotePotatoServer.FormConnectionWizard.resources
+D:\Users\Carl\Visual Studio\Projects\RemotePotatoServer\Current Solution - As Service\RemotePotatoUI\obj\Release\RemotePotatoServer.FormDonationRequest.resources
+D:\Users\Carl\Visual Studio\Projects\RemotePotatoServer\Current Solution - As Service\RemotePotatoUI\obj\Release\RemotePotatoServer.FormInputBox.resources
+D:\Users\Carl\Visual Studio\Projects\RemotePotatoServer\Current Solution - As Service\RemotePotatoUI\obj\Release\RemotePotatoServer.FormMediaLibraryAccountSetter.resources
+D:\Users\Carl\Visual Studio\Projects\RemotePotatoServer\Current Solution - As Service\RemotePotatoUI\obj\Release\RemotePotatoServer.FormFoldersCollection.resources
+D:\Users\Carl\Visual Studio\Projects\RemotePotatoServer\Current Solution - As Service\RemotePotatoUI\obj\Release\RemotePotatoServer.FormThemesChooser.resources
+D:\Users\Carl\Visual Studio\Projects\RemotePotatoServer\Current Solution - As Service\RemotePotatoUI\obj\Release\RemotePotatoServer.FormUserManagement.resources
+D:\Users\Carl\Visual Studio\Projects\RemotePotatoServer\Current Solution - As Service\RemotePotatoUI\obj\Release\RemotePotatoServer.frmPleaseWait.resources
+D:\Users\Carl\Visual Studio\Projects\RemotePotatoServer\Current Solution - As Service\RemotePotatoUI\obj\Release\RemotePotatoServer.ucConnectionSummary.resources
+D:\Users\Carl\Visual Studio\Projects\RemotePotatoServer\Current Solution - As Service\RemotePotatoUI\obj\Release\RemotePotatoServer.Properties.Resources.resources
+D:\Users\Carl\Visual Studio\Projects\RemotePotatoServer\Current Solution - As Service\RemotePotatoUI\obj\Release\GenerateResource.read.1.tlog
+D:\Users\Carl\Visual Studio\Projects\RemotePotatoServer\Current Solution - As Service\RemotePotatoUI\obj\Release\GenerateResource.write.1.tlog
+D:\Users\Carl\Visual Studio\Projects\RemotePotatoServer\Current Solution - As Service\RemotePotatoUI\obj\Release\RemotePotatoUI.exe
+D:\Users\Carl\Visual Studio\Projects\RemotePotatoServer\Current Solution - As Service\RemotePotatoUI\obj\Release\RemotePotatoUI.pdb
+D:\Users\Carl\Visual Studio\Projects\RemotePotatoServer\GitHub\RemotePotatoUI\bin\Release\static\silverlight\SilverPotato.xap
+D:\Users\Carl\Visual Studio\Projects\RemotePotatoServer\GitHub\RemotePotatoUI\bin\Release\static\clientaccesspolicy.xml
+D:\Users\Carl\Visual Studio\Projects\RemotePotatoServer\GitHub\RemotePotatoUI\bin\Release\static\images\btnSaveSong.png
+D:\Users\Carl\Visual Studio\Projects\RemotePotatoServer\GitHub\RemotePotatoUI\bin\Release\static\images\btnStreamSong.png
+D:\Users\Carl\Visual Studio\Projects\RemotePotatoServer\GitHub\RemotePotatoUI\bin\Release\static\images\epgchanneldownarrow.png
+D:\Users\Carl\Visual Studio\Projects\RemotePotatoServer\GitHub\RemotePotatoUI\bin\Release\static\images\epgchanneldownarrow_disabled.png
+D:\Users\Carl\Visual Studio\Projects\RemotePotatoServer\GitHub\RemotePotatoUI\bin\Release\static\images\epgchanneluparrow.png
+D:\Users\Carl\Visual Studio\Projects\RemotePotatoServer\GitHub\RemotePotatoUI\bin\Release\static\images\epgchanneluparrow_disabled.png
+D:\Users\Carl\Visual Studio\Projects\RemotePotatoServer\GitHub\RemotePotatoUI\bin\Release\static\images\epggrid_shading.png
+D:\Users\Carl\Visual Studio\Projects\RemotePotatoServer\GitHub\RemotePotatoUI\bin\Release\static\images\epgtimeleftarrow.png
+D:\Users\Carl\Visual Studio\Projects\RemotePotatoServer\GitHub\RemotePotatoUI\bin\Release\static\images\epgtimerightarrow.png
+D:\Users\Carl\Visual Studio\Projects\RemotePotatoServer\GitHub\RemotePotatoUI\bin\Release\static\images\apple-touch-icon.png
+D:\Users\Carl\Visual Studio\Projects\RemotePotatoServer\GitHub\RemotePotatoUI\bin\Release\static\images\imgFolder150x75.png
+D:\Users\Carl\Visual Studio\Projects\RemotePotatoServer\GitHub\RemotePotatoUI\bin\Release\static\images\logosquare.png
+D:\Users\Carl\Visual Studio\Projects\RemotePotatoServer\GitHub\RemotePotatoUI\bin\Release\static\images\mce_remote2.png
+D:\Users\Carl\Visual Studio\Projects\RemotePotatoServer\GitHub\RemotePotatoUI\bin\Release\static\images\remotepotatoicon.ico
+D:\Users\Carl\Visual Studio\Projects\RemotePotatoServer\GitHub\RemotePotatoUI\bin\Release\static\images\record_dot_onetime.png
+D:\Users\Carl\Visual Studio\Projects\RemotePotatoServer\GitHub\RemotePotatoUI\bin\Release\static\images\record_dot_series.png
+D:\Users\Carl\Visual Studio\Projects\RemotePotatoServer\GitHub\RemotePotatoUI\bin\Release\static\images\remotepotato_HLogo_small.png
+D:\Users\Carl\Visual Studio\Projects\RemotePotatoServer\GitHub\RemotePotatoUI\bin\Release\static\images\showhdlogo.png
+D:\Users\Carl\Visual Studio\Projects\RemotePotatoServer\GitHub\RemotePotatoUI\bin\Release\static\images\showtypedocumentary.png
+D:\Users\Carl\Visual Studio\Projects\RemotePotatoServer\GitHub\RemotePotatoUI\bin\Release\static\images\showtypekids.png
+D:\Users\Carl\Visual Studio\Projects\RemotePotatoServer\GitHub\RemotePotatoUI\bin\Release\static\images\showtypemovie.png
+D:\Users\Carl\Visual Studio\Projects\RemotePotatoServer\GitHub\RemotePotatoUI\bin\Release\static\images\showtypenews.png
+D:\Users\Carl\Visual Studio\Projects\RemotePotatoServer\GitHub\RemotePotatoUI\bin\Release\static\images\showtypesport.png
+D:\Users\Carl\Visual Studio\Projects\RemotePotatoServer\GitHub\RemotePotatoUI\bin\Release\static\images\starHalf.png
+D:\Users\Carl\Visual Studio\Projects\RemotePotatoServer\GitHub\RemotePotatoUI\bin\Release\static\images\starOff.png
+D:\Users\Carl\Visual Studio\Projects\RemotePotatoServer\GitHub\RemotePotatoUI\bin\Release\static\images\starOn.png
+D:\Users\Carl\Visual Studio\Projects\RemotePotatoServer\GitHub\RemotePotatoUI\bin\Release\static\images\tinypotato.png
+D:\Users\Carl\Visual Studio\Projects\RemotePotatoServer\GitHub\RemotePotatoUI\bin\Release\static\images\topbanner_landscape.png
+D:\Users\Carl\Visual Studio\Projects\RemotePotatoServer\GitHub\RemotePotatoUI\bin\Release\static\images\topbanner_portrait.png
+D:\Users\Carl\Visual Studio\Projects\RemotePotatoServer\GitHub\RemotePotatoUI\bin\Release\static\silverlight\default_template.htm
+D:\Users\Carl\Visual Studio\Projects\RemotePotatoServer\GitHub\RemotePotatoUI\bin\Release\static\silverlight\HLSMediaSource.dll
+D:\Users\Carl\Visual Studio\Projects\RemotePotatoServer\GitHub\RemotePotatoUI\bin\Release\static\skins\custom\about.txt
+D:\Users\Carl\Visual Studio\Projects\RemotePotatoServer\GitHub\RemotePotatoUI\bin\Release\static\skins\custom\epg-grid.css
+D:\Users\Carl\Visual Studio\Projects\RemotePotatoServer\GitHub\RemotePotatoUI\bin\Release\static\skins\custom\epg-list.css
+D:\Users\Carl\Visual Studio\Projects\RemotePotatoServer\GitHub\RemotePotatoUI\bin\Release\static\skins\custom\images\background.jpg
+D:\Users\Carl\Visual Studio\Projects\RemotePotatoServer\GitHub\RemotePotatoUI\bin\Release\static\skins\custom\images\transparentgray40.png
+D:\Users\Carl\Visual Studio\Projects\RemotePotatoServer\GitHub\RemotePotatoUI\bin\Release\static\skins\custom\masterpage.htm
+D:\Users\Carl\Visual Studio\Projects\RemotePotatoServer\GitHub\RemotePotatoUI\bin\Release\static\skins\custom\movies.css
+D:\Users\Carl\Visual Studio\Projects\RemotePotatoServer\GitHub\RemotePotatoUI\bin\Release\static\skins\custom\page_music_collection.htm
+D:\Users\Carl\Visual Studio\Projects\RemotePotatoServer\GitHub\RemotePotatoUI\bin\Release\static\skins\custom\page_music_songs.htm
+D:\Users\Carl\Visual Studio\Projects\RemotePotatoServer\GitHub\RemotePotatoUI\bin\Release\static\skins\custom\page_recordmanual.htm
+D:\Users\Carl\Visual Studio\Projects\RemotePotatoServer\GitHub\RemotePotatoUI\bin\Release\static\skins\custom\page_recordshow_onetime.htm
+D:\Users\Carl\Visual Studio\Projects\RemotePotatoServer\GitHub\RemotePotatoUI\bin\Release\static\skins\custom\page_searchshow_results.htm
+D:\Users\Carl\Visual Studio\Projects\RemotePotatoServer\GitHub\RemotePotatoUI\bin\Release\static\skins\custom\page_searchshow_title.htm
+D:\Users\Carl\Visual Studio\Projects\RemotePotatoServer\GitHub\RemotePotatoUI\bin\Release\static\skins\custom\page_series.htm
+D:\Users\Carl\Visual Studio\Projects\RemotePotatoServer\GitHub\RemotePotatoUI\bin\Release\static\skins\custom\page_show.htm
+D:\Users\Carl\Visual Studio\Projects\RemotePotatoServer\GitHub\RemotePotatoUI\bin\Release\static\skins\custom\page_viewepg_grid.htm
+D:\Users\Carl\Visual Studio\Projects\RemotePotatoServer\GitHub\RemotePotatoUI\bin\Release\static\skins\custom\page_viewepg_tbl.htm
+D:\Users\Carl\Visual Studio\Projects\RemotePotatoServer\GitHub\RemotePotatoUI\bin\Release\static\skins\custom\page_viewlibrary.htm
+D:\Users\Carl\Visual Studio\Projects\RemotePotatoServer\GitHub\RemotePotatoUI\bin\Release\static\skins\custom\page_viewpicture.htm
+D:\Users\Carl\Visual Studio\Projects\RemotePotatoServer\GitHub\RemotePotatoUI\bin\Release\static\skins\custom\page_viewrecordedtv.htm
+D:\Users\Carl\Visual Studio\Projects\RemotePotatoServer\GitHub\RemotePotatoUI\bin\Release\static\skins\custom\page_viewscheduledrecordings.htm
+D:\Users\Carl\Visual Studio\Projects\RemotePotatoServer\GitHub\RemotePotatoUI\bin\Release\static\skins\custom\rectv.css
+D:\Users\Carl\Visual Studio\Projects\RemotePotatoServer\GitHub\RemotePotatoUI\bin\Release\static\skins\custom\settings.xml
+D:\Users\Carl\Visual Studio\Projects\RemotePotatoServer\GitHub\RemotePotatoUI\bin\Release\static\skins\custom\showdetails.css
+D:\Users\Carl\Visual Studio\Projects\RemotePotatoServer\GitHub\RemotePotatoUI\bin\Release\static\skins\custom\stream_show.htm
+D:\Users\Carl\Visual Studio\Projects\RemotePotatoServer\GitHub\RemotePotatoUI\bin\Release\static\skins\custom\styles.css
+D:\Users\Carl\Visual Studio\Projects\RemotePotatoServer\GitHub\RemotePotatoUI\bin\Release\static\skins\custom\thumbnail_default.png
+D:\Users\Carl\Visual Studio\Projects\RemotePotatoServer\GitHub\RemotePotatoUI\bin\Release\static\skins\default\about.txt
+D:\Users\Carl\Visual Studio\Projects\RemotePotatoServer\GitHub\RemotePotatoUI\bin\Release\static\skins\default\page_viewlibrary.htm
+D:\Users\Carl\Visual Studio\Projects\RemotePotatoServer\GitHub\RemotePotatoUI\bin\Release\static\skins\default\page_music_collection.htm
+D:\Users\Carl\Visual Studio\Projects\RemotePotatoServer\GitHub\RemotePotatoUI\bin\Release\static\skins\default\page_music_songs.htm
+D:\Users\Carl\Visual Studio\Projects\RemotePotatoServer\GitHub\RemotePotatoUI\bin\Release\static\skins\default\page_show.htm
+D:\Users\Carl\Visual Studio\Projects\RemotePotatoServer\GitHub\RemotePotatoUI\bin\Release\static\skins\default\epg-grid.css
+D:\Users\Carl\Visual Studio\Projects\RemotePotatoServer\GitHub\RemotePotatoUI\bin\Release\static\skins\default\epg-list.css
+D:\Users\Carl\Visual Studio\Projects\RemotePotatoServer\GitHub\RemotePotatoUI\bin\Release\static\skins\default\images\background.jpg
+D:\Users\Carl\Visual Studio\Projects\RemotePotatoServer\GitHub\RemotePotatoUI\bin\Release\static\skins\default\images\transparentgray40.png
+D:\Users\Carl\Visual Studio\Projects\RemotePotatoServer\GitHub\RemotePotatoUI\bin\Release\static\skins\default\masterpage.htm
+D:\Users\Carl\Visual Studio\Projects\RemotePotatoServer\GitHub\RemotePotatoUI\bin\Release\static\skins\default\movies.css
+D:\Users\Carl\Visual Studio\Projects\RemotePotatoServer\GitHub\RemotePotatoUI\bin\Release\static\skins\default\page_login.htm
+D:\Users\Carl\Visual Studio\Projects\RemotePotatoServer\GitHub\RemotePotatoUI\bin\Release\static\skins\default\page_movie.htm
+D:\Users\Carl\Visual Studio\Projects\RemotePotatoServer\GitHub\RemotePotatoUI\bin\Release\static\skins\default\page_recordmanual.htm
+D:\Users\Carl\Visual Studio\Projects\RemotePotatoServer\GitHub\RemotePotatoUI\bin\Release\static\skins\default\page_recordshow_onetime.htm
+D:\Users\Carl\Visual Studio\Projects\RemotePotatoServer\GitHub\RemotePotatoUI\bin\Release\static\skins\default\page_searchshow_results.htm
+D:\Users\Carl\Visual Studio\Projects\RemotePotatoServer\GitHub\RemotePotatoUI\bin\Release\static\skins\default\page_searchshow_title.htm
+D:\Users\Carl\Visual Studio\Projects\RemotePotatoServer\GitHub\RemotePotatoUI\bin\Release\static\skins\default\page_series.htm
+D:\Users\Carl\Visual Studio\Projects\RemotePotatoServer\GitHub\RemotePotatoUI\bin\Release\static\skins\default\page_viewepg_grid.htm
+D:\Users\Carl\Visual Studio\Projects\RemotePotatoServer\GitHub\RemotePotatoUI\bin\Release\static\skins\default\page_viewepg_tbl.htm
+D:\Users\Carl\Visual Studio\Projects\RemotePotatoServer\GitHub\RemotePotatoUI\bin\Release\static\skins\default\page_viewpicture.htm
+D:\Users\Carl\Visual Studio\Projects\RemotePotatoServer\GitHub\RemotePotatoUI\bin\Release\static\skins\default\page_viewrecordedtv.htm
+D:\Users\Carl\Visual Studio\Projects\RemotePotatoServer\GitHub\RemotePotatoUI\bin\Release\static\skins\default\page_viewscheduledrecordings.htm
+D:\Users\Carl\Visual Studio\Projects\RemotePotatoServer\GitHub\RemotePotatoUI\bin\Release\static\skins\default\rectv.css
+D:\Users\Carl\Visual Studio\Projects\RemotePotatoServer\GitHub\RemotePotatoUI\bin\Release\static\skins\default\settings.xml
+D:\Users\Carl\Visual Studio\Projects\RemotePotatoServer\GitHub\RemotePotatoUI\bin\Release\static\skins\default\showdetails.css
+D:\Users\Carl\Visual Studio\Projects\RemotePotatoServer\GitHub\RemotePotatoUI\bin\Release\static\skins\default\stream_show.htm
+D:\Users\Carl\Visual Studio\Projects\RemotePotatoServer\GitHub\RemotePotatoUI\bin\Release\static\skins\default\styles.css
+D:\Users\Carl\Visual Studio\Projects\RemotePotatoServer\GitHub\RemotePotatoUI\bin\Release\static\skins\default\thumbnail_default.png
+D:\Users\Carl\Visual Studio\Projects\RemotePotatoServer\GitHub\RemotePotatoUI\bin\Release\static\skins\minimalist\about.txt
+D:\Users\Carl\Visual Studio\Projects\RemotePotatoServer\GitHub\RemotePotatoUI\bin\Release\static\skins\minimalist\epg-grid.css
+D:\Users\Carl\Visual Studio\Projects\RemotePotatoServer\GitHub\RemotePotatoUI\bin\Release\static\skins\minimalist\epg-list.css
+D:\Users\Carl\Visual Studio\Projects\RemotePotatoServer\GitHub\RemotePotatoUI\bin\Release\static\skins\minimalist\masterpage.htm
+D:\Users\Carl\Visual Studio\Projects\RemotePotatoServer\GitHub\RemotePotatoUI\bin\Release\static\skins\minimalist\movies.css
+D:\Users\Carl\Visual Studio\Projects\RemotePotatoServer\GitHub\RemotePotatoUI\bin\Release\static\skins\minimalist\page_movie.htm
+D:\Users\Carl\Visual Studio\Projects\RemotePotatoServer\GitHub\RemotePotatoUI\bin\Release\static\skins\minimalist\page_movies.htm
+D:\Users\Carl\Visual Studio\Projects\RemotePotatoServer\GitHub\RemotePotatoUI\bin\Release\static\skins\minimalist\page_music_collection.htm
+D:\Users\Carl\Visual Studio\Projects\RemotePotatoServer\GitHub\RemotePotatoUI\bin\Release\static\skins\minimalist\page_music_songs.htm
+D:\Users\Carl\Visual Studio\Projects\RemotePotatoServer\GitHub\RemotePotatoUI\bin\Release\static\skins\minimalist\page_recordmanual.htm
+D:\Users\Carl\Visual Studio\Projects\RemotePotatoServer\GitHub\RemotePotatoUI\bin\Release\static\skins\minimalist\page_recordshow_onetime.htm
+D:\Users\Carl\Visual Studio\Projects\RemotePotatoServer\GitHub\RemotePotatoUI\bin\Release\static\skins\minimalist\page_searchshow_results.htm
+D:\Users\Carl\Visual Studio\Projects\RemotePotatoServer\GitHub\RemotePotatoUI\bin\Release\static\skins\minimalist\page_searchshow_title.htm
+D:\Users\Carl\Visual Studio\Projects\RemotePotatoServer\GitHub\RemotePotatoUI\bin\Release\static\skins\minimalist\page_series.htm
+D:\Users\Carl\Visual Studio\Projects\RemotePotatoServer\GitHub\RemotePotatoUI\bin\Release\static\skins\minimalist\page_show.htm
+D:\Users\Carl\Visual Studio\Projects\RemotePotatoServer\GitHub\RemotePotatoUI\bin\Release\static\skins\minimalist\page_viewepg_grid.htm
+D:\Users\Carl\Visual Studio\Projects\RemotePotatoServer\GitHub\RemotePotatoUI\bin\Release\static\skins\minimalist\page_viewepg_tbl.htm
+D:\Users\Carl\Visual Studio\Projects\RemotePotatoServer\GitHub\RemotePotatoUI\bin\Release\static\skins\minimalist\page_viewlibrary.htm
+D:\Users\Carl\Visual Studio\Projects\RemotePotatoServer\GitHub\RemotePotatoUI\bin\Release\static\skins\minimalist\page_viewpicture.htm
+D:\Users\Carl\Visual Studio\Projects\RemotePotatoServer\GitHub\RemotePotatoUI\bin\Release\static\skins\minimalist\page_viewrecordedtv.htm
+D:\Users\Carl\Visual Studio\Projects\RemotePotatoServer\GitHub\RemotePotatoUI\bin\Release\static\skins\minimalist\page_viewscheduledrecordings.htm
+D:\Users\Carl\Visual Studio\Projects\RemotePotatoServer\GitHub\RemotePotatoUI\bin\Release\static\skins\minimalist\rectv.css
+D:\Users\Carl\Visual Studio\Projects\RemotePotatoServer\GitHub\RemotePotatoUI\bin\Release\static\skins\minimalist\settings.xml
+D:\Users\Carl\Visual Studio\Projects\RemotePotatoServer\GitHub\RemotePotatoUI\bin\Release\static\skins\minimalist\showdetails.css
+D:\Users\Carl\Visual Studio\Projects\RemotePotatoServer\GitHub\RemotePotatoUI\bin\Release\static\skins\minimalist\stream_show.htm
+D:\Users\Carl\Visual Studio\Projects\RemotePotatoServer\GitHub\RemotePotatoUI\bin\Release\static\skins\minimalist\styles.css
+D:\Users\Carl\Visual Studio\Projects\RemotePotatoServer\GitHub\RemotePotatoUI\bin\Release\static\skins\minimalist\thumbnail_default.png
+D:\Users\Carl\Visual Studio\Projects\RemotePotatoServer\GitHub\RemotePotatoUI\bin\Release\static\skins\retro\about.txt
+D:\Users\Carl\Visual Studio\Projects\RemotePotatoServer\GitHub\RemotePotatoUI\bin\Release\static\skins\retro\page_viewpicture.htm
+D:\Users\Carl\Visual Studio\Projects\RemotePotatoServer\GitHub\RemotePotatoUI\bin\Release\static\skins\retro\epg-grid.css
+D:\Users\Carl\Visual Studio\Projects\RemotePotatoServer\GitHub\RemotePotatoUI\bin\Release\static\skins\retro\epg-list.css
+D:\Users\Carl\Visual Studio\Projects\RemotePotatoServer\GitHub\RemotePotatoUI\bin\Release\static\skins\retro\images\topbanner_retro.png
+D:\Users\Carl\Visual Studio\Projects\RemotePotatoServer\GitHub\RemotePotatoUI\bin\Release\static\skins\retro\masterpage.htm
+D:\Users\Carl\Visual Studio\Projects\RemotePotatoServer\GitHub\RemotePotatoUI\bin\Release\static\skins\retro\movies.css
+D:\Users\Carl\Visual Studio\Projects\RemotePotatoServer\GitHub\RemotePotatoUI\bin\Release\static\skins\retro\page_movie.htm
+D:\Users\Carl\Visual Studio\Projects\RemotePotatoServer\GitHub\RemotePotatoUI\bin\Release\static\skins\retro\page_movies.htm
+D:\Users\Carl\Visual Studio\Projects\RemotePotatoServer\GitHub\RemotePotatoUI\bin\Release\static\skins\retro\page_music_collection.htm
+D:\Users\Carl\Visual Studio\Projects\RemotePotatoServer\GitHub\RemotePotatoUI\bin\Release\static\skins\retro\page_music_songs.htm
+D:\Users\Carl\Visual Studio\Projects\RemotePotatoServer\GitHub\RemotePotatoUI\bin\Release\static\skins\retro\page_recordmanual.htm
+D:\Users\Carl\Visual Studio\Projects\RemotePotatoServer\GitHub\RemotePotatoUI\bin\Release\static\skins\retro\page_recordshow_onetime.htm
+D:\Users\Carl\Visual Studio\Projects\RemotePotatoServer\GitHub\RemotePotatoUI\bin\Release\static\skins\retro\page_searchshow_results.htm
+D:\Users\Carl\Visual Studio\Projects\RemotePotatoServer\GitHub\RemotePotatoUI\bin\Release\static\skins\retro\page_searchshow_title.htm
+D:\Users\Carl\Visual Studio\Projects\RemotePotatoServer\GitHub\RemotePotatoUI\bin\Release\static\skins\retro\page_series.htm
+D:\Users\Carl\Visual Studio\Projects\RemotePotatoServer\GitHub\RemotePotatoUI\bin\Release\static\skins\retro\page_show.htm
+D:\Users\Carl\Visual Studio\Projects\RemotePotatoServer\GitHub\RemotePotatoUI\bin\Release\static\skins\retro\page_viewepg_grid.htm
+D:\Users\Carl\Visual Studio\Projects\RemotePotatoServer\GitHub\RemotePotatoUI\bin\Release\static\skins\retro\page_viewepg_tbl.htm
+D:\Users\Carl\Visual Studio\Projects\RemotePotatoServer\GitHub\RemotePotatoUI\bin\Release\static\skins\retro\page_viewlibrary.htm
+D:\Users\Carl\Visual Studio\Projects\RemotePotatoServer\GitHub\RemotePotatoUI\bin\Release\static\skins\retro\page_viewrecordedtv.htm
+D:\Users\Carl\Visual Studio\Projects\RemotePotatoServer\GitHub\RemotePotatoUI\bin\Release\static\skins\retro\page_viewscheduledrecordings.htm
+D:\Users\Carl\Visual Studio\Projects\RemotePotatoServer\GitHub\RemotePotatoUI\bin\Release\static\skins\retro\rectv.css
+D:\Users\Carl\Visual Studio\Projects\RemotePotatoServer\GitHub\RemotePotatoUI\bin\Release\static\skins\retro\settings.xml
+D:\Users\Carl\Visual Studio\Projects\RemotePotatoServer\GitHub\RemotePotatoUI\bin\Release\static\skins\retro\showdetails.css
+D:\Users\Carl\Visual Studio\Projects\RemotePotatoServer\GitHub\RemotePotatoUI\bin\Release\static\skins\retro\stream_show.htm
+D:\Users\Carl\Visual Studio\Projects\RemotePotatoServer\GitHub\RemotePotatoUI\bin\Release\static\skins\retro\styles.css
+D:\Users\Carl\Visual Studio\Projects\RemotePotatoServer\GitHub\RemotePotatoUI\bin\Release\static\skins\retro\thumbnail_default.png
+D:\Users\Carl\Visual Studio\Projects\RemotePotatoServer\GitHub\RemotePotatoUI\bin\Release\static\robots.txt
+D:\Users\Carl\Visual Studio\Projects\RemotePotatoServer\GitHub\RemotePotatoUI\bin\Release\toolkit\ffmpeg.exe
+D:\Users\Carl\Visual Studio\Projects\RemotePotatoServer\GitHub\RemotePotatoUI\bin\Release\toolkit\ffmpeg.txt
+D:\Users\Carl\Visual Studio\Projects\RemotePotatoServer\GitHub\RemotePotatoUI\bin\Release\gpl-2.0.txt
+D:\Users\Carl\Visual Studio\Projects\RemotePotatoServer\GitHub\RemotePotatoUI\bin\Release\gplv3.txt
+D:\Users\Carl\Visual Studio\Projects\RemotePotatoServer\GitHub\RemotePotatoUI\bin\Release\toolkit\pthreadGC2.dll
+D:\Users\Carl\Visual Studio\Projects\RemotePotatoServer\GitHub\RemotePotatoUI\bin\Release\static\skins\custom\page_recordshow_series.htm
+D:\Users\Carl\Visual Studio\Projects\RemotePotatoServer\GitHub\RemotePotatoUI\bin\Release\static\skins\custom\page_remote.htm
+D:\Users\Carl\Visual Studio\Projects\RemotePotatoServer\GitHub\RemotePotatoUI\bin\Release\static\skins\custom\page_remote_command.htm
+D:\Users\Carl\Visual Studio\Projects\RemotePotatoServer\GitHub\RemotePotatoUI\bin\Release\static\skins\default\page_remote_command.htm
+D:\Users\Carl\Visual Studio\Projects\RemotePotatoServer\GitHub\RemotePotatoUI\bin\Release\static\skins\default\page_remote.htm
+D:\Users\Carl\Visual Studio\Projects\RemotePotatoServer\GitHub\RemotePotatoUI\bin\Release\static\skins\default\page_recordshow_series.htm
+D:\Users\Carl\Visual Studio\Projects\RemotePotatoServer\GitHub\RemotePotatoUI\bin\Release\static\skins\minimalist\page_recordshow_series.htm
+D:\Users\Carl\Visual Studio\Projects\RemotePotatoServer\GitHub\RemotePotatoUI\bin\Release\static\skins\minimalist\page_remote.htm
+D:\Users\Carl\Visual Studio\Projects\RemotePotatoServer\GitHub\RemotePotatoUI\bin\Release\static\skins\minimalist\page_remote_command.htm
+D:\Users\Carl\Visual Studio\Projects\RemotePotatoServer\GitHub\RemotePotatoUI\bin\Release\static\skins\retro\images\blinking_cursor.gif
+D:\Users\Carl\Visual Studio\Projects\RemotePotatoServer\GitHub\RemotePotatoUI\bin\Release\static\skins\retro\images\retrobullet.png
+D:\Users\Carl\Visual Studio\Projects\RemotePotatoServer\GitHub\RemotePotatoUI\bin\Release\static\skins\retro\page_recordshow_series.htm
+D:\Users\Carl\Visual Studio\Projects\RemotePotatoServer\GitHub\RemotePotatoUI\bin\Release\static\skins\retro\page_remote.htm
+D:\Users\Carl\Visual Studio\Projects\RemotePotatoServer\GitHub\RemotePotatoUI\bin\Release\static\skins\retro\page_remote_command.htm
+D:\Users\Carl\Visual Studio\Projects\RemotePotatoServer\GitHub\RemotePotatoUI\bin\Release\RemotePotatoUI.exe.config
+D:\Users\Carl\Visual Studio\Projects\RemotePotatoServer\GitHub\RemotePotatoUI\bin\Release\RemotePotatoUI.exe
+D:\Users\Carl\Visual Studio\Projects\RemotePotatoServer\GitHub\RemotePotatoUI\bin\Release\RemotePotatoUI.pdb
+D:\Users\Carl\Visual Studio\Projects\RemotePotatoServer\GitHub\RemotePotatoUI\bin\Release\CommonEPG.dll
+D:\Users\Carl\Visual Studio\Projects\RemotePotatoServer\GitHub\RemotePotatoUI\bin\Release\Ionic.Zip.Reduced.dll
+D:\Users\Carl\Visual Studio\Projects\RemotePotatoServer\GitHub\RemotePotatoUI\bin\Release\RemotePotatoSettings.dll
+D:\Users\Carl\Visual Studio\Projects\RemotePotatoServer\GitHub\RemotePotatoUI\bin\Release\RPServer.dll
+D:\Users\Carl\Visual Studio\Projects\RemotePotatoServer\GitHub\RemotePotatoUI\bin\Release\WTVTranscoder.dll
+D:\Users\Carl\Visual Studio\Projects\RemotePotatoServer\GitHub\RemotePotatoUI\bin\Release\MediaStreamer.dll
+D:\Users\Carl\Visual Studio\Projects\RemotePotatoServer\GitHub\RemotePotatoUI\bin\Release\ShellUtilities.dll
+D:\Users\Carl\Visual Studio\Projects\RemotePotatoServer\GitHub\RemotePotatoUI\bin\Release\MSEPG.dll
+D:\Users\Carl\Visual Studio\Projects\RemotePotatoServer\GitHub\RemotePotatoUI\bin\Release\Toub.MediaCenter.Dvrms.dll
+D:\Users\Carl\Visual Studio\Projects\RemotePotatoServer\GitHub\RemotePotatoUI\bin\Release\DirectShowLib-2005.dll
+D:\Users\Carl\Visual Studio\Projects\RemotePotatoServer\GitHub\RemotePotatoUI\bin\Release\WindowsMediaLib.dll
+D:\Users\Carl\Visual Studio\Projects\RemotePotatoServer\GitHub\RemotePotatoUI\bin\Release\CommonEPG.pdb
+D:\Users\Carl\Visual Studio\Projects\RemotePotatoServer\GitHub\RemotePotatoUI\bin\Release\RemotePotatoSettings.pdb
+D:\Users\Carl\Visual Studio\Projects\RemotePotatoServer\GitHub\RemotePotatoUI\bin\Release\RPServer.pdb
+D:\Users\Carl\Visual Studio\Projects\RemotePotatoServer\GitHub\RemotePotatoUI\bin\Release\WTVTranscoder.pdb
+D:\Users\Carl\Visual Studio\Projects\RemotePotatoServer\GitHub\RemotePotatoUI\bin\Release\MediaStreamer.pdb
+D:\Users\Carl\Visual Studio\Projects\RemotePotatoServer\GitHub\RemotePotatoUI\bin\Release\ShellUtilities.pdb
+D:\Users\Carl\Visual Studio\Projects\RemotePotatoServer\GitHub\RemotePotatoUI\bin\Release\MSEPG.pdb
+D:\Users\Carl\Visual Studio\Projects\RemotePotatoServer\GitHub\RemotePotatoUI\bin\Release\Toub.MediaCenter.Dvrms.pdb
+D:\Users\Carl\Visual Studio\Projects\RemotePotatoServer\GitHub\RemotePotatoUI\obj\Release\RemotePotatoUI.csprojResolveAssemblyReference.cache
+D:\Users\Carl\Visual Studio\Projects\RemotePotatoServer\GitHub\RemotePotatoUI\obj\Release\RemotePotatoServer.Form1.resources
+D:\Users\Carl\Visual Studio\Projects\RemotePotatoServer\GitHub\RemotePotatoUI\obj\Release\RemotePotatoServer.FormChannelImportingOptions.resources
+D:\Users\Carl\Visual Studio\Projects\RemotePotatoServer\GitHub\RemotePotatoUI\obj\Release\RemotePotatoServer.FormConnectionInformation.resources
+D:\Users\Carl\Visual Studio\Projects\RemotePotatoServer\GitHub\RemotePotatoUI\obj\Release\RemotePotatoServer.FormConnectionWizard.resources
+D:\Users\Carl\Visual Studio\Projects\RemotePotatoServer\GitHub\RemotePotatoUI\obj\Release\RemotePotatoServer.FormDonationRequest.resources
+D:\Users\Carl\Visual Studio\Projects\RemotePotatoServer\GitHub\RemotePotatoUI\obj\Release\RemotePotatoServer.FormInputBox.resources
+D:\Users\Carl\Visual Studio\Projects\RemotePotatoServer\GitHub\RemotePotatoUI\obj\Release\RemotePotatoServer.FormMediaLibraryAccountSetter.resources
+D:\Users\Carl\Visual Studio\Projects\RemotePotatoServer\GitHub\RemotePotatoUI\obj\Release\RemotePotatoServer.FormFoldersCollection.resources
+D:\Users\Carl\Visual Studio\Projects\RemotePotatoServer\GitHub\RemotePotatoUI\obj\Release\RemotePotatoServer.FormThemesChooser.resources
+D:\Users\Carl\Visual Studio\Projects\RemotePotatoServer\GitHub\RemotePotatoUI\obj\Release\RemotePotatoServer.FormUserManagement.resources
+D:\Users\Carl\Visual Studio\Projects\RemotePotatoServer\GitHub\RemotePotatoUI\obj\Release\RemotePotatoServer.frmPleaseWait.resources
+D:\Users\Carl\Visual Studio\Projects\RemotePotatoServer\GitHub\RemotePotatoUI\obj\Release\RemotePotatoServer.ucConnectionSummary.resources
+D:\Users\Carl\Visual Studio\Projects\RemotePotatoServer\GitHub\RemotePotatoUI\obj\Release\RemotePotatoServer.Properties.Resources.resources
+D:\Users\Carl\Visual Studio\Projects\RemotePotatoServer\GitHub\RemotePotatoUI\obj\Release\RemotePotatoUI.csproj.GenerateResource.Cache
+D:\Users\Carl\Visual Studio\Projects\RemotePotatoServer\GitHub\RemotePotatoUI\obj\Release\RemotePotatoUI.exe
+D:\Users\Carl\Visual Studio\Projects\RemotePotatoServer\GitHub\RemotePotatoUI\obj\Release\RemotePotatoUI.pdb

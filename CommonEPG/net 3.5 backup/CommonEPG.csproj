@@ -1,0 +1,96 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="3.5" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>9.0.30729</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{B060A3B1-83C4-4785-97F6-E47F3D9E58D2}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>CommonEPG</RootNamespace>
+    <AssemblyName>CommonEPG</AssemblyName>
+    <TargetFrameworkVersion>v3.5</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <SignAssembly>true</SignAssembly>
+    <AssemblyOriginatorKeyFile>CommonEPGKeyFile.pfx</AssemblyOriginatorKeyFile>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core">
+      <RequiredTargetFramework>3.5</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="System.Data.DataSetExtensions">
+      <RequiredTargetFramework>3.5</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="System.Data" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Classes\Comparers\MusicComparers.cs" />
+    <Compile Include="Classes\EPG\EPGRequest.cs" />
+    <Compile Include="Classes\EPG\TVProgrammeInfoBlob.cs" />
+    <Compile Include="Classes\EPG\TVProgrammeCrew.cs" />
+    <Compile Include="Classes\EventArgs\CustomEventArgs.cs" />
+    <Compile Include="Classes\Files\BrowseItem.cs" />
+    <Compile Include="Classes\Files\FileBrowseRequest.cs" />
+    <Compile Include="Classes\Files\FileBrowseResult.cs" />
+    <Compile Include="Classes\Music\RPMusicGenre.cs" />
+    <Compile Include="Classes\Music\RPMusicPlaylist.cs" />
+    <Compile Include="Classes\Music\RPMusicCollection.cs" />
+    <Compile Include="Classes\Music\RPMusicBlob.cs" />
+    <Compile Include="Classes\Music\RPMusicAlbum.cs" />
+    <Compile Include="Classes\Music\RPMusicArtist.cs" />
+    <Compile Include="Classes\Music\RPMusicSong.cs" />
+    <Compile Include="Classes\Pictures\RPPictureBatch.cs" />
+    <Compile Include="Classes\Pictures\RPPictureItem.cs" />
+    <Compile Include="Classes\Recordings\Scheduling\RecordingRequest.cs" />
+    <Compile Include="Classes\Recordings\Scheduling\RecordingResult.cs" />
+    <Compile Include="Classes\Enums\MCEnums.cs" />
+    <Compile Include="Classes\Enums\SearchEnums.cs" />
+    <Compile Include="Classes\Recordings\RPRecording.cs" />
+    <Compile Include="Classes\EPG\TVMovie.cs" />
+    <Compile Include="Classes\Recordings\Scheduling\RPRecordingsBlob.cs" />
+    <Compile Include="Classes\Recordings\RPRequest.cs" />
+    <Compile Include="Classes\Comparers\RPRequestComparers.cs" />
+    <Compile Include="Classes\Comparers\RPRecordingComparers.cs" />
+    <Compile Include="Classes\Comparers\TVProgrammeComparers.cs" />
+    <Compile Include="Classes\Comparers\TVServiceNumberComparer.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Classes\EventArgs\DebugReportEventArgs.cs" />
+    <Compile Include="Classes\EPG\TVService.cs" />
+    <Compile Include="Classes\EPG\TVProgramme.cs" />
+    <Compile Include="DateRange.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="DevLog.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="CommonEPGKeyFile.pfx" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

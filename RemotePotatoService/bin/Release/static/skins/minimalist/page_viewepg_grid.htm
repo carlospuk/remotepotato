@@ -1,0 +1,19 @@
+﻿<!-- Landscape page, so override defaults for container and headerbox -->
+<!-- PAGEORIENTATION=LANDSCAPE -->
+<style>
+    #container{ width: 320px; }
+</style>
+<div id="toggleepgtype">
+<a href="/viewepglist">View List</a>
+</div>
+<form id="epggridform" name="form_viewepg" action="viewepggrid" method="get">
+**EPGDATEDROPDOWN**
+**EPGCENTERTIMEDROPDOWN**
+<input type="hidden" name="epggridchannelindex" value="**EPGGRIDCHANNELINDEX**" />
+<input type="submit" value="Go" />
+</form>
+**EPGGRID**
+<div id="epggridskiplinks">
+<a href="/epgnavtop">Skip to top </a> |
+<a href="/epgnavbottom">Skip to bottom </a>
+</div>

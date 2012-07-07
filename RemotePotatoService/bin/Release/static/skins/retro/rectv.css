@@ -1,0 +1,31 @@
+﻿#container{ width: 790px; }
+#headerbox{ width: 798px; }
+div.rectvlistthumbnailseparator
+{
+    clear: both;
+    margin: 35px 0px 6px 0px;
+    font-size: 1.0em;
+    font-weight: bold;
+}
+div.rectvlistthumbnailcontainer
+{
+    float: left;
+    margin: 0px 15px 6px 0px;
+    font-size: 0.6em;
+    width: 100px;
+    height: 110px;
+    overflow: hidden;
+}
+img.rectvlistthumbnail
+{
+    margin: 0px 0px 2px 0px;
+    width: 95px;
+    height: 76px;
+    border: solid 1px #CCCCEE;
+}
+/* THE LINK AT THE BOTTOM TO VIEW A DIFFERENT DATE RANGE */
+#rectvdaterangeselect
+{
+    clear: both;
+    font-size: 0.9em;
+}

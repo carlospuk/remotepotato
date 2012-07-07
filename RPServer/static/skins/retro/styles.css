@@ -1,0 +1,325 @@
+﻿/*
+=============================
+Remote Potato - Main Styles
+Theme:  Retro
+(C)2010 C Partridge
+=============================
+*/
+body
+{
+    background-color:  #000000;
+    font-family: Courier New, Courier, Monospace, System;
+    font-size: 1.0em;
+    color: #15FF15;
+    margin-left: 2px;
+    margin-right: 5px;
+    margin-top: 2px;
+    margin-bottom: 2px;
+    padding: 0px;
+    width: 100%;
+}
+#retrobanner
+{
+    padding: 0px;
+    margin: 0px;
+    height: 65px;
+    width: 275px;
+    overflow: hidden;
+}
+#retrobannertext
+{
+    margin-left: 3px;
+    margin-top: -13px;
+    overflow: hidden;
+    font-size: 0.7em;
+    text-align: right;
+	color: #11BB11;
+}
+#retrobanner img
+{
+    border: none;
+}
+#retrobanner A:link
+{
+    border: none;
+}
+#bottomhomelink
+{
+    clear: both;
+    margin-top: 5px;
+}
+#footertext
+{
+	margin-top: 3px;
+    margin-left: 2px;
+    width: 100%;
+    overflow: hidden;
+    font-size: 0.7em;
+	color: #11BB11;
+}
+#container
+{
+    border: none;
+    padding: 0px;
+    margin-top: 2px;
+    margin-bottom: 2px;
+    width: 360px;
+    overflow: hidden;
+}
+a 
+{
+	color: #99FF99;
+	text-decoration: none;
+	border: none;
+}
+a:hover
+{
+	color: #DDFFDD;
+	text-decoration: underline;
+	border: none;
+}
+p.heading
+{
+	font-size: 1.25em;
+	color: #33FF33;
+}
+div.pagetitle
+{
+	font-weight: Bold;
+	font-size: 1.4em;
+	color: #33FF33;
+	margin-bottom: 20px;
+}
+div.header A:link
+{
+    text-decoration: none;
+    color: #99FF99;
+}
+div.header A:hover
+{
+    color: #DDFFDD;
+}
+p.recorderror
+{
+	font-size: 1.1em;
+	color :#FF4444;
+}
+p.recordfailure
+{
+	font-size: 0.9em;
+	color :#FF6666;
+}
+p.recordsuccess
+{
+	color: #15FF15;
+	font-size: 0.9em;
+}
+table.formadvanced
+{
+	font-size: 0.85em;
+	color :#11BB11;
+}
+ul
+{
+    margin-top: 2px;
+    padding: 0px;
+    list-style-image: url('/skin/images/retrobullet.png');   
+    list-style-position: inside;
+}
+#mainmenu
+{
+}
+li
+{
+    padding: 0px;
+}
+ul.scheduledrecordingdaygroup
+{
+    margin-top: 2px;
+    margin-left: 0px;
+}
+.upcomingwillrecord
+{
+	color: #55FF77;
+}
+.upcomingwontrecord
+{
+	color: #FF5577;
+}
+form
+{
+	margin: 0px;
+}
+#toggleepgtype
+{
+    font-size: 0.8em;
+    text-align: left;
+    margin-top: -10px;
+    margin-bottom: 5px;
+}
+ul.allschedulerequests
+{
+    margin-top: 2px;
+}
+#manageserieslink
+{
+    font-size: 0.9em;
+    text-align: left;
+    margin-top: -10px;
+    margin-bottom: 5px;
+}
+#searchresults
+{
+    margin-top: 15px;
+}
+/* THE SEARCH SHOWS FORM */
+form#searchshowbytitle, #searchshowbytitle input, #searchshowbytitle select
+{
+    font-size: 0.9em;
+}
+#searchresultsrecorddot
+{
+    margin-left: 7px;
+}
+#infotext
+{
+    font-size: 0.85em;
+}
+/* RE-COLOUR THE FORM INPUTS, DROPDOWNS ETC TO FUNKY RETRO STYLES  */
+input
+{
+    background-color: #000000;
+    color: #11FF11;
+    border: solid 1px #11FF11;
+    padding: 1px;
+    font-family: Courier, Courier New, System, Monospace;
+    font-size: 0.8em;
+}
+select
+{
+    background-color: #000000;
+    color: #11FF11;
+    border: solid 1px #11FF11;
+    padding: 1px;
+    font-family: Courier, Courier New, System, Monospace;
+    font-size: 0.8em;
+}
+#submitform
+{
+    background-color: #11FF11;
+    color: #000000;
+    border: ridge 1px #555555;
+    padding: 2px;
+    font-family: Courier, Courier New, System, Monospace;
+    font-size: 0.8em;
+}
+.blinkingcursor
+{
+    border: none;
+    padding: 0px;
+    margin-bottom: -2px;
+    margin-left: -3px;
+    width: 16px;
+    height: 17px;
+}
+
+/* THE TABLE AND TEXT INPUT BOXES ON THE 'LOGIN' PAGE */
+#logintable
+{
+    margin-left: 2.0em;
+    font-size: 0.9em;
+}
+#logintable input
+{
+    font-size: 0.9em;
+}
+
+
+/* MUSIC */
+
+#musicrootmenu
+{
+	margin-left: 10px;
+    font-size: 1.2em;
+}
+#musicrootmenu ul
+{
+    font-size: 1.1em;
+}
+#musiccollection
+{
+}
+#musiccollectionindex
+{
+    font-size: 0.8em;
+    margin-bottom: 30px;
+}
+#musiccollectionindex a
+{
+    color: #BBBBBB;
+}
+#musiccollectionitems
+{
+    font-size: 0.9em;
+    color: #FFFFEE;
+}
+.musiccollectionitemssection
+{
+    margin-bottom: 16px;
+}
+#musiccollectionitems ul
+{
+    font-size: 0.9em;
+    color: #FFFFEE;
+}
+
+#musicsongslist
+{
+font-size: 0.8em;
+}
+.musicsongslisttitlecolumn
+{
+width: 230px;
+}
+
+
+/* PICTURE LIBRARY */
+#picturelibrarytable 
+{
+    font-size: 0.6em;
+}
+#picturelibrarytable  td
+{
+    width: 110px;
+}
+#picturelibrarytable  .folderpic
+{
+    border: 0px;
+}
+#picturelibrarytable  .thumbnail
+{
+    border: solid 1px black;
+}
+.picturelibraryviewedpicture
+{
+	border: solid 1px black;
+}
+
+/* VIDEO LIBRARY */
+#videolibrarytable 
+{
+    font-size: 0.6em;
+}
+#videolibrarytable  td
+{
+    width: 110px;
+}
+#videolibrarytable  .folderpic
+{
+    border: 0px;
+}
+#videolibrarytable  .thumbnail
+{
+    border: solid 1px black;
+    width: 100px;
+}

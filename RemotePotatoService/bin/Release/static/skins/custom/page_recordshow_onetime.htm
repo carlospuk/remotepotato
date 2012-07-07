@@ -1,0 +1,15 @@
+﻿<!-- RECORD A SHOW, ONCE, BY NAME -->
+<form id="recordonetime" action="recordshow_onetime" method="get">
+Name: (starts with) <input type="text" name="showname" size="20"/>
+<br />
+Channel: **EPGCHANNELDROPDOWN**
+<br />
+Start Time: (approx) **DATEDROPDOWN** **TIMEDROPDOWN**
+<br />
+<input type="submit" value="Schedule Recording" />
+<br /><br /><br />
+ADVANCED OPTIONS:
+Search for <input type="text" name="searchspan" size="5" value="**DEFAULTSEARCHSPAN**"/> minutes either side of start.<br />
+Start recording <input type="text" name="prepadding" size="3" value="**DEFAULTPREPADDING**"/> seconds before.<br />
+Stop recording <input type="text" name="postpadding" size="3" value="**DEFAULTPOSTPADDING**"/> seconds after.<br />
+</form> 

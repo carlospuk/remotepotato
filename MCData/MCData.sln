@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MCData", "MCData.csproj", "{C251A09C-54FA-4C15-BE21-AD88DD50C486}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MCDataTestHarness", "..\MCDataTestHarness\MCDataTestHarness.csproj", "{C4A5152A-957E-416D-8865-3C84757F844A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C251A09C-54FA-4C15-BE21-AD88DD50C486}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C251A09C-54FA-4C15-BE21-AD88DD50C486}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C251A09C-54FA-4C15-BE21-AD88DD50C486}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C251A09C-54FA-4C15-BE21-AD88DD50C486}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C4A5152A-957E-416D-8865-3C84757F844A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C4A5152A-957E-416D-8865-3C84757F844A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C4A5152A-957E-416D-8865-3C84757F844A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C4A5152A-957E-416D-8865-3C84757F844A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
