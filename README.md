@@ -22,6 +22,9 @@ Project Maintenance
 ===================
 We are looking for people to maintain and develop this project - please get in touch if you are interested by emailing me - carl at remotepotato dot com
 
+Licence
+=======
+ANY use of the Remote Potato Server source code is under GPL licence version 3 - see http://www.gnu.org/copyleft/gpl.html
 
 Thanks!
 
