@@ -1,0 +1,7 @@
+<OutOfBrowserSettings ShortName="Remote Potato" EnableGPUAcceleration="True" ShowInstallMenuItem="True">
+  <OutOfBrowserSettings.Blurb>Remote Potato - schedule TV recording on your Windows Media Center or stream TV direct to your browser, wherever you are</OutOfBrowserSettings.Blurb>
+  <OutOfBrowserSettings.WindowSettings>
+    <WindowSettings Title="Remote Potato" Height="600" Width="800" />
+  </OutOfBrowserSettings.WindowSettings>
+  <OutOfBrowserSettings.Icons />
+</OutOfBrowserSettings>

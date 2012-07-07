@@ -1,0 +1,67 @@
+﻿<UserControl x:Class="SilverPotato.ChooserStrip"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation" 
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" >
+
+    <UserControl.Resources>
+        <ResourceDictionary Source="/SilverPotato;component/resources.xaml" />
+    </UserControl.Resources>
+
+    <Grid x:Name="LayoutRoot" VerticalAlignment="Stretch" Width="200">
+
+        <Border x:Name="brdMain" BorderThickness="1" CornerRadius="8" Background="{StaticResource BlueShine}" Margin="5,0,0,0">
+            <Border.BorderBrush>
+                <RadialGradientBrush GradientOrigin="1,0" RadiusX="1" RadiusY="1">
+                    <GradientStop Color="#FFFFFF" Offset="0" />
+                    <GradientStop Color="#777777" Offset="1" />
+                </RadialGradientBrush>
+            </Border.BorderBrush>
+
+            <Border.OpacityMask>
+                <LinearGradientBrush StartPoint="0,0.5" EndPoint="1,0.5" >
+                    <GradientStop Color="#FF000000" Offset="0" />
+                    <GradientStop Color="#FF000000" Offset="0.8" />
+                    <GradientStop x:Name="gsToggleFadeOut" Color="#FF000000" Offset="1" />
+                </LinearGradientBrush>
+            </Border.OpacityMask>
+
+            <Grid x:Name="gdStrip" Margin="10">
+                
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition Width="*" />
+                    <ColumnDefinition Width="25" />
+                </Grid.ColumnDefinitions>
+                
+                <Grid.RowDefinitions >
+                    <RowDefinition Height="20" />
+                    <RowDefinition x:Name="rdHeaderImage" Height="0" />
+                    <RowDefinition Height="*" />
+                    <RowDefinition x:Name="rdActionButtons" Height="0" />
+                </Grid.RowDefinitions>
+
+
+                
+                <TextBlock x:Name="lblStripTitle" Grid.Row="0" Grid.Column="0" HorizontalAlignment="Stretch" VerticalAlignment="Top"
+                    FontFamily="Arial" FontSize="16" FontWeight="Bold" Foreground="White" Text="Strip Title" TextTrimming="WordEllipsis" />
+
+                <Grid x:Name="gdExpandStrip" Grid.Row="0" Grid.Column="1" Cursor="Hand" HorizontalAlignment="Left" VerticalAlignment="Top"
+                      Opacity="0.0" Visibility="Collapsed">
+                    <Image x:Name="imgExpandStrip" Source="/Images/btnExpandCircle.png" Width="20" />
+                </Grid>
+                
+                <Image x:Name="imgHeaderImage" Grid.Row="1" Grid.ColumnSpan="2" Width="75" Height="75" VerticalAlignment="Bottom"
+                       Stretch="Uniform" 
+                       HorizontalAlignment="Left"  >
+                    <Image.Effect>
+                        <DropShadowEffect Color="Black" Direction="-45" ShadowDepth="3" BlurRadius="4" />
+                    </Image.Effect>
+                </Image>
+                
+                    
+                <Grid x:Name="gdContentPaneParent" Grid.Row="2" Grid.ColumnSpan="2" Margin="0,-10,0,0" />
+                
+                <Grid x:Name="gdActionButtonsParent" Grid.Row="3" />
+                
+            </Grid>
+        </Border>
+    </Grid>
+</UserControl>

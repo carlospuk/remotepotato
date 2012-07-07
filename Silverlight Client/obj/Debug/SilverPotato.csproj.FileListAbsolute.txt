@@ -1,0 +1,275 @@
+C:\Users\carl\Visual Studio\Projects\RemotePotatoServer\SilverPotato\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\carl\Visual Studio\Projects\RemotePotatoServer\SilverPotato\obj\Debug\XAML\Top Level\App.g.i.cs
+C:\Users\carl\Visual Studio\Projects\RemotePotatoServer\SilverPotato\obj\Debug\XAML\EPG\EPGDayJumpButton.g.i.cs
+C:\Users\carl\Visual Studio\Projects\RemotePotatoServer\SilverPotato\obj\Debug\XAML\Low-Level Xaml\ActivitySpinner.g.i.cs
+C:\Users\carl\Visual Studio\Projects\RemotePotatoServer\SilverPotato\obj\Debug\XAML\EPG\EPGCell.g.i.cs
+C:\Users\carl\Visual Studio\Projects\RemotePotatoServer\SilverPotato\obj\Debug\XAML\EPG\EPGChannelCell.g.i.cs
+C:\Users\carl\Visual Studio\Projects\RemotePotatoServer\SilverPotato\obj\Debug\XAML\EPG\EPGContainer.g.i.cs
+C:\Users\carl\Visual Studio\Projects\RemotePotatoServer\SilverPotato\obj\Debug\XAML\EPG\EPGGrid.g.i.cs
+C:\Users\carl\Visual Studio\Projects\RemotePotatoServer\SilverPotato\obj\Debug\XAML\EPG\EPGTimeMarker.g.i.cs
+C:\Users\carl\Visual Studio\Projects\RemotePotatoServer\SilverPotato\obj\Debug\XAML\Low-Level Xaml\ClickItems\ClickItem.g.i.cs
+C:\Users\carl\Visual Studio\Projects\RemotePotatoServer\SilverPotato\obj\Debug\XAML\Low-Level Xaml\ClickItems\ClickItemsPane.g.i.cs
+C:\Users\carl\Visual Studio\Projects\RemotePotatoServer\SilverPotato\obj\Debug\XAML\Low-Level Xaml\VolumePopupHorizontal.g.i.cs
+C:\Users\carl\Visual Studio\Projects\RemotePotatoServer\SilverPotato\obj\Debug\XAML\Low-Level Xaml\QuestionBox.g.i.cs
+C:\Users\carl\Visual Studio\Projects\RemotePotatoServer\SilverPotato\obj\Debug\XAML\Low-Level Xaml\test.g.i.cs
+C:\Users\carl\Visual Studio\Projects\RemotePotatoServer\SilverPotato\obj\Debug\XAML\Low-Level Xaml\TweenPage.g.i.cs
+C:\Users\carl\Visual Studio\Projects\RemotePotatoServer\SilverPotato\obj\Debug\XAML\Low-Level Xaml\VolumePopup.g.i.cs
+C:\Users\carl\Visual Studio\Projects\RemotePotatoServer\SilverPotato\obj\Debug\XAML\Pages\RemoteControlPane.g.i.cs
+C:\Users\carl\Visual Studio\Projects\RemotePotatoServer\SilverPotato\obj\Debug\XAML\Pages\MovieGuidePage.g.i.cs
+C:\Users\carl\Visual Studio\Projects\RemotePotatoServer\SilverPotato\obj\Debug\XAML\Pages\Music\Chooser.g.i.cs
+C:\Users\carl\Visual Studio\Projects\RemotePotatoServer\SilverPotato\obj\Debug\XAML\Pages\Music\MusicActionButtonsPane.g.i.cs
+C:\Users\carl\Visual Studio\Projects\RemotePotatoServer\SilverPotato\obj\Debug\XAML\Pages\Music\MusicBrowser.g.i.cs
+C:\Users\carl\Visual Studio\Projects\RemotePotatoServer\SilverPotato\obj\Debug\XAML\Pages\Music\ChooserStrip.g.i.cs
+C:\Users\carl\Visual Studio\Projects\RemotePotatoServer\SilverPotato\obj\Debug\XAML\Pages\Music\MusicPlayerPlayer.g.i.cs
+C:\Users\carl\Visual Studio\Projects\RemotePotatoServer\SilverPotato\obj\Debug\XAML\Pages\Music\MusicPlayerWindow.g.i.cs
+C:\Users\carl\Visual Studio\Projects\RemotePotatoServer\SilverPotato\obj\Debug\XAML\Pages\Music\Playlist.g.i.cs
+C:\Users\carl\Visual Studio\Projects\RemotePotatoServer\SilverPotato\obj\Debug\XAML\Pages\Music\PlaylistItemLBI.g.i.cs
+C:\Users\carl\Visual Studio\Projects\RemotePotatoServer\SilverPotato\obj\Debug\XAML\Pages\Music\RootButtonStrip.g.i.cs
+C:\Users\carl\Visual Studio\Projects\RemotePotatoServer\SilverPotato\obj\Debug\XAML\Pages\Music\SongInfoPane.g.i.cs
+C:\Users\carl\Visual Studio\Projects\RemotePotatoServer\SilverPotato\obj\Debug\XAML\Pages\FileBrowsing\FileBrowseFolder.g.i.cs
+C:\Users\carl\Visual Studio\Projects\RemotePotatoServer\SilverPotato\obj\Debug\XAML\Pages\FileBrowsing\FileBrowseRoot.g.i.cs
+C:\Users\carl\Visual Studio\Projects\RemotePotatoServer\SilverPotato\obj\Debug\XAML\Pages\FileBrowsing\Pictures\PictureViewingPage.g.i.cs
+C:\Users\carl\Visual Studio\Projects\RemotePotatoServer\SilverPotato\obj\Debug\XAML\Pages\LoginPage.g.i.cs
+C:\Users\carl\Visual Studio\Projects\RemotePotatoServer\SilverPotato\obj\Debug\XAML\Pages\ProgressWaiter.g.i.cs
+C:\Users\carl\Visual Studio\Projects\RemotePotatoServer\SilverPotato\obj\Debug\XAML\Pages\RecordRequestSettingsPane.g.i.cs
+C:\Users\carl\Visual Studio\Projects\RemotePotatoServer\SilverPotato\obj\Debug\XAML\Pages\RPLogo.g.i.cs
+C:\Users\carl\Visual Studio\Projects\RemotePotatoServer\SilverPotato\obj\Debug\XAML\Pages\StreamingVideoPage.g.i.cs
+C:\Users\carl\Visual Studio\Projects\RemotePotatoServer\SilverPotato\obj\Debug\XAML\Pages\ViewRecordedTVPage.g.i.cs
+C:\Users\carl\Visual Studio\Projects\RemotePotatoServer\SilverPotato\obj\Debug\XAML\Pages\SearchGuidePane.g.i.cs
+C:\Users\carl\Visual Studio\Projects\RemotePotatoServer\SilverPotato\obj\Debug\XAML\Pages\ManageSeriesPage.g.i.cs
+C:\Users\carl\Visual Studio\Projects\RemotePotatoServer\SilverPotato\obj\Debug\XAML\Pages\RPSeriesRequestInfoPane.g.i.cs
+C:\Users\carl\Visual Studio\Projects\RemotePotatoServer\SilverPotato\obj\Debug\XAML\Pages\SettingsPage.g.i.cs
+C:\Users\carl\Visual Studio\Projects\RemotePotatoServer\SilverPotato\obj\Debug\XAML\Pages\ShowInfoPane.g.i.cs
+C:\Users\carl\Visual Studio\Projects\RemotePotatoServer\SilverPotato\obj\Debug\XAML\Low-Level Xaml\LabelButton.g.i.cs
+C:\Users\carl\Visual Studio\Projects\RemotePotatoServer\SilverPotato\obj\Debug\XAML\Pages\TextViewer.g.i.cs
+C:\Users\carl\Visual Studio\Projects\RemotePotatoServer\SilverPotato\obj\Debug\XAML\Pages\ViewScheduledRecordingsPage.g.i.cs
+C:\Users\carl\Visual Studio\Projects\RemotePotatoServer\SilverPotato\obj\Debug\XAML\testfragment.g.i.cs
+C:\Users\carl\Visual Studio\Projects\RemotePotatoServer\SilverPotato\obj\Debug\XAML\Top Level\MainPage.g.i.cs
+C:\Users\carl\Visual Studio\Projects\RemotePotatoServer\SilverPotato\obj\Debug\XAML\Top Level\MainPageBG\LayerBase.g.i.cs
+C:\Users\carl\Visual Studio\Projects\RemotePotatoServer\SilverPotato\obj\Debug\XAML\Top Level\MainPageBG\Shapes\shp_Blob.g.i.cs
+C:\Users\carl\Visual Studio\Projects\RemotePotatoServer\SilverPotato\obj\Debug\XAML\Top Level\MainPageBG\StatusBar\StatusBar.g.i.cs
+C:\Users\carl\Visual Studio\Projects\RemotePotatoServer\SilverPotato\obj\Debug\XAML\Top Level\MainPageBG\StatusBar\TaskBar.g.i.cs
+C:\Users\carl\Visual Studio\Projects\RemotePotatoServer\SilverPotato\obj\Debug\XAML\Top Level\MainPageBG\StatusBar\TaskIcon.g.i.cs
+C:\Users\carl\Visual Studio\Projects\RemotePotatoServer\SilverPotato\obj\Debug\SilverPotato.g.resources
+C:\Users\carl\Visual Studio\Projects\RemotePotatoServer\SilverPotato\Bin\Debug\Images\btnFolderUp.png
+C:\Users\carl\Visual Studio\Projects\RemotePotatoServer\SilverPotato\Bin\Debug\Images\btnFolderUp_MouseOver.png
+C:\Users\carl\Visual Studio\Projects\RemotePotatoServer\SilverPotato\Bin\Debug\Images\btnNavBack_Lit.png
+C:\Users\carl\Visual Studio\Projects\RemotePotatoServer\SilverPotato\Bin\Debug\SilverPotato.dll
+C:\Users\carl\Visual Studio\Projects\RemotePotatoServer\SilverPotato\Bin\Debug\SilverPotato.pdb
+C:\Users\carl\Visual Studio\Projects\RemotePotatoServer\SilverPotato\Bin\Debug\AppManifest.xaml
+C:\Users\carl\Visual Studio\Projects\RemotePotatoServer\SilverPotato\Bin\Debug\SilverPotato.xap
+C:\Users\carl\Visual Studio\Projects\RemotePotatoServer\SilverPotato\Bin\Debug\TestPage.html
+C:\Users\carl\Visual Studio\Projects\RemotePotatoServer\SilverPotato\Bin\Debug\System.Windows.Controls.dll
+C:\Users\carl\Visual Studio\Projects\RemotePotatoServer\SilverPotato\Bin\Debug\System.Windows.Controls.Input.Toolkit.dll
+C:\Users\carl\Visual Studio\Projects\RemotePotatoServer\SilverPotato\Bin\Debug\System.Windows.Controls.Navigation.dll
+C:\Users\carl\Visual Studio\Projects\RemotePotatoServer\SilverPotato\Bin\Debug\System.Windows.Controls.Toolkit.dll
+C:\Users\carl\Visual Studio\Projects\RemotePotatoServer\SilverPotato\Bin\Debug\System.Xml.Serialization.dll
+C:\Users\carl\Visual Studio\Projects\RemotePotatoServer\SilverPotato\Bin\Debug\System.Windows.Controls.Toolkit.Internals.dll
+C:\Users\carl\Visual Studio\Projects\RemotePotatoServer\SilverPotato\Bin\Debug\Cellbi.SvZLib.pdb
+C:\Users\carl\Visual Studio\Projects\RemotePotatoServer\SilverPotato\Bin\Debug\System.Windows.Controls.xml
+C:\Users\carl\Visual Studio\Projects\RemotePotatoServer\SilverPotato\Bin\Debug\System.Windows.Controls.Input.Toolkit.pdb
+C:\Users\carl\Visual Studio\Projects\RemotePotatoServer\SilverPotato\Bin\Debug\System.Windows.Controls.Input.Toolkit.xml
+C:\Users\carl\Visual Studio\Projects\RemotePotatoServer\SilverPotato\Bin\Debug\System.Windows.Controls.Navigation.xml
+C:\Users\carl\Visual Studio\Projects\RemotePotatoServer\SilverPotato\Bin\Debug\System.Windows.Controls.Toolkit.pdb
+C:\Users\carl\Visual Studio\Projects\RemotePotatoServer\SilverPotato\Bin\Debug\System.Windows.Controls.Toolkit.xml
+C:\Users\carl\Visual Studio\Projects\RemotePotatoServer\SilverPotato\Bin\Debug\System.Xml.Serialization.xml
+C:\Users\carl\Visual Studio\Projects\RemotePotatoServer\SilverPotato\Bin\Debug\ar\System.Windows.Controls.resources.dll
+C:\Users\carl\Visual Studio\Projects\RemotePotatoServer\SilverPotato\Bin\Debug\bg\System.Windows.Controls.resources.dll
+C:\Users\carl\Visual Studio\Projects\RemotePotatoServer\SilverPotato\Bin\Debug\ca\System.Windows.Controls.resources.dll
+C:\Users\carl\Visual Studio\Projects\RemotePotatoServer\SilverPotato\Bin\Debug\cs\System.Windows.Controls.resources.dll
+C:\Users\carl\Visual Studio\Projects\RemotePotatoServer\SilverPotato\Bin\Debug\da\System.Windows.Controls.resources.dll
+C:\Users\carl\Visual Studio\Projects\RemotePotatoServer\SilverPotato\Bin\Debug\de\System.Windows.Controls.resources.dll
+C:\Users\carl\Visual Studio\Projects\RemotePotatoServer\SilverPotato\Bin\Debug\el\System.Windows.Controls.resources.dll
+C:\Users\carl\Visual Studio\Projects\RemotePotatoServer\SilverPotato\Bin\Debug\es\System.Windows.Controls.resources.dll
+C:\Users\carl\Visual Studio\Projects\RemotePotatoServer\SilverPotato\Bin\Debug\et\System.Windows.Controls.resources.dll
+C:\Users\carl\Visual Studio\Projects\RemotePotatoServer\SilverPotato\Bin\Debug\eu\System.Windows.Controls.resources.dll
+C:\Users\carl\Visual Studio\Projects\RemotePotatoServer\SilverPotato\Bin\Debug\fi\System.Windows.Controls.resources.dll
+C:\Users\carl\Visual Studio\Projects\RemotePotatoServer\SilverPotato\Bin\Debug\fr\System.Windows.Controls.resources.dll
+C:\Users\carl\Visual Studio\Projects\RemotePotatoServer\SilverPotato\Bin\Debug\he\System.Windows.Controls.resources.dll
+C:\Users\carl\Visual Studio\Projects\RemotePotatoServer\SilverPotato\Bin\Debug\hr\System.Windows.Controls.resources.dll
+C:\Users\carl\Visual Studio\Projects\RemotePotatoServer\SilverPotato\Bin\Debug\hu\System.Windows.Controls.resources.dll
+C:\Users\carl\Visual Studio\Projects\RemotePotatoServer\SilverPotato\Bin\Debug\id\System.Windows.Controls.resources.dll
+C:\Users\carl\Visual Studio\Projects\RemotePotatoServer\SilverPotato\Bin\Debug\it\System.Windows.Controls.resources.dll
+C:\Users\carl\Visual Studio\Projects\RemotePotatoServer\SilverPotato\Bin\Debug\ja\System.Windows.Controls.resources.dll
+C:\Users\carl\Visual Studio\Projects\RemotePotatoServer\SilverPotato\Bin\Debug\ko\System.Windows.Controls.resources.dll
+C:\Users\carl\Visual Studio\Projects\RemotePotatoServer\SilverPotato\Bin\Debug\lt\System.Windows.Controls.resources.dll
+C:\Users\carl\Visual Studio\Projects\RemotePotatoServer\SilverPotato\Bin\Debug\lv\System.Windows.Controls.resources.dll
+C:\Users\carl\Visual Studio\Projects\RemotePotatoServer\SilverPotato\Bin\Debug\ms\System.Windows.Controls.resources.dll
+C:\Users\carl\Visual Studio\Projects\RemotePotatoServer\SilverPotato\Bin\Debug\nl\System.Windows.Controls.resources.dll
+C:\Users\carl\Visual Studio\Projects\RemotePotatoServer\SilverPotato\Bin\Debug\no\System.Windows.Controls.resources.dll
+C:\Users\carl\Visual Studio\Projects\RemotePotatoServer\SilverPotato\Bin\Debug\pl\System.Windows.Controls.resources.dll
+C:\Users\carl\Visual Studio\Projects\RemotePotatoServer\SilverPotato\Bin\Debug\pt\System.Windows.Controls.resources.dll
+C:\Users\carl\Visual Studio\Projects\RemotePotatoServer\SilverPotato\Bin\Debug\pt-BR\System.Windows.Controls.resources.dll
+C:\Users\carl\Visual Studio\Projects\RemotePotatoServer\SilverPotato\Bin\Debug\ro\System.Windows.Controls.resources.dll
+C:\Users\carl\Visual Studio\Projects\RemotePotatoServer\SilverPotato\Bin\Debug\ru\System.Windows.Controls.resources.dll
+C:\Users\carl\Visual Studio\Projects\RemotePotatoServer\SilverPotato\Bin\Debug\sk\System.Windows.Controls.resources.dll
+C:\Users\carl\Visual Studio\Projects\RemotePotatoServer\SilverPotato\Bin\Debug\sl\System.Windows.Controls.resources.dll
+C:\Users\carl\Visual Studio\Projects\RemotePotatoServer\SilverPotato\Bin\Debug\sr-Cyrl-CS\System.Windows.Controls.resources.dll
+C:\Users\carl\Visual Studio\Projects\RemotePotatoServer\SilverPotato\Bin\Debug\sr-Latn-CS\System.Windows.Controls.resources.dll
+C:\Users\carl\Visual Studio\Projects\RemotePotatoServer\SilverPotato\Bin\Debug\sv\System.Windows.Controls.resources.dll
+C:\Users\carl\Visual Studio\Projects\RemotePotatoServer\SilverPotato\Bin\Debug\th\System.Windows.Controls.resources.dll
+C:\Users\carl\Visual Studio\Projects\RemotePotatoServer\SilverPotato\Bin\Debug\tr\System.Windows.Controls.resources.dll
+C:\Users\carl\Visual Studio\Projects\RemotePotatoServer\SilverPotato\Bin\Debug\uk\System.Windows.Controls.resources.dll
+C:\Users\carl\Visual Studio\Projects\RemotePotatoServer\SilverPotato\Bin\Debug\vi\System.Windows.Controls.resources.dll
+C:\Users\carl\Visual Studio\Projects\RemotePotatoServer\SilverPotato\Bin\Debug\zh-Hans\System.Windows.Controls.resources.dll
+C:\Users\carl\Visual Studio\Projects\RemotePotatoServer\SilverPotato\Bin\Debug\zh-Hant\System.Windows.Controls.resources.dll
+C:\Users\carl\Visual Studio\Projects\RemotePotatoServer\SilverPotato\Bin\Debug\de\System.Windows.Controls.Navigation.resources.dll
+C:\Users\carl\Visual Studio\Projects\RemotePotatoServer\SilverPotato\Bin\Debug\es\System.Windows.Controls.Navigation.resources.dll
+C:\Users\carl\Visual Studio\Projects\RemotePotatoServer\SilverPotato\Bin\Debug\fr\System.Windows.Controls.Navigation.resources.dll
+C:\Users\carl\Visual Studio\Projects\RemotePotatoServer\SilverPotato\Bin\Debug\it\System.Windows.Controls.Navigation.resources.dll
+C:\Users\carl\Visual Studio\Projects\RemotePotatoServer\SilverPotato\Bin\Debug\ja\System.Windows.Controls.Navigation.resources.dll
+C:\Users\carl\Visual Studio\Projects\RemotePotatoServer\SilverPotato\Bin\Debug\ko\System.Windows.Controls.Navigation.resources.dll
+C:\Users\carl\Visual Studio\Projects\RemotePotatoServer\SilverPotato\Bin\Debug\ru\System.Windows.Controls.Navigation.resources.dll
+C:\Users\carl\Visual Studio\Projects\RemotePotatoServer\SilverPotato\Bin\Debug\zh-Hans\System.Windows.Controls.Navigation.resources.dll
+C:\Users\carl\Visual Studio\Projects\RemotePotatoServer\SilverPotato\Bin\Debug\zh-Hant\System.Windows.Controls.Navigation.resources.dll
+C:\Users\carl\Visual Studio\Projects\RemotePotatoServer\SilverPotato\Bin\Debug\de\System.Xml.Serialization.resources.dll
+C:\Users\carl\Visual Studio\Projects\RemotePotatoServer\SilverPotato\Bin\Debug\es\System.Xml.Serialization.resources.dll
+C:\Users\carl\Visual Studio\Projects\RemotePotatoServer\SilverPotato\Bin\Debug\fr\System.Xml.Serialization.resources.dll
+C:\Users\carl\Visual Studio\Projects\RemotePotatoServer\SilverPotato\Bin\Debug\it\System.Xml.Serialization.resources.dll
+C:\Users\carl\Visual Studio\Projects\RemotePotatoServer\SilverPotato\Bin\Debug\ja\System.Xml.Serialization.resources.dll
+C:\Users\carl\Visual Studio\Projects\RemotePotatoServer\SilverPotato\Bin\Debug\ko\System.Xml.Serialization.resources.dll
+C:\Users\carl\Visual Studio\Projects\RemotePotatoServer\SilverPotato\Bin\Debug\ru\System.Xml.Serialization.resources.dll
+C:\Users\carl\Visual Studio\Projects\RemotePotatoServer\SilverPotato\Bin\Debug\zh-Hans\System.Xml.Serialization.resources.dll
+C:\Users\carl\Visual Studio\Projects\RemotePotatoServer\SilverPotato\Bin\Debug\zh-Hant\System.Xml.Serialization.resources.dll
+C:\Users\carl\Visual Studio\Projects\RemotePotatoServer\SilverPotato\obj\Debug\SilverPotato.dll
+C:\Users\carl\Visual Studio\Projects\RemotePotatoServer\SilverPotato\obj\Debug\SilverPotato.pdb
+C:\Users\carl\Visual Studio\Projects\RemotePotatoServer\SilverPotato\obj\Debug\XapCacheFile.xml
+C:\Users\carl\Visual Studio\Projects\RemotePotatoServer\SilverPotato\Bin\Debug\FatControls.dll
+C:\Users\carl\Visual Studio\Projects\RemotePotatoServer\SilverPotato\Bin\Debug\SilverliveStreamSource.dll
+C:\Users\carl\Visual Studio\Projects\RemotePotatoServer\SilverPotato\Bin\Debug\FatControls.pdb
+C:\Users\carl\Visual Studio\Projects\RemotePotatoServer\SilverPotato\Bin\Debug\SilverliveStreamSource.pdb
+C:\Users\carl\Visual Studio\Projects\RemotePotatoServer\SilverPotato\Bin\Debug\Cellbi.SvZLib.dll
+D:\Users\Carl\Visual Studio\Projects\RemotePotatoServer\SilverPotato\Bin\Debug\Images\btnFolderUp.png
+D:\Users\Carl\Visual Studio\Projects\RemotePotatoServer\SilverPotato\Bin\Debug\Images\btnFolderUp_MouseOver.png
+D:\Users\Carl\Visual Studio\Projects\RemotePotatoServer\SilverPotato\Bin\Debug\Images\btnNavBack_Lit.png
+D:\Users\Carl\Visual Studio\Projects\RemotePotatoServer\SilverPotato\Bin\Debug\SilverPotato.dll
+D:\Users\Carl\Visual Studio\Projects\RemotePotatoServer\SilverPotato\Bin\Debug\SilverPotato.pdb
+D:\Users\Carl\Visual Studio\Projects\RemotePotatoServer\SilverPotato\Bin\Debug\AppManifest.xaml
+D:\Users\Carl\Visual Studio\Projects\RemotePotatoServer\SilverPotato\Bin\Debug\SilverPotato.xap
+D:\Users\Carl\Visual Studio\Projects\RemotePotatoServer\SilverPotato\Bin\Debug\TestPage.html
+D:\Users\Carl\Visual Studio\Projects\RemotePotatoServer\SilverPotato\Bin\Debug\Cellbi.SvZLib.dll
+D:\Users\Carl\Visual Studio\Projects\RemotePotatoServer\SilverPotato\Bin\Debug\FatControls.dll
+D:\Users\Carl\Visual Studio\Projects\RemotePotatoServer\SilverPotato\Bin\Debug\SilverliveStreamSource.dll
+D:\Users\Carl\Visual Studio\Projects\RemotePotatoServer\SilverPotato\Bin\Debug\System.Windows.Controls.dll
+D:\Users\Carl\Visual Studio\Projects\RemotePotatoServer\SilverPotato\Bin\Debug\System.Windows.Controls.Navigation.dll
+D:\Users\Carl\Visual Studio\Projects\RemotePotatoServer\SilverPotato\Bin\Debug\System.Xml.Serialization.dll
+D:\Users\Carl\Visual Studio\Projects\RemotePotatoServer\SilverPotato\Bin\Debug\Cellbi.SvZLib.pdb
+D:\Users\Carl\Visual Studio\Projects\RemotePotatoServer\SilverPotato\Bin\Debug\SilverliveStreamSource.pdb
+D:\Users\Carl\Visual Studio\Projects\RemotePotatoServer\SilverPotato\Bin\Debug\FatControls.pdb
+D:\Users\Carl\Visual Studio\Projects\RemotePotatoServer\SilverPotato\Bin\Debug\System.Windows.Controls.xml
+D:\Users\Carl\Visual Studio\Projects\RemotePotatoServer\SilverPotato\Bin\Debug\System.Windows.Controls.Navigation.xml
+D:\Users\Carl\Visual Studio\Projects\RemotePotatoServer\SilverPotato\Bin\Debug\System.Xml.Serialization.xml
+D:\Users\Carl\Visual Studio\Projects\RemotePotatoServer\SilverPotato\Bin\Debug\ar\System.Windows.Controls.resources.dll
+D:\Users\Carl\Visual Studio\Projects\RemotePotatoServer\SilverPotato\Bin\Debug\bg\System.Windows.Controls.resources.dll
+D:\Users\Carl\Visual Studio\Projects\RemotePotatoServer\SilverPotato\Bin\Debug\ca\System.Windows.Controls.resources.dll
+D:\Users\Carl\Visual Studio\Projects\RemotePotatoServer\SilverPotato\Bin\Debug\cs\System.Windows.Controls.resources.dll
+D:\Users\Carl\Visual Studio\Projects\RemotePotatoServer\SilverPotato\Bin\Debug\da\System.Windows.Controls.resources.dll
+D:\Users\Carl\Visual Studio\Projects\RemotePotatoServer\SilverPotato\Bin\Debug\de\System.Windows.Controls.resources.dll
+D:\Users\Carl\Visual Studio\Projects\RemotePotatoServer\SilverPotato\Bin\Debug\el\System.Windows.Controls.resources.dll
+D:\Users\Carl\Visual Studio\Projects\RemotePotatoServer\SilverPotato\Bin\Debug\es\System.Windows.Controls.resources.dll
+D:\Users\Carl\Visual Studio\Projects\RemotePotatoServer\SilverPotato\Bin\Debug\et\System.Windows.Controls.resources.dll
+D:\Users\Carl\Visual Studio\Projects\RemotePotatoServer\SilverPotato\Bin\Debug\eu\System.Windows.Controls.resources.dll
+D:\Users\Carl\Visual Studio\Projects\RemotePotatoServer\SilverPotato\Bin\Debug\fi\System.Windows.Controls.resources.dll
+D:\Users\Carl\Visual Studio\Projects\RemotePotatoServer\SilverPotato\Bin\Debug\fr\System.Windows.Controls.resources.dll
+D:\Users\Carl\Visual Studio\Projects\RemotePotatoServer\SilverPotato\Bin\Debug\he\System.Windows.Controls.resources.dll
+D:\Users\Carl\Visual Studio\Projects\RemotePotatoServer\SilverPotato\Bin\Debug\hr\System.Windows.Controls.resources.dll
+D:\Users\Carl\Visual Studio\Projects\RemotePotatoServer\SilverPotato\Bin\Debug\hu\System.Windows.Controls.resources.dll
+D:\Users\Carl\Visual Studio\Projects\RemotePotatoServer\SilverPotato\Bin\Debug\id\System.Windows.Controls.resources.dll
+D:\Users\Carl\Visual Studio\Projects\RemotePotatoServer\SilverPotato\Bin\Debug\it\System.Windows.Controls.resources.dll
+D:\Users\Carl\Visual Studio\Projects\RemotePotatoServer\SilverPotato\Bin\Debug\ja\System.Windows.Controls.resources.dll
+D:\Users\Carl\Visual Studio\Projects\RemotePotatoServer\SilverPotato\Bin\Debug\ko\System.Windows.Controls.resources.dll
+D:\Users\Carl\Visual Studio\Projects\RemotePotatoServer\SilverPotato\Bin\Debug\lt\System.Windows.Controls.resources.dll
+D:\Users\Carl\Visual Studio\Projects\RemotePotatoServer\SilverPotato\Bin\Debug\lv\System.Windows.Controls.resources.dll
+D:\Users\Carl\Visual Studio\Projects\RemotePotatoServer\SilverPotato\Bin\Debug\ms\System.Windows.Controls.resources.dll
+D:\Users\Carl\Visual Studio\Projects\RemotePotatoServer\SilverPotato\Bin\Debug\nl\System.Windows.Controls.resources.dll
+D:\Users\Carl\Visual Studio\Projects\RemotePotatoServer\SilverPotato\Bin\Debug\no\System.Windows.Controls.resources.dll
+D:\Users\Carl\Visual Studio\Projects\RemotePotatoServer\SilverPotato\Bin\Debug\pl\System.Windows.Controls.resources.dll
+D:\Users\Carl\Visual Studio\Projects\RemotePotatoServer\SilverPotato\Bin\Debug\pt\System.Windows.Controls.resources.dll
+D:\Users\Carl\Visual Studio\Projects\RemotePotatoServer\SilverPotato\Bin\Debug\pt-BR\System.Windows.Controls.resources.dll
+D:\Users\Carl\Visual Studio\Projects\RemotePotatoServer\SilverPotato\Bin\Debug\ro\System.Windows.Controls.resources.dll
+D:\Users\Carl\Visual Studio\Projects\RemotePotatoServer\SilverPotato\Bin\Debug\ru\System.Windows.Controls.resources.dll
+D:\Users\Carl\Visual Studio\Projects\RemotePotatoServer\SilverPotato\Bin\Debug\sk\System.Windows.Controls.resources.dll
+D:\Users\Carl\Visual Studio\Projects\RemotePotatoServer\SilverPotato\Bin\Debug\sl\System.Windows.Controls.resources.dll
+D:\Users\Carl\Visual Studio\Projects\RemotePotatoServer\SilverPotato\Bin\Debug\sr-Cyrl-CS\System.Windows.Controls.resources.dll
+D:\Users\Carl\Visual Studio\Projects\RemotePotatoServer\SilverPotato\Bin\Debug\sr-Latn-CS\System.Windows.Controls.resources.dll
+D:\Users\Carl\Visual Studio\Projects\RemotePotatoServer\SilverPotato\Bin\Debug\sv\System.Windows.Controls.resources.dll
+D:\Users\Carl\Visual Studio\Projects\RemotePotatoServer\SilverPotato\Bin\Debug\th\System.Windows.Controls.resources.dll
+D:\Users\Carl\Visual Studio\Projects\RemotePotatoServer\SilverPotato\Bin\Debug\tr\System.Windows.Controls.resources.dll
+D:\Users\Carl\Visual Studio\Projects\RemotePotatoServer\SilverPotato\Bin\Debug\uk\System.Windows.Controls.resources.dll
+D:\Users\Carl\Visual Studio\Projects\RemotePotatoServer\SilverPotato\Bin\Debug\vi\System.Windows.Controls.resources.dll
+D:\Users\Carl\Visual Studio\Projects\RemotePotatoServer\SilverPotato\Bin\Debug\zh-Hans\System.Windows.Controls.resources.dll
+D:\Users\Carl\Visual Studio\Projects\RemotePotatoServer\SilverPotato\Bin\Debug\zh-Hant\System.Windows.Controls.resources.dll
+D:\Users\Carl\Visual Studio\Projects\RemotePotatoServer\SilverPotato\Bin\Debug\de\System.Windows.Controls.Navigation.resources.dll
+D:\Users\Carl\Visual Studio\Projects\RemotePotatoServer\SilverPotato\Bin\Debug\es\System.Windows.Controls.Navigation.resources.dll
+D:\Users\Carl\Visual Studio\Projects\RemotePotatoServer\SilverPotato\Bin\Debug\fr\System.Windows.Controls.Navigation.resources.dll
+D:\Users\Carl\Visual Studio\Projects\RemotePotatoServer\SilverPotato\Bin\Debug\it\System.Windows.Controls.Navigation.resources.dll
+D:\Users\Carl\Visual Studio\Projects\RemotePotatoServer\SilverPotato\Bin\Debug\ja\System.Windows.Controls.Navigation.resources.dll
+D:\Users\Carl\Visual Studio\Projects\RemotePotatoServer\SilverPotato\Bin\Debug\ko\System.Windows.Controls.Navigation.resources.dll
+D:\Users\Carl\Visual Studio\Projects\RemotePotatoServer\SilverPotato\Bin\Debug\ru\System.Windows.Controls.Navigation.resources.dll
+D:\Users\Carl\Visual Studio\Projects\RemotePotatoServer\SilverPotato\Bin\Debug\zh-Hans\System.Windows.Controls.Navigation.resources.dll
+D:\Users\Carl\Visual Studio\Projects\RemotePotatoServer\SilverPotato\Bin\Debug\zh-Hant\System.Windows.Controls.Navigation.resources.dll
+D:\Users\Carl\Visual Studio\Projects\RemotePotatoServer\SilverPotato\Bin\Debug\de\System.Xml.Serialization.resources.dll
+D:\Users\Carl\Visual Studio\Projects\RemotePotatoServer\SilverPotato\Bin\Debug\es\System.Xml.Serialization.resources.dll
+D:\Users\Carl\Visual Studio\Projects\RemotePotatoServer\SilverPotato\Bin\Debug\fr\System.Xml.Serialization.resources.dll
+D:\Users\Carl\Visual Studio\Projects\RemotePotatoServer\SilverPotato\Bin\Debug\it\System.Xml.Serialization.resources.dll
+D:\Users\Carl\Visual Studio\Projects\RemotePotatoServer\SilverPotato\Bin\Debug\ja\System.Xml.Serialization.resources.dll
+D:\Users\Carl\Visual Studio\Projects\RemotePotatoServer\SilverPotato\Bin\Debug\ko\System.Xml.Serialization.resources.dll
+D:\Users\Carl\Visual Studio\Projects\RemotePotatoServer\SilverPotato\Bin\Debug\ru\System.Xml.Serialization.resources.dll
+D:\Users\Carl\Visual Studio\Projects\RemotePotatoServer\SilverPotato\Bin\Debug\zh-Hans\System.Xml.Serialization.resources.dll
+D:\Users\Carl\Visual Studio\Projects\RemotePotatoServer\SilverPotato\Bin\Debug\zh-Hant\System.Xml.Serialization.resources.dll
+D:\Users\Carl\Visual Studio\Projects\RemotePotatoServer\SilverPotato\obj\Debug\ResolveAssemblyReference.cache
+D:\Users\Carl\Visual Studio\Projects\RemotePotatoServer\SilverPotato\obj\Debug\XAML\Top Level\App.g.i.cs
+D:\Users\Carl\Visual Studio\Projects\RemotePotatoServer\SilverPotato\obj\Debug\XAML\EPG\EPGDayJumpButton.g.i.cs
+D:\Users\Carl\Visual Studio\Projects\RemotePotatoServer\SilverPotato\obj\Debug\XAML\EPG\EPGGrid.g.i.cs
+D:\Users\Carl\Visual Studio\Projects\RemotePotatoServer\SilverPotato\obj\Debug\XAML\Low-Level Xaml\ActivitySpinner.g.i.cs
+D:\Users\Carl\Visual Studio\Projects\RemotePotatoServer\SilverPotato\obj\Debug\XAML\EPG\EPGCell.g.i.cs
+D:\Users\Carl\Visual Studio\Projects\RemotePotatoServer\SilverPotato\obj\Debug\XAML\EPG\EPGChannelCell.g.i.cs
+D:\Users\Carl\Visual Studio\Projects\RemotePotatoServer\SilverPotato\obj\Debug\XAML\EPG\EPGContainer.g.i.cs
+D:\Users\Carl\Visual Studio\Projects\RemotePotatoServer\SilverPotato\obj\Debug\XAML\EPG\EPGTimeMarker.g.i.cs
+D:\Users\Carl\Visual Studio\Projects\RemotePotatoServer\SilverPotato\obj\Debug\XAML\Low-Level Xaml\ClickItems\ClickItem.g.i.cs
+D:\Users\Carl\Visual Studio\Projects\RemotePotatoServer\SilverPotato\obj\Debug\XAML\Low-Level Xaml\ClickItems\ClickItemsPane.g.i.cs
+D:\Users\Carl\Visual Studio\Projects\RemotePotatoServer\SilverPotato\obj\Debug\XAML\Low-Level Xaml\VolumePopupHorizontal.g.i.cs
+D:\Users\Carl\Visual Studio\Projects\RemotePotatoServer\SilverPotato\obj\Debug\XAML\Low-Level Xaml\QuestionBox.g.i.cs
+D:\Users\Carl\Visual Studio\Projects\RemotePotatoServer\SilverPotato\obj\Debug\XAML\Low-Level Xaml\test.g.i.cs
+D:\Users\Carl\Visual Studio\Projects\RemotePotatoServer\SilverPotato\obj\Debug\XAML\Low-Level Xaml\TweenPage.g.i.cs
+D:\Users\Carl\Visual Studio\Projects\RemotePotatoServer\SilverPotato\obj\Debug\XAML\Low-Level Xaml\VolumePopup.g.i.cs
+D:\Users\Carl\Visual Studio\Projects\RemotePotatoServer\SilverPotato\obj\Debug\XAML\Pages\RemoteControlPane.g.i.cs
+D:\Users\Carl\Visual Studio\Projects\RemotePotatoServer\SilverPotato\obj\Debug\XAML\Pages\MovieGuidePage.g.i.cs
+D:\Users\Carl\Visual Studio\Projects\RemotePotatoServer\SilverPotato\obj\Debug\XAML\Pages\Music\Chooser.g.i.cs
+D:\Users\Carl\Visual Studio\Projects\RemotePotatoServer\SilverPotato\obj\Debug\XAML\Pages\Music\MusicActionButtonsPane.g.i.cs
+D:\Users\Carl\Visual Studio\Projects\RemotePotatoServer\SilverPotato\obj\Debug\XAML\Pages\Music\MusicBrowser.g.i.cs
+D:\Users\Carl\Visual Studio\Projects\RemotePotatoServer\SilverPotato\obj\Debug\XAML\Pages\Music\ChooserStrip.g.i.cs
+D:\Users\Carl\Visual Studio\Projects\RemotePotatoServer\SilverPotato\obj\Debug\XAML\Pages\Music\MusicPlayerPlayer.g.i.cs
+D:\Users\Carl\Visual Studio\Projects\RemotePotatoServer\SilverPotato\obj\Debug\XAML\Pages\Music\MusicPlayerWindow.g.i.cs
+D:\Users\Carl\Visual Studio\Projects\RemotePotatoServer\SilverPotato\obj\Debug\XAML\Pages\Music\Playlist.g.i.cs
+D:\Users\Carl\Visual Studio\Projects\RemotePotatoServer\SilverPotato\obj\Debug\XAML\Pages\Music\PlaylistItemLBI.g.i.cs
+D:\Users\Carl\Visual Studio\Projects\RemotePotatoServer\SilverPotato\obj\Debug\XAML\Pages\Music\RootButtonStrip.g.i.cs
+D:\Users\Carl\Visual Studio\Projects\RemotePotatoServer\SilverPotato\obj\Debug\XAML\Pages\Music\SongInfoPane.g.i.cs
+D:\Users\Carl\Visual Studio\Projects\RemotePotatoServer\SilverPotato\obj\Debug\XAML\Pages\FileBrowsing\FileBrowseFolder.g.i.cs
+D:\Users\Carl\Visual Studio\Projects\RemotePotatoServer\SilverPotato\obj\Debug\XAML\Pages\FileBrowsing\FileBrowseRoot.g.i.cs
+D:\Users\Carl\Visual Studio\Projects\RemotePotatoServer\SilverPotato\obj\Debug\XAML\Pages\FileBrowsing\Pictures\PictureViewingPage.g.i.cs
+D:\Users\Carl\Visual Studio\Projects\RemotePotatoServer\SilverPotato\obj\Debug\XAML\Pages\LoginPage.g.i.cs
+D:\Users\Carl\Visual Studio\Projects\RemotePotatoServer\SilverPotato\obj\Debug\XAML\Pages\ProgressWaiter.g.i.cs
+D:\Users\Carl\Visual Studio\Projects\RemotePotatoServer\SilverPotato\obj\Debug\XAML\Pages\RecordRequestSettingsPane.g.i.cs
+D:\Users\Carl\Visual Studio\Projects\RemotePotatoServer\SilverPotato\obj\Debug\XAML\Pages\RPLogo.g.i.cs
+D:\Users\Carl\Visual Studio\Projects\RemotePotatoServer\SilverPotato\obj\Debug\XAML\Pages\StreamingVideoPage.g.i.cs
+D:\Users\Carl\Visual Studio\Projects\RemotePotatoServer\SilverPotato\obj\Debug\XAML\Pages\SearchGuidePane.g.i.cs
+D:\Users\Carl\Visual Studio\Projects\RemotePotatoServer\SilverPotato\obj\Debug\XAML\Pages\ManageSeriesPage.g.i.cs
+D:\Users\Carl\Visual Studio\Projects\RemotePotatoServer\SilverPotato\obj\Debug\XAML\Pages\RPSeriesRequestInfoPane.g.i.cs
+D:\Users\Carl\Visual Studio\Projects\RemotePotatoServer\SilverPotato\obj\Debug\XAML\Pages\SettingsPage.g.i.cs
+D:\Users\Carl\Visual Studio\Projects\RemotePotatoServer\SilverPotato\obj\Debug\XAML\Pages\ShowInfoPane.g.i.cs
+D:\Users\Carl\Visual Studio\Projects\RemotePotatoServer\SilverPotato\obj\Debug\XAML\Low-Level Xaml\LabelButton.g.i.cs
+D:\Users\Carl\Visual Studio\Projects\RemotePotatoServer\SilverPotato\obj\Debug\XAML\Pages\TextViewer.g.i.cs
+D:\Users\Carl\Visual Studio\Projects\RemotePotatoServer\SilverPotato\obj\Debug\XAML\Pages\ViewScheduledRecordingsPage.g.i.cs
+D:\Users\Carl\Visual Studio\Projects\RemotePotatoServer\SilverPotato\obj\Debug\XAML\testfragment.g.i.cs
+D:\Users\Carl\Visual Studio\Projects\RemotePotatoServer\SilverPotato\obj\Debug\XAML\Top Level\MainPage.g.i.cs
+D:\Users\Carl\Visual Studio\Projects\RemotePotatoServer\SilverPotato\obj\Debug\XAML\Top Level\MainPageBG\LayerBase.g.i.cs
+D:\Users\Carl\Visual Studio\Projects\RemotePotatoServer\SilverPotato\obj\Debug\XAML\Top Level\MainPageBG\Shapes\shp_Blob.g.i.cs
+D:\Users\Carl\Visual Studio\Projects\RemotePotatoServer\SilverPotato\obj\Debug\XAML\Top Level\MainPageBG\StatusBar\StatusBar.g.i.cs
+D:\Users\Carl\Visual Studio\Projects\RemotePotatoServer\SilverPotato\obj\Debug\XAML\Top Level\MainPageBG\StatusBar\TaskBar.g.i.cs
+D:\Users\Carl\Visual Studio\Projects\RemotePotatoServer\SilverPotato\obj\Debug\XAML\Top Level\MainPageBG\StatusBar\TaskIcon.g.i.cs
+D:\Users\Carl\Visual Studio\Projects\RemotePotatoServer\SilverPotato\obj\Debug\SilverPotato.g.resources
+D:\Users\Carl\Visual Studio\Projects\RemotePotatoServer\SilverPotato\obj\Debug\SilverPotato.dll
+D:\Users\Carl\Visual Studio\Projects\RemotePotatoServer\SilverPotato\obj\Debug\SilverPotato.pdb
+D:\Users\Carl\Visual Studio\Projects\RemotePotatoServer\SilverPotato\obj\Debug\XapCacheFile.xml
+D:\Users\Carl\Visual Studio\Projects\RemotePotatoServer\SilverPotato\obj\Debug\XAML\Pages\RecordedTVPane.g.i.cs

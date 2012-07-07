@@ -1,0 +1,13 @@
+C:\Users\carl\Visual Studio\Projects\MediaStreamer\MediaStreamer\bin\Release\MediaStreamer.dll
+C:\Users\carl\Visual Studio\Projects\MediaStreamer\MediaStreamer\bin\Release\MediaStreamer.pdb
+C:\Users\carl\Visual Studio\Projects\MediaStreamer\MediaStreamer\obj\Release\ResolveAssemblyReference.cache
+C:\Users\carl\Visual Studio\Projects\MediaStreamer\MediaStreamer\obj\Release\MediaStreamer.dll
+C:\Users\carl\Visual Studio\Projects\MediaStreamer\MediaStreamer\obj\Release\MediaStreamer.pdb
+D:\Users\Carl\Visual Studio\Projects\MediaStreamer\MediaStreamer\bin\Release\MediaStreamer.dll
+D:\Users\Carl\Visual Studio\Projects\MediaStreamer\MediaStreamer\bin\Release\MediaStreamer.pdb
+D:\Users\Carl\Visual Studio\Projects\MediaStreamer\MediaStreamer\obj\Release\MediaStreamer.dll
+D:\Users\Carl\Visual Studio\Projects\MediaStreamer\MediaStreamer\obj\Release\MediaStreamer.pdb
+D:\Users\Carl\Visual Studio\Projects\RemotePotatoGitHub\remotepotato\Visual Studio\MediaStreamer\bin\Release\MediaStreamer.dll
+D:\Users\Carl\Visual Studio\Projects\RemotePotatoGitHub\remotepotato\Visual Studio\MediaStreamer\bin\Release\MediaStreamer.pdb
+D:\Users\Carl\Visual Studio\Projects\RemotePotatoGitHub\remotepotato\Visual Studio\MediaStreamer\obj\Release\MediaStreamer.dll
+D:\Users\Carl\Visual Studio\Projects\RemotePotatoGitHub\remotepotato\Visual Studio\MediaStreamer\obj\Release\MediaStreamer.pdb

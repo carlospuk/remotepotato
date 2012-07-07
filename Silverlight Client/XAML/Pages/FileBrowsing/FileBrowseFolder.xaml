@@ -1,0 +1,64 @@
+﻿<UserControl x:Class="SilverPotato.FileBrowseFolder"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d"
+    d:DesignHeight="300" d:DesignWidth="400">
+
+
+    <UserControl.RenderTransform>
+        <TranslateTransform x:Name="ttMover" />
+    </UserControl.RenderTransform>
+    
+    <UserControl.Resources>
+        <ResourceDictionary Source="/SilverPotato;component/resources.xaml" />
+    </UserControl.Resources>
+
+    <Border BorderThickness="2" CornerRadius="8" Background="{StaticResource BlueShine}">
+        <Border.BorderBrush>
+            <RadialGradientBrush GradientOrigin="1,0" RadiusX="1" RadiusY="1">
+                <GradientStop Color="#FFFFFF" Offset="0" />
+                <GradientStop Color="#777777" Offset="1" />
+            </RadialGradientBrush>
+        </Border.BorderBrush>
+
+        <Grid x:Name="LayoutRoot" Margin="20">
+
+            <Grid x:Name="gdContent" Grid.Row="0">
+                <StackPanel Orientation="Horizontal">
+
+                    <Border x:Name="btnFolderUp" Width="24" Height="24" Margin="0,3,5,0" Cursor="Hand" VerticalAlignment="Top"
+                            CornerRadius="4" BorderBrush="Transparent"
+                            BorderThickness="1"
+                            MouseLeftButtonUp="btnFolderUp_MouseLeftButtonUp" 
+                        MouseEnter="ControlButton_MouseEnter" 
+                        MouseLeave="ControlButton_MouseLeave">
+                        
+                        <Image x:Name="imgNavBack" Source="/Images/btnFolderUp.png" Width="20" />
+                    </Border>
+
+
+                    <TextBlock x:Name="lblPageTitle" FontFamily="Tahoma" FontSize="24" Foreground="White"
+                       VerticalAlignment="Top" HorizontalAlignment="Left" Text="Pictures" />
+                    
+                    
+                </StackPanel>
+
+                <TextBlock x:Name="lblNotification" FontFamily="Tahoma" FontSize="14" Foreground="LightGray"
+                       VerticalAlignment="Center" HorizontalAlignment="Center" Margin="0,0,8,5" Text=""
+                           Visibility="Collapsed"
+                           />
+                
+                <TextBlock x:Name="btnShowEmptyFolders" Cursor="Hand" FontFamily="Tahoma" FontSize="12" Foreground="LightBlue"
+                       VerticalAlignment="Bottom" HorizontalAlignment="Right" TextDecorations="Underline" Margin="0,0,8,5" Text="Show empty folders"
+                           MouseLeftButtonUp="btnShowEmptyFolders_MouseLeftButtonUp" Visibility="Collapsed"
+                           />
+
+
+            </Grid>
+
+
+        </Grid>
+    </Border>
+</UserControl>

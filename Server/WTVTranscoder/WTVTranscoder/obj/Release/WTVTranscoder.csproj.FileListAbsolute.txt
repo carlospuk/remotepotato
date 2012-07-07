@@ -1,0 +1,25 @@
+C:\Users\carl\Visual Studio\Projects\WTVTranscoding\Backups\Current Solution - working - pre mp4\WTVTranscoder\bin\Release\WTVTranscoder.dll
+C:\Users\carl\Visual Studio\Projects\WTVTranscoding\Backups\Current Solution - working - pre mp4\WTVTranscoder\bin\Release\WTVTranscoder.pdb
+C:\Users\carl\Visual Studio\Projects\WTVTranscoding\Backups\Current Solution - working - pre mp4\WTVTranscoder\obj\Release\ResolveAssemblyReference.cache
+C:\Users\carl\Visual Studio\Projects\WTVTranscoding\Backups\Current Solution - working - pre mp4\WTVTranscoder\obj\Release\WTVTranscoder.dll
+C:\Users\carl\Visual Studio\Projects\WTVTranscoding\Backups\Current Solution - working - pre mp4\WTVTranscoder\obj\Release\WTVTranscoder.pdb
+C:\Users\carl\Visual Studio\Projects\WTVTranscoding\Current Solution\WTVTranscoder\bin\Release\WTVTranscoder.dll
+C:\Users\carl\Visual Studio\Projects\WTVTranscoding\Current Solution\WTVTranscoder\bin\Release\WTVTranscoder.pdb
+C:\Users\carl\Visual Studio\Projects\WTVTranscoding\Current Solution\WTVTranscoder\bin\Release\DirectShowLib-2005.dll
+C:\Users\carl\Visual Studio\Projects\WTVTranscoding\Current Solution\WTVTranscoder\bin\Release\WindowsMediaLib.dll
+C:\Users\carl\Visual Studio\Projects\WTVTranscoding\Current Solution\WTVTranscoder\obj\Release\ResolveAssemblyReference.cache
+C:\Users\carl\Visual Studio\Projects\WTVTranscoding\Current Solution\WTVTranscoder\obj\Release\WTVTranscoder.dll
+C:\Users\carl\Visual Studio\Projects\WTVTranscoding\Current Solution\WTVTranscoder\obj\Release\WTVTranscoder.pdb
+D:\Users\Carl\Visual Studio\Projects\RemotePotatoServer\GitHub\WTVTranscoder\WTVTranscoder\bin\Release\WTVTranscoder.dll
+D:\Users\Carl\Visual Studio\Projects\RemotePotatoServer\GitHub\WTVTranscoder\WTVTranscoder\bin\Release\WTVTranscoder.pdb
+D:\Users\Carl\Visual Studio\Projects\RemotePotatoServer\GitHub\WTVTranscoder\WTVTranscoder\bin\Release\DirectShowLib-2005.dll
+D:\Users\Carl\Visual Studio\Projects\RemotePotatoServer\GitHub\WTVTranscoder\WTVTranscoder\bin\Release\WindowsMediaLib.dll
+D:\Users\Carl\Visual Studio\Projects\RemotePotatoServer\GitHub\WTVTranscoder\WTVTranscoder\obj\Release\WTVTranscoder.dll
+D:\Users\Carl\Visual Studio\Projects\RemotePotatoServer\GitHub\WTVTranscoder\WTVTranscoder\obj\Release\WTVTranscoder.pdb
+D:\Users\Carl\Visual Studio\Projects\RemotePotatoGitHub\remotepotato\Visual Studio\WTVTranscoder\WTVTranscoder\bin\Release\WTVTranscoder.dll
+D:\Users\Carl\Visual Studio\Projects\RemotePotatoGitHub\remotepotato\Visual Studio\WTVTranscoder\WTVTranscoder\bin\Release\WTVTranscoder.pdb
+D:\Users\Carl\Visual Studio\Projects\RemotePotatoGitHub\remotepotato\Visual Studio\WTVTranscoder\WTVTranscoder\bin\Release\DirectShowLib-2005.dll
+D:\Users\Carl\Visual Studio\Projects\RemotePotatoGitHub\remotepotato\Visual Studio\WTVTranscoder\WTVTranscoder\bin\Release\WindowsMediaLib.dll
+D:\Users\Carl\Visual Studio\Projects\RemotePotatoGitHub\remotepotato\Visual Studio\WTVTranscoder\WTVTranscoder\obj\Release\WTVTranscoder.csprojResolveAssemblyReference.cache
+D:\Users\Carl\Visual Studio\Projects\RemotePotatoGitHub\remotepotato\Visual Studio\WTVTranscoder\WTVTranscoder\obj\Release\WTVTranscoder.dll
+D:\Users\Carl\Visual Studio\Projects\RemotePotatoGitHub\remotepotato\Visual Studio\WTVTranscoder\WTVTranscoder\obj\Release\WTVTranscoder.pdb

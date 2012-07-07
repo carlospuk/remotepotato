@@ -1,0 +1,25 @@
+C:\Users\carl\Visual Studio\Projects\MSEPGDataSource\MSEPGDataSource\bin\Release\MSEPG.dll
+C:\Users\carl\Visual Studio\Projects\MSEPGDataSource\MSEPGDataSource\bin\Release\MSEPG.pdb
+C:\Users\carl\Visual Studio\Projects\MSEPGDataSource\MSEPGDataSource\bin\Release\CommonEPG.dll
+C:\Users\carl\Visual Studio\Projects\MSEPGDataSource\MSEPGDataSource\bin\Release\CommonEPG.pdb
+C:\Users\carl\Visual Studio\Projects\MSEPGDataSource\MSEPGDataSource\obj\Release\ResolveAssemblyReference.cache
+C:\Users\carl\Visual Studio\Projects\MSEPGDataSource\MSEPGDataSource\obj\Release\MSEPG.dll
+C:\Users\carl\Visual Studio\Projects\MSEPGDataSource\MSEPGDataSource\obj\Release\MSEPG.pdb
+D:\Users\Carl\Visual Studio\Projects\RemotePotatoServer\GitHub\MCData\bin\Release\MSEPG.dll
+D:\Users\Carl\Visual Studio\Projects\RemotePotatoServer\GitHub\MCData\bin\Release\MSEPG.pdb
+D:\Users\Carl\Visual Studio\Projects\RemotePotatoServer\GitHub\MCData\bin\Release\CommonEPG.dll
+D:\Users\Carl\Visual Studio\Projects\RemotePotatoServer\GitHub\MCData\bin\Release\BDATunePIA.dll
+D:\Users\Carl\Visual Studio\Projects\RemotePotatoServer\GitHub\MCData\bin\Release\mcstoredb.dll
+D:\Users\Carl\Visual Studio\Projects\RemotePotatoServer\GitHub\MCData\bin\Release\CommonEPG.pdb
+D:\Users\Carl\Visual Studio\Projects\RemotePotatoServer\GitHub\MCData\obj\Release\MSEPG.csprojResolveAssemblyReference.cache
+D:\Users\Carl\Visual Studio\Projects\RemotePotatoServer\GitHub\MCData\obj\Release\MSEPG.dll
+D:\Users\Carl\Visual Studio\Projects\RemotePotatoServer\GitHub\MCData\obj\Release\MSEPG.pdb
+D:\Users\Carl\Visual Studio\Projects\RemotePotatoGitHub\remotepotato\Visual Studio\MCData\bin\Release\MSEPG.dll
+D:\Users\Carl\Visual Studio\Projects\RemotePotatoGitHub\remotepotato\Visual Studio\MCData\bin\Release\MSEPG.pdb
+D:\Users\Carl\Visual Studio\Projects\RemotePotatoGitHub\remotepotato\Visual Studio\MCData\bin\Release\CommonEPG.dll
+D:\Users\Carl\Visual Studio\Projects\RemotePotatoGitHub\remotepotato\Visual Studio\MCData\bin\Release\BDATunePIA.dll
+D:\Users\Carl\Visual Studio\Projects\RemotePotatoGitHub\remotepotato\Visual Studio\MCData\bin\Release\mcstoredb.dll
+D:\Users\Carl\Visual Studio\Projects\RemotePotatoGitHub\remotepotato\Visual Studio\MCData\bin\Release\CommonEPG.pdb
+D:\Users\Carl\Visual Studio\Projects\RemotePotatoGitHub\remotepotato\Visual Studio\MCData\obj\Release\MSEPG.csprojResolveAssemblyReference.cache
+D:\Users\Carl\Visual Studio\Projects\RemotePotatoGitHub\remotepotato\Visual Studio\MCData\obj\Release\MSEPG.dll
+D:\Users\Carl\Visual Studio\Projects\RemotePotatoGitHub\remotepotato\Visual Studio\MCData\obj\Release\MSEPG.pdb

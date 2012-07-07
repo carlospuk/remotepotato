@@ -1,0 +1,50 @@
+﻿<UserControl x:Class="SilverPotato.ClickItem"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation" 
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" >
+    
+        <Border x:Name="brdMain" Cursor="Hand" HorizontalAlignment="Left"  VerticalAlignment="Center" RenderTransformOrigin="0.5,0.5">
+        <Border.RenderTransform>
+            <ScaleTransform x:Name="stMain" ScaleX="1.0" ScaleY="1.0"></ScaleTransform>
+        </Border.RenderTransform>
+
+            <Grid>
+                <Border x:Name="brdThumbnail" Background="Black" BorderBrush="White" BorderThickness="1"
+                        CornerRadius="3" HorizontalAlignment="Left" VerticalAlignment="Top"
+                        Visibility="Collapsed">
+                    <Image x:Name="imgThumbnail" Margin="3" Width="150" Height="120" Stretch="UniformToFill" />
+                </Border>
+                
+
+                <Grid x:Name="gdIconsAndText" VerticalAlignment="Bottom" HorizontalAlignment="Stretch" Width="Auto" Margin="2" >
+                    <Grid.Background>
+                        <SolidColorBrush Color="Black" Opacity="0.2" />
+                    </Grid.Background>
+
+
+                    <Grid.RowDefinitions>
+                        <RowDefinition Height="*" />
+                    </Grid.RowDefinitions>
+
+                    <Grid.ColumnDefinitions >
+                        <ColumnDefinition x:Name="cdIcons" Width="20" />
+                        <ColumnDefinition x:Name="cdText" Width="*" />
+                        <ColumnDefinition x:Name="cdTextRight" Width="36" />
+                    </Grid.ColumnDefinitions>
+
+                    <Image x:Name="imgRecordDot" Grid.Row="0" Grid.Column="0"  HorizontalAlignment="Left" VerticalAlignment="Center" Width="16" Height="16" />
+                    
+                    <TextBlock x:Name="lblText" VerticalAlignment="Center" Grid.Row="0" Grid.Column="1"  TextWrapping="Wrap" TextAlignment="Center"
+                               FontFamily="Arial"
+                               Foreground="#DDDDEE" FontSize="9">The Extraordinary Long Title</TextBlock>
+                    
+                    
+                    <TextBlock x:Name="lblTextRight" VerticalAlignment="Center" Grid.Row="0" Grid.Column="2" TextAlignment="Right"
+                               FontFamily="Arial" Foreground="#DDDDEE" FontSize="9">05:60</TextBlock>
+                    
+                </Grid>
+
+
+            </Grid>
+        </Border>
+    
+</UserControl>

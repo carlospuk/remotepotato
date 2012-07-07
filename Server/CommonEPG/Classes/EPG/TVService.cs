@@ -1,0 +1,102 @@
+﻿using System;
+using System.Collections.Generic;
+
+namespace CommonEPG
+{
+    public class TVService
+    {
+        // Private Members
+        public string UniqueId { get; set; }  // A unique identifier for the channel.  For channels sourced from XMLTV files, see http://xmltv.cvs.sourceforge.net/*checkout*/xmltv/xmltv/xmltv.dtd &  http://www.faqs.org/rfcs/rfc2838.html
+        /// <summary>
+        /// The best internal channel ID within media center on which this service is located
+        /// </summary>
+        public long MCChannelID { get; set; }
+        public string Callsign { get; set; }
+        public bool IsFavorite { get; set; }
+        public double MCChannelNumber { get; set; }
+        public double MCSubChannelNumber { get; set; }
+        public int UserSortOrder { get; set; }
+        public string LogoUri { get; set; }
+        public string FavoriteLineUpNames { get; set; }
+        public long WatchedDuration { get; set; }
+
+        // Deep Clone
+        public TVService DeepCopy()
+        {
+            TVService ds = new TVService();
+            if (! string.IsNullOrEmpty(this.UniqueId))
+                ds.UniqueId = string.Copy(this.UniqueId);
+            ds.MCChannelID = this.MCChannelID;
+            if (!string.IsNullOrEmpty(this.Callsign))
+                ds.Callsign = string.Copy(this.Callsign);
+            ds.IsFavorite = this.IsFavorite;
+            ds.MCChannelNumber = this.MCChannelNumber;
+            ds.MCSubChannelNumber = this.MCSubChannelNumber;
+            ds.UserSortOrder = this.UserSortOrder;
+            if (!string.IsNullOrEmpty(this.LogoUri))
+                ds.LogoUri = string.Copy(this.LogoUri);
+            if (!string.IsNullOrEmpty(this.FavoriteLineUpNames))
+                ds.FavoriteLineUpNames = string.Copy(this.FavoriteLineUpNames);
+            ds.WatchedDuration = this.WatchedDuration;
+
+            return ds;
+        }
+
+        // Constructor
+        public TVService()
+        {
+            this.Callsign = "Empty Channel";
+        }
+
+        // Methods
+        public bool HasCallsign
+        {
+            get
+            {
+                return (String.IsNullOrEmpty(Callsign));
+            }
+        }
+
+        // Helpers
+        public void AddToFavoriteLineUp(string _faveName)
+        {
+            string faveName = string.Copy(_faveName); // not strictly necessary but makes me more at ease
+
+            if (IsInFavoriteLineUp(faveName)) return;
+
+            if (string.IsNullOrEmpty(FavoriteLineUpNames))
+                FavoriteLineUpNames += faveName;
+            else
+            {
+                if (!FavoriteLineUpNames.EndsWith("^"))
+                    FavoriteLineUpNames += "^";
+
+                FavoriteLineUpNames += faveName;
+            }
+        }
+        public bool IsInFavoriteLineUp(string faveName)
+        {
+            List<string> faveNamesArray = FavoriteLineUpNamesList;
+            return (faveNamesArray.Contains(faveName));
+        }
+        public void RemoveFromAllFavoriteLineUps()
+        {
+            FavoriteLineUpNames = "";
+        }
+        public List<string> FavoriteLineUpNamesList
+        {
+            get
+            {
+                List<string> output = new List<string>();
+                if (string.IsNullOrEmpty(FavoriteLineUpNames)) return output;
+
+                String[] faveNames = FavoriteLineUpNames.Split(new char[] { '^' });
+                foreach (string s in faveNames)
+                {
+                    output.Add(s.ToUpper() );
+                }
+                return output;
+            }
+        }
+    }
+}

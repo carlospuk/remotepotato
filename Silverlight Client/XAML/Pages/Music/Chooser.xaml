@@ -1,0 +1,21 @@
+﻿<UserControl x:Class="SilverPotato.Chooser"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation" 
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" >
+
+    <UserControl.Resources>
+        <ResourceDictionary Source="/SilverPotato;component/resources.xaml" />
+    </UserControl.Resources>
+    <Grid x:Name="gdRoot" HorizontalAlignment="Stretch" VerticalAlignment="Stretch"  SizeChanged="Grid_SizeChanged">
+
+        <ScrollViewer VerticalScrollBarVisibility="Hidden" HorizontalScrollBarVisibility="Auto"
+                   BorderThickness="0" Style="{StaticResource kScrollViewerNoPadding}">
+        
+            <StackPanel x:Name="spMaster" Orientation="Horizontal" VerticalAlignment="Stretch"  >
+                
+            </StackPanel>
+        
+        </ScrollViewer>
+    
+    </Grid>
+    
+</UserControl>

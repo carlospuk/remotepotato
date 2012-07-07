@@ -1,0 +1,20 @@
+﻿<UserControl x:Class="SilverPotato.EPGTimeMarker"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation" 
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" VerticalAlignment="Top" >
+
+        <Border x:Name="brdMainBorder" BorderBrush="Black" BorderThickness="0" 
+                Margin="1" Width="200" Height="20" MaxHeight="20" CornerRadius="3" VerticalAlignment="Top">
+            <Border.Background>
+                <LinearGradientBrush StartPoint="0.5,0" EndPoint="0.5,1">
+                    <GradientStop Color="#FFFFFFFF" Offset="0"/>
+                    <GradientStop Color="#FFAAAAAA" Offset="0.75"/>
+                    <GradientStop Color="#FF555555" Offset="1"/>
+                </LinearGradientBrush>
+            </Border.Background>
+        <StackPanel Orientation="Horizontal">
+            <TextBlock x:Name="lblTime" HorizontalAlignment="Left" Text="00:00" Margin="4,2,0,0"
+                       FontFamily="Arial" FontSize="12"  FontWeight="Bold" Foreground="Black"></TextBlock>
+        </StackPanel>
+    </Border>
+    
+</UserControl>

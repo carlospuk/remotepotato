@@ -1,0 +1,138 @@
+﻿<UserControl x:Class="SilverPotato.PictureViewingPage"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation" 
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:my="clr-namespace:SilverPotato"
+             >
+    <Grid x:Name="LayoutRoot" MouseMove="LayoutRoot_MouseMove_1" MouseWheel="LayoutRoot_MouseWheel" MouseLeftButtonUp="LayoutRoot_MouseLeftButtonUp"    >
+        <Grid.Background>
+            <SolidColorBrush Color="#DF000000" />
+            
+        </Grid.Background>
+
+        
+        <Grid x:Name="gdCurrentPicture" MouseMove="gdPictures_MouseMove" MouseLeftButtonDown="gdPictures_MouseLeftButtonDown" MouseLeftButtonUp="gdPictures_MouseLeftButtonUp" Width="600" Height="600" RenderTransformOrigin="0.5,0.5">
+            <Grid.RenderTransform>
+                <ScaleTransform x:Name="scaleTransform" ScaleX="1.0" ScaleY="1.0"></ScaleTransform>
+            </Grid.RenderTransform>
+                        
+            <Image Cursor="Hand" x:Name="imgCurrentPicture" HorizontalAlignment="Stretch" VerticalAlignment="Stretch"
+                   Stretch="Uniform" />
+        </Grid>
+
+        <Grid x:Name="gdOverlayPicture" MouseMove="gdPictures_MouseMove" MouseLeftButtonDown="gdPictures_MouseLeftButtonDown" MouseLeftButtonUp="gdPictures_MouseLeftButtonUp" Width="600" Height="600" RenderTransformOrigin="0.5,0.5">
+            <Grid.RenderTransform>
+                <ScaleTransform x:Name="scaleTransformOverlay" ScaleX="1.0" ScaleY="1.0"></ScaleTransform>
+            </Grid.RenderTransform>
+
+            <Image Cursor="Hand"  x:Name="imgOverlayPicture" HorizontalAlignment="Stretch" VerticalAlignment="Stretch" 
+                  Stretch="Uniform" />
+        </Grid>
+
+
+        <Border x:Name="brdOSDTop" VerticalAlignment="Top" BorderBrush="Black" CornerRadius="10" BorderThickness="1" Margin="8,8,8,0" Height="40" >
+            <Border.Background>
+                <LinearGradientBrush StartPoint="0.5,0" EndPoint="0.5,1" Opacity="0.5">
+                    <GradientStop Color="#AAAAAA" Offset="0" />
+                    <GradientStop Color="#777777" Offset="0.05" />
+                    <GradientStop Color="#222222" Offset="0.5" />
+                </LinearGradientBrush>
+            </Border.Background>
+            <Grid Height="40">
+                <Grid.RowDefinitions>
+                    <RowDefinition Height="*" />
+                </Grid.RowDefinitions>
+
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition Width="40" />
+                    <ColumnDefinition Width="*" />
+                    <ColumnDefinition Width="125" />
+                    <ColumnDefinition Width="170" />
+                    <ColumnDefinition Width="66" />
+                </Grid.ColumnDefinitions>
+
+                <Border x:Name="btnTopNavBack" Grid.Column="0" Cursor="Hand" HorizontalAlignment="Center" Margin="0,-2,0,0"
+                        MouseLeftButtonUp="brdTopNavBack_MouseLeftButtonUp" MouseEnter="btnTopNavBack_MouseEnter" MouseLeave="btnTopNavBack_MouseLeave">
+                    <Image Width="30" Source="/Images/btnBack.png"></Image>
+                </Border>
+
+                <StackPanel Orientation="Horizontal" Grid.Column="1" VerticalAlignment="Center">
+                    <TextBlock x:Name="lblPicTitle" VerticalAlignment="Center" Foreground="Silver" FontSize="20" Text="" />
+                </StackPanel>
+
+                <ComboBox x:Name="cmbPictureQuality" Cursor="Hand"  Background="Black" Grid.Column="2" Width="120" Height="22" FontFamily="Arial" FontSize="12" HorizontalAlignment="Right" SelectedIndex="1"
+                          SelectionChanged="cmbPictureQuality_SelectionChanged">
+                    <ComboBoxItem  Content="Low Quality" />
+                    <ComboBoxItem Content="Medium Quality" />
+                    <ComboBoxItem Content="High Quality" />
+                    <ComboBoxItem Content="Full Quality" />
+                </ComboBox>
+                
+                <StackPanel x:Name="spZoomLevel" Orientation="Horizontal" Grid.Column="3" VerticalAlignment="Center" Margin="0,0,10,0" HorizontalAlignment="Right">
+                    <Image Source="/Images/imgMagGlass.png" Width="16"></Image>
+                    <Slider x:Name="sldZoomLevel" Cursor="Hand" Margin="2,0,0,0" Width="120" Maximum="7.0" Minimum="0.5" SmallChange="0.1" LargeChange="0.2" ValueChanged="sldZoomLevel_ValueChanged"></Slider>
+                </StackPanel>
+
+                <StackPanel Grid.Row="0" Grid.Column="4" HorizontalAlignment="Right" Orientation="Horizontal" Margin="0,0,10,0">
+
+                    <Border x:Name="btnStartStopSlideshow" Margin="1,0,0,0" Cursor="Hand" Width="20" Height="20" CornerRadius="4" BorderBrush="Black" BorderThickness="1"
+                            MouseLeftButtonUp="btnStartStopSlideshow_MouseLeftButtonUp" MouseEnter="ControlButton_MouseEnter" MouseLeave="ControlButton_MouseLeave">
+                        <Border.Background>
+                            <LinearGradientBrush StartPoint="0.8,0" EndPoint="0.5,1">
+                                <GradientStop Color="#DDDDDD" Offset="0" />
+                                <GradientStop Color="#000000" Offset="0.5" />
+                            </LinearGradientBrush>
+                        </Border.Background>
+                        <Grid>
+                            <Rectangle x:Name="rctSlideShowIntervalTime" Fill="LightGreen" Height="0" Width="18" Opacity="0.7" RadiusX="2" RadiusY="2" VerticalAlignment="Bottom"></Rectangle>
+                            <Image x:Name="imgStartStopSlideshow" Source="/Images/btnPlay.png" Width="10" />
+                            
+                        </Grid>
+                    </Border>
+                    
+                    <Border x:Name="btnToggleFullScreen" Margin="5,0,0,0" Cursor="Hand" Width="20" Height="20" CornerRadius="4" BorderBrush="Black" BorderThickness="1" MouseLeftButtonUp="btnToggleFullScreen_MouseLeftButtonUp" MouseEnter="ControlButton_MouseEnter" MouseLeave="ControlButton_MouseLeave">
+                        <Border.Background>
+                            <LinearGradientBrush StartPoint="0.8,0" EndPoint="0.5,1">
+                                <GradientStop Color="#DDDDDD" Offset="0" />
+                                <GradientStop Color="#000000" Offset="0.5" />
+                            </LinearGradientBrush>
+                        </Border.Background>
+                        <Image Source="/Images/btnFullScreen.png" Width="14" />
+                    </Border>
+
+                </StackPanel>
+
+
+
+            </Grid>
+        </Border>
+
+        <Border x:Name="brdOSDbottom" VerticalAlignment="Bottom" Margin="0,0,0,20">
+            <StackPanel Orientation="Vertical">
+            <StackPanel Orientation="Horizontal" HorizontalAlignment="Center" Margin="0,0,0,8">
+                <Border x:Name="btnMovePrev" Cursor="Hand" MouseLeftButtonUp="btnMovePrev_MouseLeftButtonUp" MouseEnter="btnMoveControl_MouseEnter" MouseLeave="btnMoveControl_MouseLeave"  >
+                    <Image Source="/Images/btnBigArrowLeft.png" Width="40" Opacity="0.9" >
+                    <Image.Effect>
+                            <DropShadowEffect x:Name="dropShadowLeftArrow" BlurRadius="3" Color="Black" Direction="-45" Opacity="0.5" ShadowDepth="5" />
+                    </Image.Effect>
+                    </Image>
+                </Border>
+            <Border x:Name="btnMoveNext" Cursor="Hand" MouseLeftButtonUp="btnMoveNext_MouseLeftButtonUp" MouseEnter="btnMoveControl_MouseEnter" MouseLeave="btnMoveControl_MouseLeave" >
+                    <Image Source="/Images/btnBigArrowRight.png" Width="40" Margin="30,0,0,0" Opacity="0.9" >
+                        <Image.Effect>
+                            <DropShadowEffect x:Name="dropShadowRightArrow" BlurRadius="3" Color="Black" Direction="-45" Opacity="0.5" ShadowDepth="5" />
+                        </Image.Effect>
+                    </Image>
+                </Border>
+            </StackPanel>
+                
+                <Grid>
+                    <TextBlock HorizontalAlignment="Center" Foreground="Black" FontFamily="Arial" FontSize="10">Use mouse to zoom or pan</TextBlock>
+                    <TextBlock HorizontalAlignment="Center" Margin="-1,-1,0,0" Foreground="White" FontFamily="Arial" FontSize="10">Use mouse to zoom or pan</TextBlock>
+                </Grid>
+                    
+            </StackPanel>
+        </Border>
+  
+        
+    </Grid>
+</UserControl>

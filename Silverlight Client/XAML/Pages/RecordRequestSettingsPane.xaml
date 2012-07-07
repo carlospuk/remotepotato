@@ -1,0 +1,185 @@
+﻿<UserControl xmlns:my="clr-namespace:System.Windows.Controls;assembly=System.Windows.Controls.Input.Toolkit"  x:Class="SilverPotato.RecordRequestSettingsPane"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation" 
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:SRP="clr-namespace:SilverPotato" 
+             >
+
+    <UserControl.Resources>
+        <ResourceDictionary Source="/SilverPotato;component/resources.xaml" />
+    </UserControl.Resources>
+
+    <Border BorderThickness="1" CornerRadius="8" Background="{StaticResource BlueShine}" Width="400" MinHeight="100" VerticalAlignment="Center">
+        <Border.Effect>
+            <DropShadowEffect ShadowDepth="3"></DropShadowEffect>
+        </Border.Effect>
+
+        <Border.BorderBrush>
+            <RadialGradientBrush GradientOrigin="1,0" RadiusX="1" RadiusY="1">
+                <GradientStop Color="#FFFFFF" Offset="0" />
+                <GradientStop Color="#777777" Offset="1" />
+            </RadialGradientBrush>
+        </Border.BorderBrush>
+
+        <Grid x:Name="LayoutRoot" MaxWidth="400" MaxHeight="440" Margin="2">
+
+                     <StackPanel Grid.Row="0" Orientation="Vertical" Margin="10,10,10,0">
+                <TextBlock x:Name="lblPageTitle" FontFamily="Tahoma" FontSize="30" Foreground="White" VerticalAlignment="Top" HorizontalAlignment="Left">Record Settings</TextBlock>
+                <TextBlock x:Name="lblShowTitle" FontFamily="Arial" FontSize="16" FontWeight="Bold" Foreground="White" TextWrapping="NoWrap" Text="The Show Title." />
+                
+                <Grid x:Name="gdSeriesSettings" Margin="0,20,0,0">
+                    <Grid.RowDefinitions>
+                        <RowDefinition Height="25"></RowDefinition>
+                        <RowDefinition Height="25"></RowDefinition>
+                        <RowDefinition Height="25"></RowDefinition>
+                        <RowDefinition Height="*"></RowDefinition>
+                    </Grid.RowDefinitions>
+
+                    <Grid.ColumnDefinitions>
+                        <ColumnDefinition Width="130" />
+                        <ColumnDefinition Width="*" />
+                    </Grid.ColumnDefinitions>
+
+                    <Grid Grid.Row="0" Grid.ColumnSpan="2" Grid.Column="0" Background="Gray">
+                        <TextBlock Grid.Row="1" Grid.Column="0" Margin="10,0,0,0" FontFamily="Arial" FontWeight="Bold"
+                           FontSize="14" Foreground="White"
+                           VerticalAlignment="Center">Series Settings</TextBlock>
+                    </Grid>
+                    <TextBlock Grid.Row="1" Grid.Column="0"  FontFamily="Arial"
+                           FontSize="12" Foreground="White"
+                           VerticalAlignment="Center">Record:</TextBlock>
+                    <ComboBox x:Name="cmbFirstRunOnly" Grid.Row="1" Grid.Column="1" SelectedIndex="0" Cursor="Hand">
+                        <ComboBoxItem Content="New shows only"></ComboBoxItem>
+                        <ComboBoxItem Content="New shows and repeats"></ComboBoxItem>
+                    </ComboBox>
+
+                    <TextBlock Grid.Row="2" Grid.Column="0"  FontFamily="Arial"
+                           FontSize="12" Foreground="White"
+                           VerticalAlignment="Center">Channel / Time:</TextBlock>
+                    <ComboBox x:Name="cmbSeriesRequestSubType" Grid.Row="2" Grid.Column="1" SelectedIndex="0"  Cursor="Hand">
+                        <ComboBoxItem Content="This channel at this time"></ComboBoxItem>
+                        <ComboBoxItem Content="This channel at any time"></ComboBoxItem>
+                        <ComboBoxItem Content="Any channel at any time"></ComboBoxItem>
+                    </ComboBox>
+
+                </Grid>
+
+
+                <Grid x:Name="gdKeepUntil" Margin="0,10,0,0">
+                    <Grid.RowDefinitions>
+                        <RowDefinition Height="25"></RowDefinition>
+                        <RowDefinition Height="25"></RowDefinition>
+                        <RowDefinition x:Name="rdKeepNumberOfEpisodes" Height="25"></RowDefinition>
+                        <RowDefinition Height="*"></RowDefinition>
+                    </Grid.RowDefinitions>
+
+                    <Grid.ColumnDefinitions>
+                        <ColumnDefinition Width="130" />
+                        <ColumnDefinition Width="*" />
+                    </Grid.ColumnDefinitions>
+
+                    <Grid Grid.Row="0" Grid.ColumnSpan="2" Grid.Column="0" Background="Gray">
+                        <TextBlock Grid.Row="1" Grid.Column="0"  Margin="10,0,0,0" FontFamily="Arial" FontWeight="Bold"
+                           FontSize="14" Foreground="White"
+                           VerticalAlignment="Center">Keep</TextBlock>
+                    </Grid>
+                    <TextBlock Grid.Row="1" Grid.Column="0"  FontFamily="Arial"
+                           FontSize="12" Foreground="White"
+                           VerticalAlignment="Center">Keep until:</TextBlock>
+                    <ComboBox x:Name="cmbKeepUntil" Grid.Row="1" Grid.Column="1" SelectedIndex="0" Cursor="Hand"
+                              SelectionChanged="cmbKeepUntil_SelectionChanged">
+                        <ComboBoxItem Content="&lt;default&gt;"></ComboBoxItem>
+                        <ComboBoxItem Content="Until watched"></ComboBoxItem>
+                        <ComboBoxItem Content="Until I delete"></ComboBoxItem>
+                        <ComboBoxItem Content="Keep this number of episodes:"></ComboBoxItem>
+                    </ComboBox>
+
+                    
+                    <StackPanel Grid.Row="2" Grid.Column="1" Orientation="Horizontal">
+                        <my:NumericUpDown x:Name="nudKeepNumberOfEpisodes" Grid.Column="1" Grid.RowSpan="2" Height="22" Width="50" Cursor="Hand"
+                                                    Maximum="10" Minimum="1"
+                                                Foreground="White"
+                                            HorizontalAlignment="Left" VerticalAlignment="Top" />
+                        <TextBlock x:Name="lblKeepNumberEpisodesSuffix" FontFamily="Arial" Margin="5,0,0,0"
+                           FontSize="12" Foreground="White"
+                           VerticalAlignment="Center">episodes</TextBlock>
+                    </StackPanel>
+                        
+                </Grid>
+
+
+
+                <Grid  x:Name="gdPadding" Margin="0,10,0,0">
+
+                    <Grid.RowDefinitions>
+                        <RowDefinition Height="25"></RowDefinition>
+                        <RowDefinition Height="25"></RowDefinition>
+                        <RowDefinition Height="*"></RowDefinition>
+                    </Grid.RowDefinitions>
+
+                    <Grid.ColumnDefinitions>
+                        <ColumnDefinition Width="130" />
+                        <ColumnDefinition Width="*" />
+                    </Grid.ColumnDefinitions>
+
+
+                    <Grid Grid.Row="0" Grid.ColumnSpan="2" Grid.Column="0" Background="Gray">
+                        <TextBlock Grid.Row="1" Grid.Column="0"  Margin="10,0,0,0" FontFamily="Arial" FontWeight="Bold"
+                           FontSize="14" Foreground="White"
+                           VerticalAlignment="Center">Padding</TextBlock>
+                    </Grid>
+
+                    <TextBlock Grid.Row="1" Grid.Column="0"  FontFamily="Arial"
+                           FontSize="12" Foreground="White"
+                           VerticalAlignment="Center">Start recording:</TextBlock>
+                    <StackPanel Grid.Row="1" Grid.Column="1" Orientation="Horizontal">
+                        <my:NumericUpDown x:Name="nudPrePadding" Grid.Column="1" Grid.RowSpan="2" Height="22" Width="50" Cursor="Hand"
+                                                Foreground="White"
+                                                    Maximum="30" Minimum="0" 
+                                            HorizontalAlignment="Left" VerticalAlignment="Top" />
+                        <TextBlock Grid.Row="1" Grid.Column="0" Margin="6,0,0,0"
+                               FontFamily="Arial" FontSize="12" Foreground="White" 
+                               VerticalAlignment="Center">minutes before show.</TextBlock>
+                    </StackPanel>
+
+                    <TextBlock Grid.Row="2" Grid.Column="0"  FontFamily="Arial"
+                           FontSize="12" Foreground="White"
+                           VerticalAlignment="Center">Stop recording:</TextBlock>
+                    <StackPanel Grid.Row="2" Grid.Column="1" Orientation="Horizontal">
+                        <my:NumericUpDown x:Name="nudPostPadding" Grid.Column="1" Grid.RowSpan="2" Height="22" Width="50" Cursor="Hand"
+                                                Foreground="White"
+                                            HorizontalAlignment="Left" VerticalAlignment="Top"
+                                                    Maximum="30" Minimum="0" />
+                        <TextBlock Grid.Row="2" Grid.Column="0" Margin="6,0,0,0"
+                               FontFamily="Arial" FontSize="12" Foreground="White" 
+                               VerticalAlignment="Center">minutes after show.</TextBlock>
+                    </StackPanel>
+                </Grid>
+
+                <Grid x:Name="gdButtons" Margin="0,10,0,10">
+                    <Grid.RowDefinitions>
+                        <RowDefinition Height="15"></RowDefinition>
+                        <RowDefinition Height="*"></RowDefinition>
+                    </Grid.RowDefinitions>
+
+                    <Grid.ColumnDefinitions>
+                        <ColumnDefinition Width="170" />
+                        <ColumnDefinition Width="*" />
+                    </Grid.ColumnDefinitions>
+
+                    <Button x:Name="btnCancel" Grid.Row="1" Grid.Column="0" Cursor="Hand"
+                            Width="100" Height="25"
+                            HorizontalAlignment="Left"
+                        Content="Cancel" Click="btnCancel_Click" />
+
+                    <Button x:Name="btnAccept" Grid.Row="1" Grid.Column="1" Cursor="Hand"
+                            Width="100" Height="25"
+                            HorizontalAlignment="Right"
+                        Content="Accept" Click="btnAccept_Click" />
+
+                </Grid>
+
+            </StackPanel>
+
+
+        </Grid>
+    </Border>
+</UserControl>

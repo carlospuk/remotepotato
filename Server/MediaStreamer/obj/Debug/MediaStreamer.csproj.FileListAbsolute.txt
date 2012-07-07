@@ -1,0 +1,9 @@
+C:\Users\carl\Visual Studio\Projects\MediaStreamer\MediaStreamer\bin\Debug\MediaStreamer.dll
+C:\Users\carl\Visual Studio\Projects\MediaStreamer\MediaStreamer\bin\Debug\MediaStreamer.pdb
+C:\Users\carl\Visual Studio\Projects\MediaStreamer\MediaStreamer\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\carl\Visual Studio\Projects\MediaStreamer\MediaStreamer\obj\Debug\MediaStreamer.dll
+C:\Users\carl\Visual Studio\Projects\MediaStreamer\MediaStreamer\obj\Debug\MediaStreamer.pdb
+D:\Users\Carl\Visual Studio\Projects\MediaStreamer\MediaStreamer\bin\Debug\MediaStreamer.dll
+D:\Users\Carl\Visual Studio\Projects\MediaStreamer\MediaStreamer\bin\Debug\MediaStreamer.pdb
+D:\Users\Carl\Visual Studio\Projects\MediaStreamer\MediaStreamer\obj\Debug\MediaStreamer.dll
+D:\Users\Carl\Visual Studio\Projects\MediaStreamer\MediaStreamer\obj\Debug\MediaStreamer.pdb

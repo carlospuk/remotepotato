@@ -1,0 +1,113 @@
+﻿<UserControl x:Class="SilverPotato.EPGGrid"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d"
+    d:DesignHeight="300" d:DesignWidth="400">
+    <UserControl.Resources>
+        <ResourceDictionary Source="/SilverPotato;component/resources.xaml" />
+    </UserControl.Resources>
+    
+    
+    <Grid x:Name="LayoutRoot" ShowGridLines="False" VerticalAlignment="Stretch" HorizontalAlignment="Stretch" Height="Auto" Width="Auto">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="23"></RowDefinition>
+            <RowDefinition Height="*"></RowDefinition>
+        </Grid.RowDefinitions>
+
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition x:Name="cdChannels" MinWidth="85" Width="85" MaxWidth="200" />
+            <ColumnDefinition Width="*" />
+        </Grid.ColumnDefinitions>
+
+
+        <Grid Grid.Row="0" Grid.Column="1" VerticalAlignment="Top">
+            <Grid.OpacityMask>
+                <LinearGradientBrush StartPoint="0,0.5" EndPoint="1,0.5">
+                    <GradientStop Color="#00000000" Offset="0"></GradientStop>
+                    <GradientStop Color="#FF000000" Offset="0.03"></GradientStop>
+                    <GradientStop Color="#FF000000" Offset="0.97"></GradientStop>
+                    <GradientStop Color="#00000000" Offset="1"></GradientStop>
+                </LinearGradientBrush>
+            </Grid.OpacityMask>
+
+            <ScrollViewer x:Name="svTimeHeaders" Style="{StaticResource kScrollViewerNoPadding}"  Height="22" VerticalContentAlignment="Top" HorizontalScrollBarVisibility="Hidden" VerticalScrollBarVisibility="Hidden"
+                              HorizontalAlignment="Stretch" VerticalAlignment="Top" BorderThickness="0" >
+                <StackPanel x:Name="spTimeHeaders" Height="22" Orientation="Horizontal" VerticalAlignment="Top">
+                </StackPanel>
+            </ScrollViewer>
+        </Grid>
+
+        <ScrollViewer x:Name="svChannels" Grid.Row="1" Grid.Column="0"  Style="{StaticResource kScrollViewerNoPadding}"  
+                      HorizontalScrollBarVisibility="Hidden" VerticalScrollBarVisibility="Hidden"
+                      Height="Auto" VerticalAlignment="Top" BorderThickness="0" Margin="2,0,2,0"
+                      VerticalContentAlignment="Top" HorizontalContentAlignment="Left"
+                      >
+            <StackPanel x:Name="spChannels" Orientation="Vertical" />
+        </ScrollViewer>
+
+
+
+        <Grid x:Name="gdEPGProgrammes" Grid.Row="1" Grid.Column="1">
+
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="*" />
+                <!--<ColumnDefinition Width="20" /> -->
+            </Grid.ColumnDefinitions>
+
+            <Grid.RowDefinitions>
+                <RowDefinition Height="*" />
+                <!-- <RowDefinition Height="20" /> -->
+            </Grid.RowDefinitions>
+
+
+
+            <!-- Another grid inside so we can also draw a current time line -->
+            <Grid>
+                <!--
+                <Grid.OpacityMask>
+                    <LinearGradientBrush StartPoint="0,0.5" EndPoint="1,0.5">
+                        <GradientStop Color="#00000000" Offset="0"></GradientStop>
+                        <GradientStop Color="#FF000000" Offset="0.03"></GradientStop>
+                        <GradientStop Color="#FF000000" Offset="0.97"></GradientStop>
+                        <GradientStop Color="#00000000" Offset="1"></GradientStop>
+                    </LinearGradientBrush>
+                </Grid.OpacityMask> -->
+
+                <ScrollViewer x:Name="svProgrammes" Grid.Row="0" Grid.Column="0"  Style="{StaticResource kScrollViewerNoPadding}" 
+                              HorizontalScrollBarVisibility="Visible" VerticalScrollBarVisibility="Visible" Width="Auto" Height="Auto" 
+                              VerticalAlignment="Top" BorderThickness="0" >
+                    <!-- Background for mousewheel support -->
+                    <ScrollViewer.Background>
+                        <SolidColorBrush Color="#000000" Opacity="0.01" />
+                    </ScrollViewer.Background>
+
+                    <Grid VerticalAlignment="Top">
+                        <Canvas x:Name="cvChannelStrips" Height="10000" Width="10000" />
+                        <Canvas x:Name="cvCurrentTime" Visibility="Collapsed" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="200,0,0,0" Height="50" Width="1" MaxWidth="10" Opacity="0.5">
+                            <Line Width="2" Height="20000" X1="0" Y1="0" X2="0" Y2="5000" Stroke="Yellow" StrokeDashArray="1,4" StrokeThickness="2"></Line>
+                        </Canvas>
+                    </Grid>
+                </ScrollViewer>
+            </Grid>
+
+
+
+<!--
+
+            <ScrollBar x:Name="sbHorizontal" Grid.Column="0" Grid.Row="1" Background="#000033" Orientation="Horizontal" Height="20" SmallChange="200" 
+                       LargeChange="400" Scroll="sbHorizontal_Scroll" ValueChanged="sbHorizontal_ValueChanged"  />
+            <ScrollBar x:Name="sbVertical" Grid.Column="1" Grid.Row="0" Background="#000033" Opacity="0.8"  Orientation="Vertical" 
+                       Width="20" SmallChange="124" LargeChange="248" Scroll="sbVertical_Scroll" ValueChanged="sbVertical_ValueChanged"  />
+
+-->
+
+
+
+
+        </Grid>
+
+
+    </Grid>
+</UserControl>

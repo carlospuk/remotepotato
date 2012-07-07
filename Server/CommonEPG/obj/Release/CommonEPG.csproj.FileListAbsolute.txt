@@ -1,0 +1,13 @@
+C:\Users\carl\Visual Studio\Projects\CommonEPG\bin\Release\CommonEPG.dll
+C:\Users\carl\Visual Studio\Projects\CommonEPG\bin\Release\CommonEPG.pdb
+C:\Users\carl\Visual Studio\Projects\CommonEPG\obj\Release\ResolveAssemblyReference.cache
+C:\Users\carl\Visual Studio\Projects\CommonEPG\obj\Release\CommonEPG.dll
+C:\Users\carl\Visual Studio\Projects\CommonEPG\obj\Release\CommonEPG.pdb
+D:\Users\Carl\Visual Studio\Projects\RemotePotatoServer\GitHub\CommonEPG\bin\Release\CommonEPG.dll
+D:\Users\Carl\Visual Studio\Projects\RemotePotatoServer\GitHub\CommonEPG\bin\Release\CommonEPG.pdb
+D:\Users\Carl\Visual Studio\Projects\RemotePotatoServer\GitHub\CommonEPG\obj\Release\CommonEPG.dll
+D:\Users\Carl\Visual Studio\Projects\RemotePotatoServer\GitHub\CommonEPG\obj\Release\CommonEPG.pdb
+D:\Users\Carl\Visual Studio\Projects\RemotePotatoGitHub\remotepotato\Visual Studio\CommonEPG\bin\Release\CommonEPG.dll
+D:\Users\Carl\Visual Studio\Projects\RemotePotatoGitHub\remotepotato\Visual Studio\CommonEPG\bin\Release\CommonEPG.pdb
+D:\Users\Carl\Visual Studio\Projects\RemotePotatoGitHub\remotepotato\Visual Studio\CommonEPG\obj\Release\CommonEPG.dll
+D:\Users\Carl\Visual Studio\Projects\RemotePotatoGitHub\remotepotato\Visual Studio\CommonEPG\obj\Release\CommonEPG.pdb
