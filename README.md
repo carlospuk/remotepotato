@@ -6,7 +6,7 @@ See www.remotepotato.com
 
 Build Instructions
 ==================
-Remote Potato is a Visual Studio 2012 solution file. 
+Remote Potato is a Visual Studio 2010 solution file. 
 For Media Center support, you should build Remote Potato on a machine that has Windows 7 Media Center installed so that the required Microsoft libraries mcstore.dll and mcepg.dll can be accessed from their locations in c:\windows\ehome
 Build the solution first, then right-click and build the integrated RemotePotatoSetup project
 
