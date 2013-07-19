@@ -265,8 +265,10 @@ namespace RemotePotatoServer
             string txtPostObjects = "";
             if (Request.HttpMethod.Equals("POST"))
             {
-                StreamReader sr = new StreamReader(Request.InputStream);
-                txtPostObjects = sr.ReadToEnd();
+                using (StreamReader sr = new StreamReader(Request.InputStream))
+                {
+                    txtPostObjects = sr.ReadToEnd();
+                }
             }
             
             // User agent - detect mobile

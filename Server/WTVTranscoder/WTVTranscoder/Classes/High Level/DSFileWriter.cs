@@ -17,11 +17,6 @@ namespace FatAttitude.WTVTranscoder
     public class DSFileWriter : DSTranscoderBase
     {
         private string FileName;
-        private WTVProfileQuality Quality;
-
-        private const int WMGraphNotify = 0x0400 + 13;
-        private const int VolumeFull = 0;
-        private const int VolumeSilence = -10000;
 
         public DSFileWriter() : base()
         {
@@ -31,7 +26,6 @@ namespace FatAttitude.WTVTranscoder
         public DSStreamResultCodes TranscodeFileAsync(string fileName, WTVProfileQuality quality)
         {
             FileName = fileName;
-            Quality = quality;
 
             WTVStreamingVideoRequest strq = new WTVStreamingVideoRequest(FileName, quality, TimeSpan.FromSeconds(0));
 
