@@ -1,6 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
-using System.IO;
+﻿using System.IO;
 using System.Runtime.InteropServices;
 using System.Text;
 
@@ -36,9 +34,10 @@ namespace FatAttitude.Functions
                 
 
                 //TextWriter tw = new StreamWriter(filePath, false, encoding );
-                TextWriter tw = new StreamWriter(filePath);
-                tw.Write(txtContent);
-                tw.Close();
+                using (TextWriter tw = new StreamWriter(filePath))
+                {
+                    tw.Write(txtContent);
+                }
 
                 return true;
             }

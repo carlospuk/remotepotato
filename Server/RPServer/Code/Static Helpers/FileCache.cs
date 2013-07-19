@@ -191,10 +191,10 @@ namespace RemotePotatoServer
             string input;
             try
             {
-                StreamReader sr;
-                sr = File.OpenText(filePath);
-                input = sr.ReadToEnd();
-                sr.Close();
+                using (StreamReader sr = File.OpenText(filePath))
+                {
+                    input = sr.ReadToEnd();
+                }
                 return input;
             }
             catch (Exception e)
@@ -220,14 +220,17 @@ namespace RemotePotatoServer
             }
 
             //FileStream fs = File.OpenRead(filePath);
-            FileStream fs = File.Open(filePath, FileMode.Open, FileAccess.Read, FileShare.ReadWrite);
-            BinaryReader reader = new BinaryReader(fs);
-            byte[] bytes = new byte[fs.Length];
-            int read;
-            while ((read = reader.Read(bytes, 0, bytes.Length)) != 0)
-            { }
-            reader.Close();
-            fs.Close();
+            byte[] bytes;
+            using (FileStream fs = File.Open(filePath, FileMode.Open, FileAccess.Read, FileShare.ReadWrite))
+            {
+                using (BinaryReader reader = new BinaryReader(fs))
+                {
+                    bytes = new byte[fs.Length];
+                    int read;
+                    while ((read = reader.Read(bytes, 0, bytes.Length)) != 0)
+                    { }
+                }
+            }
 
             return bytes;
         }

@@ -76,10 +76,10 @@ namespace RemotePotatoServer
             string input;
             try
             {
-                StreamReader sr;
-                sr = File.OpenText(filePath);
-                input = sr.ReadToEnd();
-                sr.Close();
+                using (StreamReader sr = File.OpenText(filePath))
+                {
+                    input = sr.ReadToEnd();
+                }
                 return input;
             }
             catch (Exception e)

@@ -695,8 +695,10 @@ namespace FatAttitude.WTVTranscoder
             try
             {
                 Assembly _assembly = Assembly.GetExecutingAssembly();
-                StreamReader sr = new StreamReader(_assembly.GetManifestResourceStream(resourcePath));
-                return sr.ReadToEnd();
+                using (StreamReader sr = new StreamReader(_assembly.GetManifestResourceStream(resourcePath)))
+                {
+                    return sr.ReadToEnd();
+                }
             }
             catch
             {
